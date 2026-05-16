@@ -8,6 +8,12 @@
     "Helmet",
     "Guard"
   ],
+  "stats": [
+    "1 Power Scalar",
+    "1 Fortify Scalar",
+    "1 Range Scalar",
+    "1 Def. Rate Scalar"
+  ],
   "dropLocations": [
     "The Deeper Well, NUE, Medium, Wave 3"
   ]

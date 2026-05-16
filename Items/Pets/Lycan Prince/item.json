@@ -11,8 +11,8 @@
   "dropLocations": [
     "Forsaken Temple, Mixed, Massacre, Wave 25",
     "Halloween Ramparts, Survival, Nightmare, Wave 25, Rifted",
-    "Halloween Ramparts, Survival, Massacre, Wave 25, Rifted",
     "Halloween Ramparts, Mixed, Nightmare, Wave 25, Rifted",
+    "The Keep, Campaign, Easy, Wave 5",
     "The Keep, Campaign, Medium, Wave 5",
     "The Keep, Campaign, Hard, Wave 5",
     "The Keep, Campaign, Insane, Wave 5",
@@ -27,6 +27,7 @@
     "The Keep, Survival, Nightmare, Wave 25",
     "The Keep, Survival, Massacre, Wave 15",
     "The Keep, Survival, Massacre, Wave 25",
+    "The Keep, PureStrategy, Easy, Wave 15",
     "The Keep, PureStrategy, Medium, Wave 15",
     "The Keep, Mixed, Easy, Wave 15",
     "The Keep, Mixed, Easy, Wave 25",
@@ -38,9 +39,7 @@
     "The Keep, Mixed, Insane, Wave 25",
     "The Keep, Mixed, Nightmare, Wave 15",
     "The Keep, Mixed, Nightmare, Wave 25",
-    "The Keep, PureStrategy, Easy, Wave 15",
     "The Keep, Mixed, Massacre, Wave 15",
-    "The Keep, Mixed, Massacre, Wave 25",
-    "The Keep, Campaign, Easy, Wave 5"
+    "The Keep, Mixed, Massacre, Wave 25"
   ]
 }

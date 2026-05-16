@@ -10,7 +10,9 @@
   ],
   "stats": [
     "1 Fortify Scalar",
-    "1 Def. Rate Scalar"
+    "1 Def. Rate Scalar",
+    "1 Power Scalar",
+    "1 Range Scalar"
   ],
   "dropLocations": "basic drop"
 }
