@@ -1,0 +1,15 @@
+{
+  "name": "Golden Mista Mine",
+  "description": "Cuts your Move Speed in half but increases cast rate by 50%.",
+  "icon": "Golden Mista Mine.png",
+  "category": "Pets",
+  "type": "Pet",
+  "stats": [
+    "4.75 Vitality Scalar",
+    "4.75 Attack Scalar",
+    "4.75 Ability Scalar"
+  ],
+  "dropLocations": [
+    "Ancient Mines, Survival, Massacre, Wave 100, Rifted"
+  ]
+}

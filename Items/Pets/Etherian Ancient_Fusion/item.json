@@ -1,0 +1,51 @@
+{
+  "name": "Etherian Ancient",
+  "description": "Attacks nearby enemies.",
+  "icon": "Etherian Ancient.png",
+  "category": "Pets",
+  "type": "Pet",
+  "stats": [
+    "3 Vitality Scalar",
+    "2.65 Attack Scalar",
+    "2.65 Ability Scalar"
+  ],
+  "elements": [
+    "100% Fusion"
+  ],
+  "dropLocations": [
+    "The Ramparts, Survival, Easy, Wave 25, Rifted",
+    "The Ramparts, Survival, Nightmare, Wave 25, Rifted",
+    "The Ramparts, Survival, Medium, Wave 25, Rifted",
+    "The Ramparts, PureStrategy, Insane, Wave 25, Rifted",
+    "The Ramparts, Survival, Hard, Wave 25, Rifted",
+    "The Ramparts, Mixed, Easy, Wave 25, Rifted",
+    "The Ramparts, Survival, Insane, Wave 25, Rifted",
+    "The Ramparts, PureStrategy, Hard, Wave 25, Rifted",
+    "The Ramparts, Survival, Nightmare, Wave 15, Rifted",
+    "The Ramparts, PureStrategy, Easy, Wave 25, Rifted",
+    "The Ramparts, Mixed, Medium, Wave 25, Rifted",
+    "The Ramparts, Mixed, Hard, Wave 25, Rifted",
+    "The Ramparts, Mixed, Insane, Wave 25, Rifted",
+    "The Ramparts, Mixed, Nightmare, Wave 15, Rifted",
+    "The Ramparts, Mixed, Nightmare, Wave 25, Rifted",
+    "The Throne Room, Survival, Nightmare, Wave 25, Rifted",
+    "The Throne Room, PureStrategy, Easy, Wave 25, Rifted",
+    "The Throne Room, PureStrategy, Insane, Wave 25, Rifted",
+    "The Throne Room, PureStrategy, Hard, Wave 25, Rifted",
+    "The Throne Room, Mixed, Easy, Wave 25, Rifted",
+    "The Throne Room, Survival, Easy, Wave 25, Rifted",
+    "The Throne Room, Mixed, Medium, Wave 25, Rifted",
+    "The Throne Room, Survival, Medium, Wave 25, Rifted",
+    "The Throne Room, Mixed, Hard, Wave 25, Rifted",
+    "The Throne Room, Survival, Hard, Wave 25, Rifted",
+    "The Throne Room, Mixed, Insane, Wave 25, Rifted",
+    "The Throne Room, Survival, Insane, Wave 25, Rifted",
+    "The Throne Room, Mixed, Nightmare, Wave 15, Rifted",
+    "The Throne Room, Survival, Nightmare, Wave 15, Rifted",
+    "The Throne Room, Mixed, Nightmare, Wave 25, Rifted",
+    "Tornado High Lands, Survival, Massacre, Wave 15, Rifted",
+    "Tornado High Lands, Survival, Massacre, Wave 25, Rifted",
+    "Tornado High Lands, Mixed, Massacre, Wave 15, Rifted",
+    "Tornado High Lands, Mixed, Massacre, Wave 25, Rifted"
+  ]
+}

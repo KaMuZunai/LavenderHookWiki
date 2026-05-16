@@ -1,0 +1,8 @@
+{
+  "name": "Battle Axe",
+  "description": "",
+  "icon": "Battle Axe.png",
+  "category": "Weapons",
+  "type": "Sword",
+  "dropLocations": "basic drop"
+}

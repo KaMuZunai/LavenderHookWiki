@@ -1,0 +1,8 @@
+{
+  "name": "Hawkeye Crossbow",
+  "description": "",
+  "icon": "Hawkeye Crossbow.png",
+  "category": "Weapons",
+  "type": "Crossbow",
+  "dropLocations": "basic drop"
+}

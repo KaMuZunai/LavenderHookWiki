@@ -1,0 +1,16 @@
+{
+  "name": "Lil' Bomber",
+  "description": "Projectiles Explode, dealing damage to nearby enemies. Prioritizes stronger enemies.",
+  "icon": "Lil' Bomber.png",
+  "category": "Pets",
+  "type": "Pet",
+  "stats": [
+    "2.65 Vitality Scalar",
+    "2.65 Attack Scalar",
+    "2.65 Ability Scalar"
+  ],
+  "elements": [
+    "100% Fusion"
+  ],
+  "dropLocations": "basic drop"
+}

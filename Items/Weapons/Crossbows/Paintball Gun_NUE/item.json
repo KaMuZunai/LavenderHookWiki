@@ -1,0 +1,16 @@
+{
+  "name": "Paintball Gun",
+  "description": "",
+  "icon": "Paintball Gun.png",
+  "category": "Weapons",
+  "type": "Crossbow",
+  "elements": [
+    "100% Electric"
+  ],
+  "dropLocations": [
+    "The Deeper Well, NUE, Medium, Wave 2",
+    "The Deeper Well, Campaign, Easy, Wave 2",
+    "The Deeper Well, Campaign, Medium, Wave 2",
+    "The Deeper Well, Campaign, Hard, Wave 2"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Fused Plasma Mauler",
+  "description": "",
+  "icon": "Fused Plasma Mauler.png",
+  "category": "Weapons",
+  "type": "Polearm",
+  "subtype": [
+    "Polearm"
+  ],
+  "elements": [
+    "100% Fusion"
+  ],
+  "dropLocations": "basic drop"
+}

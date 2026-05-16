@@ -1,0 +1,10 @@
+{
+  "name": "Shield Explosion",
+  "description": "Shield Throw explodes on hit, dealing % of it's normal damage to all nearby enemies and increases number of Bounces by .",
+  "icon": "Shield Explosion.png",
+  "category": "Runes",
+  "type": "Rune",
+  "dropLocations": [
+    "The Promenade, Campaign, 50%"
+  ]
+}

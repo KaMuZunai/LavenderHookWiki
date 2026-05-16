@@ -1,0 +1,22 @@
+{
+  "name": "Golden Monkey King",
+  "description": "Attacks nearby enemies. Consecutive Hits on the same enemy Improve Damage.",
+  "icon": "Golden Monkey King.png",
+  "category": "Pets",
+  "type": "Pet",
+  "stats": [
+    "3.25 Vitality Scalar",
+    "2.8 Attack Scalar",
+    "2.8 Ability Scalar"
+  ],
+  "elements": [
+    "20% Electric",
+    "20% Element.Attunement.Armored",
+    "20% Fire",
+    "20% Physical",
+    "20% Poison"
+  ],
+  "dropLocations": [
+    "Endless Spires, Survival, Massacre, Wave 100, Rifted"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Targeted Mana Bomb",
+  "description": "Mana Bomb becomes a ground targeted ability that can be casted at upto  range.",
+  "icon": "Targeted Mana Bomb.png",
+  "category": "Runes",
+  "type": "Rune",
+  "dropLocations": [
+    "Glitterhelm, Campaign, 50%"
+  ]
+}

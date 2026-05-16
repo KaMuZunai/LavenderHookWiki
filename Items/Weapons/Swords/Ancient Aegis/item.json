@@ -1,0 +1,8 @@
+{
+  "name": "Ancient Aegis",
+  "description": "",
+  "icon": "Ancient Aegis.png",
+  "category": "Weapons",
+  "type": "Sword",
+  "dropLocations": "basic drop"
+}

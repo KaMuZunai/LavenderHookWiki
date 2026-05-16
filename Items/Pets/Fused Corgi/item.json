@@ -1,0 +1,40 @@
+{
+  "name": "Fused Corgi",
+  "description": "He's Such a Good Boy! Provides the Hero with an EXTRA jump, and increases Hero cast rate by 40%, Provides 5% Rift Armor",
+  "icon": "Fused Corgi.png",
+  "category": "Pets",
+  "type": "Pet",
+  "stats": [
+    "2.75 Vitality Scalar",
+    "2.75 Attack Scalar",
+    "2.75 Ability Scalar"
+  ],
+  "dropLocations": [
+    "Alchemical Laboratory, Survival, Massacre, Wave 250, Rifted",
+    "Ancient Mines, Survival, Massacre, Wave 250, Rifted",
+    "Arcane Library, Survival, Massacre, Wave 250, Rifted",
+    "Castle Armory, Survival, Massacre, Wave 250, Rifted",
+    "Endless Spires, Survival, Massacre, Wave 250, Rifted",
+    "Forsaken Temple, Survival, Massacre, Wave 250, Rifted",
+    "Foundries And Forges, Survival, Massacre, Wave 250, Rifted",
+    "Glitterhelm, Survival, Massacre, Wave 250, Rifted",
+    "Halloween Ramparts, Survival, Massacre, Wave 250, Rifted",
+    "Kings Game, Survival, Massacre, Wave 250, Rifted",
+    "Lava Mines, Survival, Massacre, Wave 250, Rifted",
+    "Magus Quarters, Survival, Massacre, Wave 250, Rifted",
+    "Royal Gardens, Survival, Massacre, Wave 250, Rifted",
+    "The Bazaar, Survival, Massacre, Wave 250, Rifted",
+    "The Deeper Well, Survival, Massacre, Wave 250, Rifted",
+    "The Keep, Survival, Massacre, Wave 250, Rifted",
+    "The Lost Metropolis, Survival, Massacre, Wave 250, Rifted",
+    "The Mill, Survival, Massacre, Wave 250, Rifted",
+    "The Outpost, Survival, Massacre, Wave 250, Rifted",
+    "The Promenade, Survival, Massacre, Wave 250, Rifted",
+    "The Ramparts, Survival, Massacre, Wave 250, Rifted",
+    "The Summit, Survival, Massacre, Wave 250, Rifted",
+    "The Throne Room, Survival, Massacre, Wave 250, Rifted",
+    "Tornado High Lands, Survival, Massacre, Wave 250, Rifted",
+    "Tornado Valley, Survival, Massacre, Wave 250, Rifted",
+    "Viking Winter, Survival, Massacre, Wave 250, Rifted"
+  ]
+}

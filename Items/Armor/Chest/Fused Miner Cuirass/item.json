@@ -1,0 +1,18 @@
+{
+  "name": "Fused Miner Cuirass",
+  "description": "",
+  "icon": "Fused Miner Cuirass.png",
+  "category": "Armor",
+  "type": "Chest",
+  "subtype": [
+    "Chest",
+    "Miner"
+  ],
+  "stats": [
+    "1 Fortify Scalar"
+  ],
+  "elements": [
+    "100% Fusion"
+  ],
+  "dropLocations": "basic drop"
+}

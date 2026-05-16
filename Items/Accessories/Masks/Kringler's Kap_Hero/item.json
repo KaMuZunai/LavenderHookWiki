@@ -1,0 +1,23 @@
+{
+  "name": "Kringler's Kap",
+  "description": "Worn by the jolliest of defenders, its magic grows stronger the closer winter draws.",
+  "icon": "Kringler's Kap.png",
+  "category": "Accessories",
+  "type": "Mask",
+  "stats": [
+    "0.45 Vitality Scalar",
+    "0.45 Power Scalar",
+    "0.45 Attack Scalar",
+    "0.45 Ability Scalar"
+  ],
+  "dropLocations": [
+    "Viking Winter, Mixed, Easy, Wave 15",
+    "Viking Winter, Mixed, Easy, Wave 25",
+    "Viking Winter, Mixed, Medium, Wave 15",
+    "Viking Winter, Mixed, Medium, Wave 25",
+    "Viking Winter, Mixed, Hard, Wave 15",
+    "Viking Winter, Mixed, Hard, Wave 25",
+    "Viking Winter, Mixed, Massacre, Wave 15",
+    "Viking Winter, Mixed, Massacre, Wave 25"
+  ]
+}

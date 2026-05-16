@@ -1,0 +1,16 @@
+{
+  "name": "Paddy's Lucky Cap",
+  "description": "Luck not included. Results may vary.",
+  "icon": "Paddy's Lucky Cap.png",
+  "category": "Accessories",
+  "type": "Mask",
+  "stats": [
+    "0.45 Vitality Scalar",
+    "0.45 Power Scalar",
+    "0.45 Attack Scalar",
+    "0.45 Ability Scalar"
+  ],
+  "dropLocations": [
+    "Royal Gardens, Mixed, Massacre, Wave 25"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Primitive Bulwark",
+  "description": "",
+  "icon": "Primitive Bulwark.png",
+  "category": "Armor",
+  "type": "Chest",
+  "subtype": [
+    "Chest",
+    "Primitive"
+  ],
+  "stats": [
+    "1 Fortify Scalar",
+    "1 Def. Rate Scalar"
+  ],
+  "dropLocations": "basic drop"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Dice Pet",
+  "description": "Attacks nearby enemies and deals damage with a chance to crit. On a successful crit restores ability mana.\r\n\r\nAdditionally increases cast rate by 10%.",
+  "icon": "Dice Pet.png",
+  "category": "Pets",
+  "type": "Pet",
+  "stats": [
+    "5 Vitality Scalar",
+    "4.75 Attack Scalar",
+    "4.75 Ability Scalar"
+  ],
+  "elements": [
+    "100% Fusion"
+  ],
+  "dropLocations": [
+    "Kings Game, Survival, Easy, Wave 25, Rifted",
+    "Kings Game, Survival, Medium, Wave 25, Rifted",
+    "Kings Game, Survival, Hard, Wave 25, Rifted",
+    "Kings Game, Survival, Insane, Wave 25, Rifted",
+    "Kings Game, Survival, Nightmare, Wave 25, Rifted",
+    "Kings Game, Survival, Massacre, Wave 15, Rifted",
+    "Kings Game, Survival, Massacre, Wave 25, Rifted",
+    "Kings Game, Mixed, Easy, Wave 25, Rifted",
+    "Kings Game, Mixed, Medium, Wave 25, Rifted",
+    "Kings Game, Mixed, Hard, Wave 25, Rifted",
+    "Kings Game, Mixed, Insane, Wave 25, Rifted",
+    "Kings Game, Mixed, Nightmare, Wave 25, Rifted",
+    "Kings Game, Mixed, Massacre, Wave 15, Rifted",
+    "Kings Game, Mixed, Massacre, Wave 25, Rifted",
+    "Viking Winter, Survival, Nightmare, Wave 15, Rifted",
+    "Viking Winter, Mixed, Nightmare, Wave 15, Rifted"
+  ]
+}

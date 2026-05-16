@@ -1,0 +1,15 @@
+{
+  "name": "Enchanted Battlestaff",
+  "description": "",
+  "icon": "Enchanted Battlestaff.png",
+  "category": "Weapons",
+  "type": "Staff",
+  "elements": [
+    "100% Fire"
+  ],
+  "dropLocations": [
+    "Glitterhelm, Challenge, Easy, Wave 6",
+    "Glitterhelm, Challenge, Medium, Wave 6",
+    "Glitterhelm, Challenge, Hard, Wave 6"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Obsidian Gemstone",
+  "description": "Your next attack Nullifies and reduces the Armor of all enemies hit for 4Ⅹ. 10Ⅹ cooldown.",
+  "icon": "Obsidian Gemstone.png",
+  "category": "Pets",
+  "type": "Pet",
+  "stats": [
+    "1.75 Vitality Scalar",
+    "1.75 Attack Scalar",
+    "1.75 Ability Scalar"
+  ],
+  "dropLocations": [
+    "The Throne Room, Survival, Insane, Wave 25",
+    "The Throne Room, Survival, Nightmare, Wave 25",
+    "The Throne Room, Survival, Massacre, Wave 25",
+    "The Throne Room, Mixed, Easy, Wave 25",
+    "The Throne Room, Mixed, Medium, Wave 25",
+    "The Throne Room, Mixed, Hard, Wave 25",
+    "The Throne Room, Mixed, Insane, Wave 25",
+    "The Throne Room, Mixed, Nightmare, Wave 25",
+    "The Throne Room, Mixed, Massacre, Wave 25",
+    "Tornado Valley, Challenge, Easy, Wave 5",
+    "Tornado Valley, Challenge, Medium, Wave 5",
+    "Tornado Valley, Challenge, Hard, Wave 5",
+    "Tornado Valley, Challenge, Insane, Wave 5",
+    "Tornado Valley, Challenge, Nightmare, Wave 5",
+    "Tornado Valley, Challenge, Massacre, Wave 5"
+  ]
+}

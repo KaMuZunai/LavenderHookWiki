@@ -1,0 +1,16 @@
+{
+  "name": "Mobile Moxie",
+  "description": "Add some backbone to your Defense.",
+  "icon": "Mobile Moxie.png",
+  "category": "Weapons",
+  "type": "Sword",
+  "elements": [
+    "100% Poison"
+  ],
+  "dropLocations": [
+    "The Deeper Well, Challenge, Insane, Wave 8",
+    "The Deeper Well, Challenge, Nightmare, Wave 8",
+    "The Deeper Well, Challenge, Massacre, Wave 8",
+    "The Deeper Well, Challenge, Medium, Wave 8"
+  ]
+}

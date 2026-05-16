@@ -1,0 +1,11 @@
+{
+  "name": "Protean Blaster",
+  "description": "",
+  "icon": "Protean Blaster.png",
+  "category": "Weapons",
+  "type": "Crossbow",
+  "elements": [
+    "100% Poison"
+  ],
+  "dropLocations": []
+}

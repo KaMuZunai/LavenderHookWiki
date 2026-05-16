@@ -1,0 +1,15 @@
+{
+  "name": "Golden Propeller Cat",
+  "description": "Improve the Damage of nearby heroes.",
+  "icon": "Golden Propeller Cat.png",
+  "category": "Pets",
+  "type": "Pet",
+  "stats": [
+    "2.25 Vitality Scalar",
+    "3 Attack Scalar",
+    "2.25 Ability Scalar"
+  ],
+  "dropLocations": [
+    "Alchemical Laboratory, Survival, Massacre, Wave 100, Rifted"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Fused Blasticus",
+  "description": "My little friend.",
+  "icon": "Fused Blasticus.png",
+  "category": "Weapons",
+  "type": "Crossbow",
+  "elements": [
+    "100% Fusion"
+  ],
+  "dropLocations": [
+    "Endless Spires, Challenge, Easy, Wave 1",
+    "Endless Spires, Challenge, Medium, Wave 1",
+    "Endless Spires, Challenge, Hard, Wave 1",
+    "Endless Spires, Challenge, Insane, Wave 1",
+    "Endless Spires, Challenge, Massacre, Wave 1",
+    "Endless Spires, Challenge, Nightmare, Wave 1"
+  ]
+}

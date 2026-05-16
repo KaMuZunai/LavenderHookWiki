@@ -1,0 +1,18 @@
+{
+  "name": "Grenadier",
+  "description": "Projectiles Explode, dealing damage to nearby enemies.",
+  "icon": "Grenadier.png",
+  "category": "Weapons",
+  "type": "Crossbow",
+  "elements": [
+    "100% Electric"
+  ],
+  "dropLocations": [
+    "The Throne Room, Campaign, Insane, Wave 5",
+    "The Throne Room, Campaign, Nightmare, Wave 5",
+    "The Throne Room, Survival, Insane, Wave 25",
+    "The Throne Room, Survival, Nightmare, Wave 25",
+    "The Throne Room, Mixed, Insane, Wave 25",
+    "The Throne Room, Mixed, Nightmare, Wave 25"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Fused The Eggscelent Blade",
+  "description": "Shatters your enemies like eggshells.",
+  "icon": "Fused The Eggscelent Blade.png",
+  "category": "Weapons",
+  "type": "Sword",
+  "elements": [
+    "100% Fusion"
+  ],
+  "dropLocations": [
+    "The Throne Room, Challenge, Easy, Wave 5",
+    "The Throne Room, Challenge, Medium, Wave 5",
+    "The Throne Room, Challenge, Hard, Wave 5",
+    "The Throne Room, Challenge, Insane, Wave 5",
+    "The Throne Room, Challenge, Massacre, Wave 5",
+    "The Throne Room, Challenge, Nightmare, Wave 5"
+  ]
+}

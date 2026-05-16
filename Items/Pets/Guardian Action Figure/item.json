@@ -1,0 +1,15 @@
+{
+  "name": "Guardian Action Figure",
+  "description": "Improve the Armor of nearby defenses. Note this pet gives 10% more of a boost compared to a regular gemstone.",
+  "icon": "Guardian Action Figure.png",
+  "category": "Pets",
+  "type": "Pet",
+  "stats": [
+    "0.75 Def. Rate Scalar",
+    "0.75 Power Scalar",
+    "0.75 Fortify Scalar"
+  ],
+  "dropLocations": [
+    "Forsaken Temple, PureStrategy, Massacre, Wave 25"
+  ]
+}

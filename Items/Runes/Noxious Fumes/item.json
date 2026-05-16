@@ -1,0 +1,10 @@
+{
+  "name": "Noxious Fumes",
+  "description": "Poison Trap is now limited to  targets but causes those enemies to take % more damage.",
+  "icon": "Noxious Fumes.png",
+  "category": "Runes",
+  "type": "Rune",
+  "dropLocations": [
+    "Alchemical Laboratory, Campaign, 41.67%"
+  ]
+}

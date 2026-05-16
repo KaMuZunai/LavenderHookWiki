@@ -1,0 +1,14 @@
+{
+  "name": "Fused Ancient Pudao",
+  "description": "",
+  "icon": "Fused Ancient Pudao.png",
+  "category": "Weapons",
+  "type": "Polearm",
+  "subtype": [
+    "Polearm"
+  ],
+  "elements": [
+    "100% Fusion"
+  ],
+  "dropLocations": "basic drop"
+}

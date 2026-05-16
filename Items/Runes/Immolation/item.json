@@ -1,0 +1,10 @@
+{
+  "name": "Immolation",
+  "description": "Heat Cannon applies a fire DoT onto enemies dealing % tower damage every second for  seconds.",
+  "icon": "Immolation.png",
+  "category": "Runes",
+  "type": "Rune",
+  "dropLocations": [
+    "The Promenade, Campaign, 25%"
+  ]
+}

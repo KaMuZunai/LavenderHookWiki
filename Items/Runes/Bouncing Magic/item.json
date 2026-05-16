@@ -1,0 +1,10 @@
+{
+  "name": "Bouncing Magic",
+  "description": "Magic Missile Projectiles deal % more damage and bounces up to  additional targets.",
+  "icon": "Bouncing Magic.png",
+  "category": "Runes",
+  "type": "Rune",
+  "dropLocations": [
+    "Royal Gardens, Campaign, 25%"
+  ]
+}

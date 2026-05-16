@@ -1,0 +1,22 @@
+{
+  "name": "Paddy's Lucky Cap",
+  "description": "Luck not included. Results may vary.",
+  "icon": "Paddy's Lucky Cap.png",
+  "category": "Accessories",
+  "type": "Mask",
+  "stats": [
+    "0.45 Fortify Scalar",
+    "0.45 Power Scalar",
+    "0.45 Range Scalar",
+    "0.45 Def. Rate Scalar"
+  ],
+  "dropLocations": [
+    "Royal Gardens, Survival, Easy, Wave 25",
+    "Royal Gardens, Survival, Medium, Wave 25",
+    "Royal Gardens, Survival, Hard, Wave 25",
+    "Royal Gardens, Survival, Massacre, Wave 25",
+    "Royal Gardens, PureStrategy, Massacre, Wave 25",
+    "Royal Gardens, PureStrategy, Easy, Wave 25",
+    "Royal Gardens, PureStrategy, Medium, Wave 25"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Fightin' Corgi",
+  "description": "This rootin' tootin' pet originally belonged to YouTuber FightinCowboy. Provides the Hero with an EXTRA jump, and 15% Hero Crit Chance",
+  "icon": "Fightin' Corgi.png",
+  "category": "Pets",
+  "type": "Pet",
+  "stats": [
+    "2.8 Vitality Scalar",
+    "2.8 Attack Scalar",
+    "2.8 Ability Scalar"
+  ],
+  "dropLocations": [
+    "Alchemical Laboratory, Survival, Massacre, Wave 300",
+    "Ancient Mines, Survival, Massacre, Wave 300",
+    "Arcane Library, Survival, Massacre, Wave 300",
+    "Castle Armory, Survival, Massacre, Wave 300",
+    "Endless Spires, Survival, Massacre, Wave 300",
+    "Forsaken Temple, Survival, Massacre, Wave 300",
+    "Foundries And Forges, Survival, Massacre, Wave 300",
+    "Glitterhelm, Survival, Massacre, Wave 300",
+    "Hallof Court, Survival, Massacre, Wave 300",
+    "Halloween Ramparts, Survival, Massacre, Wave 300",
+    "Kings Game, Survival, Massacre, Wave 300",
+    "Lava Mines, Survival, Massacre, Wave 300",
+    "Magus Quarters, Survival, Massacre, Wave 300",
+    "Royal Gardens, Survival, Massacre, Wave 300",
+    "Servants Quarters, Survival, Massacre, Wave 300",
+    "The Bazaar, Survival, Massacre, Wave 300",
+    "The Deeper Well, Survival, Massacre, Wave 300",
+    "The Keep, Survival, Massacre, Wave 300",
+    "The Lost Metropolis, Survival, Massacre, Wave 300",
+    "The Mill, Survival, Massacre, Wave 300",
+    "The Outpost, Survival, Massacre, Wave 300",
+    "The Promenade, Survival, Massacre, Wave 300",
+    "The Ramparts, Survival, Massacre, Wave 300",
+    "The Summit, Survival, Massacre, Wave 300",
+    "Tornado High Lands, Survival, Massacre, Wave 300",
+    "Tornado Valley, Survival, Massacre, Wave 300",
+    "Viking Winter, Survival, Massacre, Wave 300"
+  ]
+}

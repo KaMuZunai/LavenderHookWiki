@@ -1,0 +1,37 @@
+{
+  "name": "Hammel",
+  "description": "Hammel Shoots spiky cacti at nearby enemies. Projectiles deal heavy damage to their target.",
+  "icon": "Hammel.png",
+  "category": "Pets",
+  "type": "Pet",
+  "stats": [
+    "2.55 Vitality Scalar",
+    "2.55 Attack Scalar",
+    "2.55 Ability Scalar"
+  ],
+  "elements": [
+    "25% Electric",
+    "25% Fire",
+    "25% Poison",
+    "25% Physical"
+  ],
+  "dropLocations": [
+    "Forsaken Temple, Survival, Insane, Wave 25",
+    "Forsaken Temple, Survival, Nightmare, Wave 25",
+    "Forsaken Temple, Survival, Massacre, Wave 25",
+    "The Bazaar, Survival, Easy, Wave 15",
+    "The Bazaar, Survival, Medium, Wave 15",
+    "The Bazaar, Survival, Hard, Wave 15",
+    "The Bazaar, Survival, Insane, Wave 15",
+    "The Bazaar, Survival, Nightmare, Wave 15",
+    "The Bazaar, Survival, Massacre, Wave 15",
+    "The Bazaar, PureStrategy, Easy, Wave 15",
+    "The Bazaar, PureStrategy, Medium, Wave 15",
+    "The Bazaar, Mixed, Easy, Wave 15",
+    "The Bazaar, Mixed, Medium, Wave 15",
+    "The Bazaar, Mixed, Hard, Wave 15",
+    "The Bazaar, Mixed, Insane, Wave 15",
+    "The Bazaar, Mixed, Nightmare, Wave 15",
+    "The Bazaar, Mixed, Massacre, Wave 15"
+  ]
+}

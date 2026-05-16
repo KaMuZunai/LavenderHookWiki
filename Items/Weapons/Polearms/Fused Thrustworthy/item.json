@@ -1,0 +1,45 @@
+{
+  "name": "Fused Thrustworthy",
+  "description": "Every strike is guaranteed to be fully trustworthy… or at least, mostly.",
+  "icon": "Fused Thrustworthy.png",
+  "category": "Weapons",
+  "type": "Polearm",
+  "subtype": [
+    "Polearm"
+  ],
+  "stats": [
+    "1.5 Power Scalar",
+    "1.5 Def. Rate Scalar",
+    "1.5 Range Scalar"
+  ],
+  "elements": [
+    "100% Fusion"
+  ],
+  "dropLocations": [
+    "Forsaken Temple, PureStrategy, Easy, Wave 25, Rifted",
+    "Forsaken Temple, PureStrategy, Easy, Wave 15, Rifted",
+    "Forsaken Temple, PureStrategy, Medium, Wave 25, Rifted",
+    "Forsaken Temple, PureStrategy, Medium, Wave 15, Rifted",
+    "Forsaken Temple, PureStrategy, Hard, Wave 25, Rifted",
+    "Forsaken Temple, PureStrategy, Hard, Wave 15, Rifted",
+    "Forsaken Temple, PureStrategy, Insane, Wave 25, Rifted",
+    "Forsaken Temple, PureStrategy, Insane, Wave 15, Rifted",
+    "Forsaken Temple, PureStrategy, Nightmare, Wave 25, Rifted",
+    "Forsaken Temple, PureStrategy, Nightmare, Wave 15, Rifted",
+    "Forsaken Temple, PureStrategy, Massacre, Wave 25, Rifted",
+    "Forsaken Temple, PureStrategy, Massacre, Wave 15, Rifted",
+    "Glitterhelm, PureStrategy, Easy, Wave 25, Rifted",
+    "Glitterhelm, PureStrategy, Easy, Wave 15, Rifted",
+    "Glitterhelm, PureStrategy, Medium, Wave 25, Rifted",
+    "Glitterhelm, PureStrategy, Medium, Wave 15, Rifted",
+    "Glitterhelm, PureStrategy, Hard, Wave 25, Rifted",
+    "Glitterhelm, PureStrategy, Hard, Wave 15, Rifted",
+    "Glitterhelm, PureStrategy, Insane, Wave 25, Rifted",
+    "Glitterhelm, PureStrategy, Insane, Wave 15, Rifted",
+    "Glitterhelm, PureStrategy, Nightmare, Wave 25, Rifted",
+    "Glitterhelm, PureStrategy, Nightmare, Wave 15, Rifted",
+    "Glitterhelm, PureStrategy, Massacre, Wave 25, Rifted",
+    "Glitterhelm, PureStrategy, Massacre, Wave 15, Rifted",
+    "Halloween Ramparts, PureStrategy, Massacre, Wave 15, Rifted"
+  ]
+}

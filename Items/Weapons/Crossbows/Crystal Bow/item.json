@@ -1,0 +1,8 @@
+{
+  "name": "Crystal Bow",
+  "description": "",
+  "icon": "Crystal Bow.png",
+  "category": "Weapons",
+  "type": "Crossbow",
+  "dropLocations": "basic drop"
+}

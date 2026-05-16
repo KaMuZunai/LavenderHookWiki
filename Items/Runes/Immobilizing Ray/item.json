@@ -1,0 +1,10 @@
+{
+  "name": "Immobilizing Ray",
+  "description": "Each hit of the Energy Cannon now applies a %  slow that stacks and lasts  seconds.",
+  "icon": "Immobilizing Ray.png",
+  "category": "Runes",
+  "type": "Rune",
+  "dropLocations": [
+    "Castle Armory, Campaign, 50%"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Chargin' Ramster",
+  "description": "Attacks Pierce nearby enemies, dealing damage in a line.",
+  "icon": "Chargin' Ramster.png",
+  "category": "Pets",
+  "type": "Pet",
+  "stats": [
+    "2.75 Vitality Scalar",
+    "2.55 Attack Scalar",
+    "2.55 Ability Scalar"
+  ],
+  "dropLocations": [
+    "Arcane Library, Survival, Easy, Wave 15",
+    "Arcane Library, Survival, Medium, Wave 15",
+    "Arcane Library, Survival, Hard, Wave 15",
+    "Arcane Library, Survival, Insane, Wave 15",
+    "Arcane Library, Survival, Nightmare, Wave 15",
+    "Arcane Library, Survival, Massacre, Wave 15",
+    "Arcane Library, PureStrategy, Easy, Wave 15",
+    "Arcane Library, PureStrategy, Medium, Wave 15",
+    "Arcane Library, Mixed, Easy, Wave 15",
+    "Arcane Library, Mixed, Medium, Wave 15",
+    "Arcane Library, Mixed, Hard, Wave 15",
+    "Arcane Library, Mixed, Insane, Wave 15",
+    "Arcane Library, Mixed, Nightmare, Wave 15",
+    "Arcane Library, Mixed, Massacre, Wave 15",
+    "The Summit, Survival, Insane, Wave 25",
+    "The Summit, Survival, Nightmare, Wave 25",
+    "The Summit, Survival, Massacre, Wave 25",
+    "The Summit, Mixed, Easy, Wave 25",
+    "The Summit, Mixed, Medium, Wave 25",
+    "The Summit, Mixed, Hard, Wave 25",
+    "The Summit, Mixed, Insane, Wave 25",
+    "The Summit, Mixed, Nightmare, Wave 25",
+    "The Summit, Mixed, Massacre, Wave 25"
+  ]
+}

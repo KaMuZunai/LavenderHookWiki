@@ -1,0 +1,10 @@
+{
+  "name": "Spike Trap",
+  "description": "Every  seconds when the Spike Blockade is attacked it shoots out  piercing projectiles damaging enemies for % Tower Health each.",
+  "icon": "Spike Trap.png",
+  "category": "Runes",
+  "type": "Rune",
+  "dropLocations": [
+    "The Bazaar, Campaign, 25%"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Default Shield",
+  "description": "",
+  "icon": "Default Shield.png",
+  "category": "Offhand",
+  "type": "Shield",
+  "dropLocations": []
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Boom Boom Boom",
+  "description": "Enemies explode for % device damage when the inferno device expires.",
+  "icon": "Boom Boom Boom.png",
+  "category": "Runes",
+  "type": "Rune",
+  "dropLocations": [
+    "The Deeper Well, Campaign, 76.92%"
+  ]
+}

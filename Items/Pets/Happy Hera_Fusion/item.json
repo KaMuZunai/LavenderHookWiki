@@ -1,0 +1,21 @@
+{
+  "name": "Happy Hera",
+  "description": "Projectiles Explode, dealing damage to nearby enemies. Restoring HP for each enemy hit.",
+  "icon": "Happy Hera.png",
+  "category": "Pets",
+  "type": "Pet",
+  "stats": [
+    "2.55 Vitality Scalar",
+    "2.55 Attack Scalar",
+    "2.55 Ability Scalar"
+  ],
+  "elements": [
+    "100% Fusion"
+  ],
+  "dropLocations": [
+    "The Mill, Survival, Massacre, Wave 15, Rifted",
+    "The Mill, Survival, Massacre, Wave 25, Rifted",
+    "The Mill, Mixed, Massacre, Wave 15, Rifted",
+    "The Mill, Mixed, Massacre, Wave 25, Rifted"
+  ]
+}

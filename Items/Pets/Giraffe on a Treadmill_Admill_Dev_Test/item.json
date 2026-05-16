@@ -1,0 +1,17 @@
+{
+  "name": "Giraffe on a Treadmill",
+  "description": "",
+  "icon": true,
+  "category": "Pets",
+  "type": "Pet",
+  "stats": [
+    "0 Vitality Scalar",
+    "0 Attack Scalar",
+    "0 Ability Scalar",
+    "1 Fortify Scalar",
+    "0 Range Scalar",
+    "0 Power Scalar",
+    "1 Def. Rate Scalar"
+  ],
+  "dropLocations": []
+}

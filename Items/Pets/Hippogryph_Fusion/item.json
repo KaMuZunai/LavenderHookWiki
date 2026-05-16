@@ -1,0 +1,51 @@
+{
+  "name": "Hippogryph",
+  "description": "Projectiles Explode, dealing damage to nearby enemies.",
+  "icon": "Hippogryph.png",
+  "category": "Pets",
+  "type": "Pet",
+  "stats": [
+    "2.75 Vitality Scalar",
+    "2.75 Attack Scalar",
+    "2.55 Ability Scalar"
+  ],
+  "elements": [
+    "100% Fusion"
+  ],
+  "dropLocations": [
+    "Ancient Mines, Survival, Easy, Wave 25, Rifted",
+    "Ancient Mines, Survival, Nightmare, Wave 15, Rifted",
+    "Ancient Mines, Survival, Medium, Wave 25, Rifted",
+    "Ancient Mines, PureStrategy, Easy, Wave 25, Rifted",
+    "Ancient Mines, Survival, Hard, Wave 25, Rifted",
+    "Ancient Mines, Survival, Nightmare, Wave 25, Rifted",
+    "Ancient Mines, Survival, Insane, Wave 25, Rifted",
+    "Ancient Mines, PureStrategy, Insane, Wave 25, Rifted",
+    "Ancient Mines, PureStrategy, Hard, Wave 25, Rifted",
+    "Ancient Mines, Mixed, Easy, Wave 25, Rifted",
+    "Ancient Mines, Mixed, Medium, Wave 25, Rifted",
+    "Ancient Mines, Mixed, Hard, Wave 25, Rifted",
+    "Ancient Mines, Mixed, Insane, Wave 25, Rifted",
+    "Ancient Mines, Mixed, Nightmare, Wave 15, Rifted",
+    "Ancient Mines, Mixed, Nightmare, Wave 25, Rifted",
+    "The Deeper Well, Survival, Massacre, Wave 25, Rifted",
+    "The Deeper Well, PureStrategy, Easy, Wave 25, Rifted",
+    "The Deeper Well, PureStrategy, Insane, Wave 25, Rifted",
+    "The Deeper Well, Survival, Easy, Wave 25, Rifted",
+    "The Deeper Well, PureStrategy, Hard, Wave 25, Rifted",
+    "The Deeper Well, Survival, Medium, Wave 25, Rifted",
+    "The Deeper Well, Mixed, Easy, Wave 25, Rifted",
+    "The Deeper Well, Survival, Hard, Wave 25, Rifted",
+    "The Deeper Well, Mixed, Medium, Wave 25, Rifted",
+    "The Deeper Well, Survival, Insane, Wave 25, Rifted",
+    "The Deeper Well, Mixed, Hard, Wave 25, Rifted",
+    "The Deeper Well, Survival, Nightmare, Wave 15, Rifted",
+    "The Deeper Well, Mixed, Insane, Wave 25, Rifted",
+    "The Deeper Well, Survival, Nightmare, Wave 25, Rifted",
+    "The Deeper Well, Mixed, Nightmare, Wave 15, Rifted",
+    "The Deeper Well, Survival, Massacre, Wave 15, Rifted",
+    "The Deeper Well, Mixed, Nightmare, Wave 25, Rifted",
+    "The Deeper Well, Mixed, Massacre, Wave 15, Rifted",
+    "The Deeper Well, Mixed, Massacre, Wave 25, Rifted"
+  ]
+}

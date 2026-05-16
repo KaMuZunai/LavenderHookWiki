@@ -1,0 +1,15 @@
+{
+  "name": "A Fused Giant Waffle",
+  "description": "A syrupy pet from Twitch streamer GiantWaffle that grants 40% bonus health, 10% Rift Armor, and 10% movement speed.",
+  "icon": "A Fused Giant Waffle.png",
+  "category": "Pets",
+  "type": "Pet",
+  "stats": [
+    "1.75 Vitality Scalar",
+    "1.75 Attack Scalar",
+    "2 Ability Scalar"
+  ],
+  "dropLocations": [
+    "Glitterhelm, Challenge, Massacre, Wave 5"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Hallow's Evil Grin",
+  "description": "“A wicked grin that glows brighter in the presence of fear. Coincidence… probably not.”",
+  "icon": "Hallow's Evil Grin.png",
+  "category": "Accessories",
+  "type": "Mask",
+  "subtype": [
+    "Mask"
+  ],
+  "stats": [
+    "0.45 Vitality Scalar",
+    "0.45 Power Scalar",
+    "0.45 Ability Scalar",
+    "0.45 Attack Scalar"
+  ],
+  "dropLocations": [
+    "Halloween Ramparts, Mixed, Massacre, Wave 15",
+    "Halloween Ramparts, Mixed, Massacre, Wave 25",
+    "Viking Winter, Mixed, Easy, Wave 25",
+    "Viking Winter, Mixed, Easy, Wave 15",
+    "Viking Winter, Mixed, Medium, Wave 25",
+    "Viking Winter, Mixed, Medium, Wave 15",
+    "Viking Winter, Mixed, Hard, Wave 25",
+    "Viking Winter, Mixed, Hard, Wave 15",
+    "Viking Winter, Mixed, Massacre, Wave 25"
+  ]
+}

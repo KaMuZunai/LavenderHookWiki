@@ -1,0 +1,15 @@
+{
+  "name": "Rogue Action Figure",
+  "description": "Improve the Damage of nearby heroes. Additionally increases Hero Attack Rate by 25%.",
+  "icon": "Rogue Action Figure.png",
+  "category": "Pets",
+  "type": "Pet",
+  "stats": [
+    "1.75 Vitality Scalar",
+    "1.75 Attack Scalar",
+    "1.75 Ability Scalar"
+  ],
+  "dropLocations": [
+    "The Keep, PureStrategy, Massacre, Wave 25"
+  ]
+}

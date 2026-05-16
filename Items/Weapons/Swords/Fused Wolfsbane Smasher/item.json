@@ -1,0 +1,20 @@
+{
+  "name": "Fused Wolfsbane Smasher",
+  "description": "",
+  "icon": "Fused Wolfsbane Smasher.png",
+  "category": "Weapons",
+  "type": "Sword",
+  "stats": [
+    "2.5 Vitality Scalar",
+    "2.5 Attack Scalar",
+    "2.5 Ability Scalar"
+  ],
+  "elements": [
+    "100% Fusion"
+  ],
+  "dropLocations": [
+    "The Keep, Campaign, Massacre, Wave 5, Rifted",
+    "The Keep, Survival, Massacre, Wave 25, Rifted",
+    "The Keep, Mixed, Massacre, Wave 25, Rifted"
+  ]
+}

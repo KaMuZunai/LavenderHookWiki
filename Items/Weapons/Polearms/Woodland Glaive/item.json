@@ -1,0 +1,8 @@
+{
+  "name": "Woodland Glaive",
+  "description": "",
+  "icon": "Woodland Glaive.png",
+  "category": "Weapons",
+  "type": "Polearm",
+  "dropLocations": "basic drop"
+}

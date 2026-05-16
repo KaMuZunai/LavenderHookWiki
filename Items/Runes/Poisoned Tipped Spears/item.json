@@ -1,0 +1,10 @@
+{
+  "name": "Poisoned Tipped Spears",
+  "description": "The Harpoon Tower projectiles now also poison their targets dealing % of normal damage every second for  seconds.",
+  "icon": "Poisoned Tipped Spears.png",
+  "category": "Runes",
+  "type": "Rune",
+  "dropLocations": [
+    "Foundries And Forges, Campaign, 16.67%"
+  ]
+}

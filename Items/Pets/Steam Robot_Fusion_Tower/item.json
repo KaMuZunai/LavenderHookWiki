@@ -1,0 +1,23 @@
+{
+  "name": "Steam Robot",
+  "description": "Attacks nearby enemies and deals additional Knockback. Additionally, It increases VERSATILITY by 15%.",
+  "icon": "Steam Robot.png",
+  "category": "Pets",
+  "type": "Pet",
+  "stats": [
+    "1 Def. Rate Scalar",
+    "1 Power Scalar",
+    "1 Fortify Scalar"
+  ],
+  "elements": [
+    "100% Fusion"
+  ],
+  "dropLocations": [
+    "Lava Mines, PureStrategy, Easy, Wave 15, Rifted",
+    "Lava Mines, PureStrategy, Medium, Wave 15, Rifted",
+    "Lava Mines, PureStrategy, Hard, Wave 15, Rifted",
+    "Lava Mines, PureStrategy, Insane, Wave 15, Rifted",
+    "Lava Mines, PureStrategy, Nightmare, Wave 15, Rifted",
+    "Lava Mines, PureStrategy, Massacre, Wave 15, Rifted"
+  ]
+}

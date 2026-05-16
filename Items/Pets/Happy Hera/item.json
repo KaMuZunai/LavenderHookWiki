@@ -1,0 +1,38 @@
+{
+  "name": "Happy Hera",
+  "description": "Projectiles Explode, dealing damage to nearby enemies. Restoring HP for each enemy hit.",
+  "icon": "Happy Hera.png",
+  "category": "Pets",
+  "type": "Pet",
+  "stats": [
+    "2.55 Vitality Scalar",
+    "2.55 Attack Scalar",
+    "2.55 Ability Scalar"
+  ],
+  "dropLocations": [
+    "Forsaken Temple, Mixed, Massacre, Wave 25",
+    "The Keep, Survival, Insane, Wave 25",
+    "The Keep, Survival, Nightmare, Wave 25",
+    "The Keep, Survival, Massacre, Wave 25",
+    "The Keep, Mixed, Easy, Wave 25",
+    "The Keep, Mixed, Medium, Wave 25",
+    "The Keep, Mixed, Hard, Wave 25",
+    "The Keep, Mixed, Insane, Wave 25",
+    "The Keep, Mixed, Nightmare, Wave 25",
+    "The Keep, Mixed, Massacre, Wave 25",
+    "The Mill, Survival, Easy, Wave 15",
+    "The Mill, Survival, Medium, Wave 15",
+    "The Mill, Survival, Hard, Wave 15",
+    "The Mill, Survival, Insane, Wave 15",
+    "The Mill, Survival, Nightmare, Wave 15",
+    "The Mill, Survival, Massacre, Wave 15",
+    "The Mill, PureStrategy, Easy, Wave 15",
+    "The Mill, PureStrategy, Medium, Wave 15",
+    "The Mill, Mixed, Easy, Wave 15",
+    "The Mill, Mixed, Medium, Wave 15",
+    "The Mill, Mixed, Hard, Wave 15",
+    "The Mill, Mixed, Insane, Wave 15",
+    "The Mill, Mixed, Nightmare, Wave 15",
+    "The Mill, Mixed, Massacre, Wave 15"
+  ]
+}

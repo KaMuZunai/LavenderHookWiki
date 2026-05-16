@@ -1,0 +1,19 @@
+{
+  "name": "Fused Woodland Runeblade",
+  "description": "",
+  "icon": "Fused Woodland Runeblade.png",
+  "category": "Weapons",
+  "type": "Sword",
+  "subtype": [
+    "Sword"
+  ],
+  "stats": [
+    "1.5 Vitality Scalar",
+    "1.5 Attack Scalar",
+    "1.5 Ability Scalar"
+  ],
+  "elements": [
+    "100% Fusion"
+  ],
+  "dropLocations": "basic drop"
+}

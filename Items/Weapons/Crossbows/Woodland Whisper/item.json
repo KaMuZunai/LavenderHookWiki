@@ -1,0 +1,8 @@
+{
+  "name": "Woodland Whisper",
+  "description": "Projectiles Pierce, dealing damage to all enemies in a line.",
+  "icon": "Woodland Whisper.png",
+  "category": "Weapons",
+  "type": "Crossbow",
+  "dropLocations": "basic drop"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Militia Waistcoat",
+  "description": "",
+  "icon": "Militia Waistcoat.png",
+  "category": "Armor",
+  "type": "Chest",
+  "subtype": [
+    "Chest",
+    "Militia"
+  ],
+  "stats": [
+    "1 Power Scalar",
+    "1 Fortify Scalar"
+  ],
+  "dropLocations": "basic drop"
+}

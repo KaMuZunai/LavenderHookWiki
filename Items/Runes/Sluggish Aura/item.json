@@ -1,0 +1,11 @@
+{
+  "name": "Sluggish Aura",
+  "description": "Ensnare Aura reduces enemy damage by % while ensnared.",
+  "icon": "Sluggish Aura.png",
+  "category": "Runes",
+  "type": "Rune",
+  "dropLocations": [
+    "Kings Game, Campaign, 50%",
+    "Tornado High Lands, Campaign, 21.74%"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Bubble Blaster 9000",
+  "description": "(Warning: Make sure to shoot into the eyes of the enemies)",
+  "icon": "Bubble Blaster 9000.png",
+  "category": "Weapons",
+  "type": "Crossbow",
+  "subtype": [
+    "Crossbow"
+  ],
+  "stats": [
+    "2.5 Vitality Scalar",
+    "2.5 Attack Scalar",
+    "2.5 Ability Scalar"
+  ],
+  "elements": [
+    "100% Fusion"
+  ],
+  "dropLocations": []
+}

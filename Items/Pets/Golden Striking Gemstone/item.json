@@ -1,0 +1,14 @@
+{
+  "name": "Golden Striking Gemstone",
+  "description": "Improve the Effective Range of nearby defenses. Note this pet gives 50% more of a boost compared to a regular gemstone.",
+  "icon": "Golden Striking Gemstone.png",
+  "category": "Pets",
+  "type": "Pet",
+  "stats": [
+    "1.5 Vitality Scalar"
+  ],
+  "dropLocations": [
+    "The Summit, Survival, Massacre, Wave 250",
+    "The Summit, Survival, Massacre, Wave 100, Rifted"
+  ]
+}

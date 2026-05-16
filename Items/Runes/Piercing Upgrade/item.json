@@ -1,0 +1,10 @@
+{
+  "name": "Piercing Upgrade",
+  "description": "Pierces an additional enemy and scales damage by %.",
+  "icon": "Piercing Upgrade.png",
+  "category": "Runes",
+  "type": "Rune",
+  "dropLocations": [
+    "The Throne Room, Campaign, 40%"
+  ]
+}

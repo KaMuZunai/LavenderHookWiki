@@ -1,0 +1,8 @@
+{
+  "name": "Gnarled Wand",
+  "description": "",
+  "icon": "Gnarled Wand.png",
+  "category": "Weapons",
+  "type": "Staff",
+  "dropLocations": "basic drop"
+}

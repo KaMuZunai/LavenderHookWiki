@@ -1,0 +1,13 @@
+{
+  "name": "Crystalline Corgi",
+  "description": "Available only as a PTR Reward.",
+  "icon": "Crystalline Corgi.png",
+  "category": "Pets",
+  "type": "Pet",
+  "stats": [
+    "5 Vitality Scalar",
+    "4 Attack Scalar",
+    "4 Ability Scalar"
+  ],
+  "dropLocations": []
+}

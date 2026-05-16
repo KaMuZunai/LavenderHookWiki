@@ -1,0 +1,12 @@
+{
+  "name": "Deathguard's Bastion",
+  "description": "",
+  "icon": "Deathguard's Bastion.png",
+  "category": "Offhand",
+  "type": "Shield",
+  "stats": [
+    "1 Vitality Scalar",
+    "1 Attack Scalar"
+  ],
+  "dropLocations": "basic drop"
+}

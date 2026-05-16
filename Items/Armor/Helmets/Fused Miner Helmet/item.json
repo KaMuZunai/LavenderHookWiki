@@ -1,0 +1,18 @@
+{
+  "name": "Fused Miner Helmet",
+  "description": "",
+  "icon": "Fused Miner Helmet.png",
+  "category": "Armor",
+  "type": "Helmet",
+  "subtype": [
+    "Helmet",
+    "Miner"
+  ],
+  "stats": [
+    "1 Fortify Scalar"
+  ],
+  "elements": [
+    "100% Fusion"
+  ],
+  "dropLocations": "basic drop"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Veteran's Temper",
+  "description": "",
+  "icon": "Veteran's Temper.png",
+  "category": "Offhand",
+  "type": "Whetstone",
+  "stats": [
+    "1 Ability Scalar",
+    "1 Vitality Scalar"
+  ],
+  "dropLocations": "basic drop"
+}

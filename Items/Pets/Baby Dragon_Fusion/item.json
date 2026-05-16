@@ -1,0 +1,51 @@
+{
+  "name": "Baby Dragon",
+  "description": "Projectiles Explode, dealing damage to nearby enemies.",
+  "icon": "Baby Dragon.png",
+  "category": "Pets",
+  "type": "Pet",
+  "stats": [
+    "2.65 Vitality Scalar",
+    "2.65 Attack Scalar",
+    "2.65 Ability Scalar"
+  ],
+  "elements": [
+    "100% Fusion"
+  ],
+  "dropLocations": [
+    "The Promenade, Survival, Easy, Wave 25, Rifted",
+    "The Promenade, Survival, Nightmare, Wave 15, Rifted",
+    "The Promenade, Survival, Medium, Wave 25, Rifted",
+    "The Promenade, PureStrategy, Easy, Wave 25, Rifted",
+    "The Promenade, Survival, Hard, Wave 25, Rifted",
+    "The Promenade, Survival, Nightmare, Wave 25, Rifted",
+    "The Promenade, Survival, Insane, Wave 25, Rifted",
+    "The Promenade, PureStrategy, Insane, Wave 25, Rifted",
+    "The Promenade, PureStrategy, Hard, Wave 25, Rifted",
+    "The Promenade, Mixed, Easy, Wave 25, Rifted",
+    "The Promenade, Mixed, Medium, Wave 25, Rifted",
+    "The Promenade, Mixed, Hard, Wave 25, Rifted",
+    "The Promenade, Mixed, Insane, Wave 25, Rifted",
+    "The Promenade, Mixed, Nightmare, Wave 15, Rifted",
+    "The Promenade, Mixed, Nightmare, Wave 25, Rifted",
+    "The Summit, Survival, Massacre, Wave 25, Rifted",
+    "The Summit, PureStrategy, Easy, Wave 25, Rifted",
+    "The Summit, PureStrategy, Insane, Wave 25, Rifted",
+    "The Summit, Survival, Easy, Wave 25, Rifted",
+    "The Summit, PureStrategy, Hard, Wave 25, Rifted",
+    "The Summit, Survival, Medium, Wave 25, Rifted",
+    "The Summit, Mixed, Easy, Wave 25, Rifted",
+    "The Summit, Survival, Hard, Wave 25, Rifted",
+    "The Summit, Mixed, Medium, Wave 25, Rifted",
+    "The Summit, Survival, Insane, Wave 25, Rifted",
+    "The Summit, Mixed, Hard, Wave 25, Rifted",
+    "The Summit, Survival, Nightmare, Wave 15, Rifted",
+    "The Summit, Mixed, Insane, Wave 25, Rifted",
+    "The Summit, Survival, Nightmare, Wave 25, Rifted",
+    "The Summit, Mixed, Nightmare, Wave 15, Rifted",
+    "The Summit, Survival, Massacre, Wave 15, Rifted",
+    "The Summit, Mixed, Nightmare, Wave 25, Rifted",
+    "The Summit, Mixed, Massacre, Wave 15, Rifted",
+    "The Summit, Mixed, Massacre, Wave 25, Rifted"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Fused Guard Helm",
+  "description": "",
+  "icon": "Fused Guard Helm.png",
+  "category": "Armor",
+  "type": "Helmet",
+  "subtype": [
+    "Helmet",
+    "Guard"
+  ],
+  "stats": [
+    "1 Fortify Scalar"
+  ],
+  "elements": [
+    "100% Fusion"
+  ],
+  "dropLocations": "basic drop"
+}

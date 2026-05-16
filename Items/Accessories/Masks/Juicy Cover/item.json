@@ -1,0 +1,11 @@
+{
+  "name": "Juicy Cover",
+  "description": "",
+  "icon": "Juicy Cover.png",
+  "category": "Accessories",
+  "type": "Mask",
+  "subtype": [
+    "Mask"
+  ],
+  "dropLocations": []
+}

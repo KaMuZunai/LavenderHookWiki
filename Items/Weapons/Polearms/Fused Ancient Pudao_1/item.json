@@ -1,0 +1,31 @@
+{
+  "name": "Fused Ancient Pudao",
+  "description": "",
+  "icon": "Fused Ancient Pudao.png",
+  "category": "Weapons",
+  "type": "Polearm",
+  "subtype": [
+    "Polearm"
+  ],
+  "stats": [
+    "0.9 Power Scalar",
+    "0.9 Fortify Scalar",
+    "0.9 Range Scalar",
+    "0.9 Def. Rate Scalar"
+  ],
+  "elements": [
+    "100% Fusion"
+  ],
+  "dropLocations": [
+    "Alchemical Laboratory, PureStrategy, Massacre, Wave 5, Rifted",
+    "Alchemical Laboratory, PureStrategy, Massacre, Wave 1, Rifted",
+    "Ancient Mines, PureStrategy, Massacre, Wave 5, Rifted",
+    "Ancient Mines, PureStrategy, Massacre, Wave 1, Rifted",
+    "Lava Mines, PureStrategy, Massacre, Wave 5, Rifted",
+    "Lava Mines, PureStrategy, Massacre, Wave 1, Rifted",
+    "Magus Quarters, PureStrategy, Massacre, Wave 5, Rifted",
+    "Magus Quarters, PureStrategy, Massacre, Wave 1, Rifted",
+    "The Deeper Well, PureStrategy, Massacre, Wave 5, Rifted",
+    "The Deeper Well, PureStrategy, Massacre, Wave 1, Rifted"
+  ]
+}

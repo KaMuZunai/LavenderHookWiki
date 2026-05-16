@@ -1,0 +1,18 @@
+{
+  "name": "Fused Leftover \"Peace Offering\"",
+  "description": "\"When words fail and diplomatic talks sour, NuminousFox reaches for the dagger. Because nothing says 'the conversation is over' like being walloped by a purple leg of mystery meat.\"",
+  "icon": "Fused Leftover _Peace Offering_.png",
+  "category": "Weapons",
+  "type": "Sword",
+  "stats": [
+    "2.5 Vitality Scalar",
+    "2.5 Attack Scalar",
+    "2.75 Ability Scalar"
+  ],
+  "elements": [
+    "100% Fusion"
+  ],
+  "dropLocations": [
+    "Castle Armory, PureStrategy, Massacre, Wave 15, Rifted"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Mista Mine",
+  "description": "Cuts your Move Speed by 30% but increases cast rate by 30%.",
+  "icon": "Mista Mine.png",
+  "category": "Pets",
+  "type": "Pet",
+  "stats": [
+    "3.6 Vitality Scalar",
+    "3.6 Attack Scalar",
+    "3.6 Ability Scalar"
+  ],
+  "dropLocations": [
+    "Alchemical Laboratory, Survival, Insane, Wave 25",
+    "Alchemical Laboratory, Survival, Nightmare, Wave 25",
+    "Alchemical Laboratory, Survival, Massacre, Wave 25",
+    "Alchemical Laboratory, Mixed, Easy, Wave 25",
+    "Alchemical Laboratory, Mixed, Medium, Wave 25",
+    "Alchemical Laboratory, Mixed, Hard, Wave 25",
+    "Alchemical Laboratory, Mixed, Insane, Wave 25",
+    "Alchemical Laboratory, Mixed, Nightmare, Wave 25",
+    "Alchemical Laboratory, Mixed, Massacre, Wave 25",
+    "Ancient Mines, Survival, Easy, Wave 15",
+    "Ancient Mines, Survival, Medium, Wave 15",
+    "Ancient Mines, Survival, Hard, Wave 15",
+    "Ancient Mines, Survival, Insane, Wave 15",
+    "Ancient Mines, Survival, Nightmare, Wave 15",
+    "Ancient Mines, Survival, Massacre, Wave 15",
+    "Ancient Mines, PureStrategy, Easy, Wave 15",
+    "Ancient Mines, PureStrategy, Medium, Wave 15",
+    "Ancient Mines, Mixed, Easy, Wave 15",
+    "Ancient Mines, Mixed, Medium, Wave 15",
+    "Ancient Mines, Mixed, Hard, Wave 15",
+    "Ancient Mines, Mixed, Insane, Wave 15",
+    "Ancient Mines, Mixed, Nightmare, Wave 15",
+    "Ancient Mines, Mixed, Massacre, Wave 15"
+  ]
+}

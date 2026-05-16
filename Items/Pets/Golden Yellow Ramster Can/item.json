@@ -1,0 +1,16 @@
+{
+  "name": "Golden Yellow Ramster Can",
+  "description": "Take a sip and stay energized! This pet greatly increases the hero’s Attack Rate and reduces the hero’s movement speed by 10%.",
+  "icon": "Golden Yellow Ramster Can.png",
+  "category": "Pets",
+  "type": "Pet",
+  "stats": [
+    "2.5 Vitality Scalar",
+    "2.5 Attack Scalar",
+    "2.5 Ability Scalar",
+    "0 None Scalar"
+  ],
+  "dropLocations": [
+    "The Throne Room, Survival, Massacre, Wave 100, Rifted"
+  ]
+}

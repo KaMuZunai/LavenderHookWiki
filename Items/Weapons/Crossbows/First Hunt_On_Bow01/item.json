@@ -1,0 +1,8 @@
+{
+  "name": "First Hunt",
+  "description": "",
+  "icon": "First Hunt.png",
+  "category": "Weapons",
+  "type": "Crossbow",
+  "dropLocations": "basic drop"
+}

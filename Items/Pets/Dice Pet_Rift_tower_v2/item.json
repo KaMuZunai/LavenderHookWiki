@@ -1,0 +1,29 @@
+{
+  "name": "Dice Pet",
+  "description": "Attacks nearby enemies and deals damage with a chance to crit. On a successful crit adds build mana. Additionally increases Cast Rate by 10% and Move Speed by 25%.",
+  "icon": "Dice Pet.png",
+  "category": "Pets",
+  "type": "Pet",
+  "stats": [
+    "1 Power Scalar",
+    "1 Def. Rate Scalar",
+    "3 Ability Scalar"
+  ],
+  "elements": [
+    "100% Fusion"
+  ],
+  "dropLocations": [
+    "Kings Game, PureStrategy, Easy, Wave 15, Rifted",
+    "Kings Game, PureStrategy, Easy, Wave 25, Rifted",
+    "Kings Game, PureStrategy, Medium, Wave 15, Rifted",
+    "Kings Game, PureStrategy, Medium, Wave 25, Rifted",
+    "Kings Game, PureStrategy, Hard, Wave 15, Rifted",
+    "Kings Game, PureStrategy, Hard, Wave 25, Rifted",
+    "Kings Game, PureStrategy, Insane, Wave 15, Rifted",
+    "Kings Game, PureStrategy, Insane, Wave 25, Rifted",
+    "Kings Game, PureStrategy, Nightmare, Wave 15, Rifted",
+    "Kings Game, PureStrategy, Nightmare, Wave 25, Rifted",
+    "Kings Game, PureStrategy, Massacre, Wave 15, Rifted",
+    "Kings Game, PureStrategy, Massacre, Wave 25, Rifted"
+  ]
+}

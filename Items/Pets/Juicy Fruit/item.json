@@ -1,0 +1,13 @@
+{
+  "name": "Juicy Fruit",
+  "description": "This juiced up pet originally belonged to Twitch streamer and YouTuber Juicebags.",
+  "icon": "Juicy Fruit.png",
+  "category": "Pets",
+  "type": "Pet",
+  "stats": [
+    "1.5 Vitality Scalar",
+    "1.5 Attack Scalar",
+    "1.5 Ability Scalar"
+  ],
+  "dropLocations": []
+}

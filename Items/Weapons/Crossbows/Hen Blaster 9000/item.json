@@ -1,0 +1,38 @@
+{
+  "name": "Hen Blaster 9000",
+  "description": "Why throw one chicken when you can launch a full flock.",
+  "icon": "Hen Blaster 9000.png",
+  "category": "Weapons",
+  "type": "Crossbow",
+  "stats": [
+    "1.5 Def. Rate Scalar",
+    "1.5 Range Scalar",
+    "1.5 Power Scalar"
+  ],
+  "dropLocations": [
+    "Kings Game, PureStrategy, Easy, Wave 25",
+    "Kings Game, PureStrategy, Easy, Wave 15",
+    "Kings Game, PureStrategy, Medium, Wave 25",
+    "Kings Game, PureStrategy, Medium, Wave 15",
+    "Kings Game, PureStrategy, Hard, Wave 25",
+    "Kings Game, PureStrategy, Hard, Wave 15",
+    "Kings Game, PureStrategy, Insane, Wave 25",
+    "Kings Game, PureStrategy, Insane, Wave 15",
+    "Kings Game, PureStrategy, Nightmare, Wave 25",
+    "Kings Game, PureStrategy, Nightmare, Wave 15",
+    "Kings Game, PureStrategy, Massacre, Wave 25",
+    "Kings Game, PureStrategy, Massacre, Wave 15",
+    "Tornado Valley, PureStrategy, Easy, Wave 25",
+    "Tornado Valley, PureStrategy, Easy, Wave 15",
+    "Tornado Valley, PureStrategy, Medium, Wave 25",
+    "Tornado Valley, PureStrategy, Medium, Wave 15",
+    "Tornado Valley, PureStrategy, Hard, Wave 25",
+    "Tornado Valley, PureStrategy, Hard, Wave 15",
+    "Tornado Valley, PureStrategy, Insane, Wave 25",
+    "Tornado Valley, PureStrategy, Insane, Wave 15",
+    "Tornado Valley, PureStrategy, Nightmare, Wave 25",
+    "Tornado Valley, PureStrategy, Nightmare, Wave 15",
+    "Tornado Valley, PureStrategy, Massacre, Wave 25",
+    "Tornado Valley, PureStrategy, Massacre, Wave 15"
+  ]
+}

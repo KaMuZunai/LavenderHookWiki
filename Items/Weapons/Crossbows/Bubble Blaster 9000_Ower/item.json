@@ -1,0 +1,21 @@
+{
+  "name": "Bubble Blaster 9000",
+  "description": "The favorite toy of a silly blue alien.",
+  "icon": "Bubble Blaster 9000.png",
+  "category": "Weapons",
+  "type": "Crossbow",
+  "stats": [
+    "1.7 Def. Rate Scalar",
+    "1.7 Range Scalar",
+    "1.7 Fortify Scalar"
+  ],
+  "dropLocations": [
+    "Halloween Ramparts, PureStrategy, Easy, Wave 25",
+    "Halloween Ramparts, PureStrategy, Medium, Wave 25",
+    "Halloween Ramparts, PureStrategy, Hard, Wave 25",
+    "Halloween Ramparts, PureStrategy, Insane, Wave 25",
+    "Halloween Ramparts, PureStrategy, Nightmare, Wave 25",
+    "Halloween Ramparts, PureStrategy, Massacre, Wave 25, Rifted",
+    "The Lost Metropolis, PureStrategy, Massacre, Wave 25"
+  ]
+}

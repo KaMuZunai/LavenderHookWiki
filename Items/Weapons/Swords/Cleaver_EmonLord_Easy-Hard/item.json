@@ -1,0 +1,21 @@
+{
+  "name": "Cleaver",
+  "description": "",
+  "icon": "Cleaver.png",
+  "category": "Weapons",
+  "type": "Sword",
+  "elements": [
+    "100% Poison"
+  ],
+  "dropLocations": [
+    "Alchemical Laboratory, NUE, Medium, Wave 5",
+    "Alchemical Laboratory, Campaign, Easy, Wave 5",
+    "Alchemical Laboratory, Campaign, Medium, Wave 5",
+    "Alchemical Laboratory, Campaign, Hard, Wave 5",
+    "Alchemical Laboratory, Survival, Easy, Wave 25",
+    "Alchemical Laboratory, Survival, Medium, Wave 25",
+    "Alchemical Laboratory, Survival, Hard, Wave 25",
+    "Alchemical Laboratory, PureStrategy, Easy, Wave 25",
+    "Alchemical Laboratory, PureStrategy, Medium, Wave 25"
+  ]
+}

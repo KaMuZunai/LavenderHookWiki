@@ -1,0 +1,36 @@
+{
+  "name": "Arcanist Crown",
+  "description": "",
+  "icon": "Arcanist Crown.png",
+  "category": "Armor",
+  "type": "Helmet",
+  "subtype": [
+    "Helmet",
+    "Arcanist"
+  ],
+  "stats": [
+    "1.5 Power Scalar",
+    "1.5 Fortify Scalar",
+    "1.5 Range Scalar",
+    "1.5 Def. Rate Scalar"
+  ],
+  "elements": [
+    "100% Fusion"
+  ],
+  "dropLocations": [
+    "Halloween Ramparts, Survival, Massacre, Wave 25, Rifted",
+    "Halloween Ramparts, Mixed, Massacre, Wave 25, Rifted",
+    "The Keep, Survival, Easy, Wave 25, Rifted",
+    "The Keep, Survival, Medium, Wave 25, Rifted",
+    "The Keep, Survival, Hard, Wave 25, Rifted",
+    "The Keep, Survival, Insane, Wave 25, Rifted",
+    "The Keep, Survival, Nightmare, Wave 25, Rifted",
+    "The Keep, Survival, Massacre, Wave 25, Rifted",
+    "The Keep, Mixed, Easy, Wave 25, Rifted",
+    "The Keep, Mixed, Medium, Wave 25, Rifted",
+    "The Keep, Mixed, Hard, Wave 25, Rifted",
+    "The Keep, Mixed, Insane, Wave 25, Rifted",
+    "The Keep, Mixed, Nightmare, Wave 25, Rifted",
+    "The Keep, Mixed, Massacre, Wave 25, Rifted"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Fused Guard Sabatons",
+  "description": "",
+  "icon": "Fused Guard Sabatons.png",
+  "category": "Armor",
+  "type": "Boots",
+  "subtype": [
+    "Boots",
+    "Guard"
+  ],
+  "stats": [
+    "1 Fortify Scalar"
+  ],
+  "elements": [
+    "100% Fusion"
+  ],
+  "dropLocations": "basic drop"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Soldier's Bracers",
+  "description": "",
+  "icon": "Soldier's Bracers.png",
+  "category": "Accessories",
+  "type": "Bracer",
+  "stats": [
+    "0.45 Vitality Scalar",
+    "0.45 Power Scalar",
+    "0.45 Attack Scalar",
+    "0.45 Ability Scalar"
+  ],
+  "dropLocations": [
+    "The Throne Room, Mixed, Massacre, Wave 25"
+  ]
+}

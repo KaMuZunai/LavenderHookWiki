@@ -1,0 +1,26 @@
+{
+  "name": "Fused Yellow Ramster Can",
+  "description": "Take a sip and stay energized! This pet greatly increases the hero’s Attack Rate and scales down the hero’s movement speed by 20%. Additionally, It increases VERSATILITY by 15%.",
+  "icon": "Fused Yellow Ramster Can.png",
+  "category": "Pets",
+  "type": "Pet",
+  "stats": [
+    "1.5 Def. Rate Scalar",
+    "2 Attack Scalar",
+    "1 Power Scalar"
+  ],
+  "dropLocations": [
+    "The Throne Room, PureStrategy, Easy, Wave 15, Rifted",
+    "The Throne Room, PureStrategy, Easy, Wave 25, Rifted",
+    "The Throne Room, PureStrategy, Medium, Wave 15, Rifted",
+    "The Throne Room, PureStrategy, Medium, Wave 25, Rifted",
+    "The Throne Room, PureStrategy, Hard, Wave 15, Rifted",
+    "The Throne Room, PureStrategy, Hard, Wave 25, Rifted",
+    "The Throne Room, PureStrategy, Insane, Wave 15, Rifted",
+    "The Throne Room, PureStrategy, Insane, Wave 25, Rifted",
+    "The Throne Room, PureStrategy, Nightmare, Wave 15, Rifted",
+    "The Throne Room, PureStrategy, Nightmare, Wave 25, Rifted",
+    "The Throne Room, PureStrategy, Massacre, Wave 15, Rifted",
+    "The Throne Room, PureStrategy, Massacre, Wave 25, Rifted"
+  ]
+}

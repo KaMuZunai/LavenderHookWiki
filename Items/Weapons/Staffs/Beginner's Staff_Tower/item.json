@@ -1,0 +1,14 @@
+{
+  "name": "Beginner's Staff",
+  "description": "",
+  "icon": "Beginner's Staff.png",
+  "category": "Weapons",
+  "type": "Staff",
+  "stats": [
+    "0.9 Power Scalar",
+    "0.9 Fortify Scalar",
+    "0.9 Range Scalar",
+    "0.9 Def. Rate Scalar"
+  ],
+  "dropLocations": "basic drop"
+}

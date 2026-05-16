@@ -1,0 +1,27 @@
+{
+  "name": "Red Saber",
+  "description": "If you hear the ominous hum behind you, it’s already too late.",
+  "icon": "Red Saber.png",
+  "category": "Weapons",
+  "type": "Sword",
+  "stats": [
+    "1.5 Power Scalar",
+    "1.5 Range Scalar",
+    "1.5 Ability Scalar"
+  ],
+  "dropLocations": [
+    "Halloween Ramparts, PureStrategy, Massacre, Wave 15",
+    "The Deeper Well, PureStrategy, Easy, Wave 25",
+    "The Deeper Well, PureStrategy, Easy, Wave 15",
+    "The Deeper Well, PureStrategy, Medium, Wave 25",
+    "The Deeper Well, PureStrategy, Medium, Wave 15",
+    "The Deeper Well, PureStrategy, Hard, Wave 25",
+    "The Deeper Well, PureStrategy, Hard, Wave 15",
+    "The Deeper Well, PureStrategy, Insane, Wave 25",
+    "The Deeper Well, PureStrategy, Insane, Wave 15",
+    "The Deeper Well, PureStrategy, Nightmare, Wave 25",
+    "The Deeper Well, PureStrategy, Nightmare, Wave 15",
+    "The Deeper Well, PureStrategy, Massacre, Wave 25",
+    "The Deeper Well, PureStrategy, Massacre, Wave 15"
+  ]
+}

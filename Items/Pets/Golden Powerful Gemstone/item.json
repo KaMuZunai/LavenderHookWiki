@@ -1,0 +1,14 @@
+{
+  "name": "Golden Powerful Gemstone",
+  "description": "Improve the Damage of nearby defenses. Note this pet gives 50%  more of a boost compared to a regular gemstone.",
+  "icon": "Golden Powerful Gemstone.png",
+  "category": "Pets",
+  "type": "Pet",
+  "stats": [
+    "1.5 Vitality Scalar"
+  ],
+  "dropLocations": [
+    "The Summit, Survival, Massacre, Wave 250",
+    "The Summit, Survival, Massacre, Wave 100, Rifted"
+  ]
+}

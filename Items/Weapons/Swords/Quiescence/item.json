@@ -1,0 +1,16 @@
+{
+  "name": "Quiescence",
+  "description": "Don't move! I'll be right back.",
+  "icon": "Quiescence.png",
+  "category": "Weapons",
+  "type": "Sword",
+  "elements": [
+    "100% Fire"
+  ],
+  "dropLocations": [
+    "Royal Gardens, Challenge, Insane, Wave 5",
+    "Royal Gardens, Challenge, Nightmare, Wave 5",
+    "Royal Gardens, Challenge, Massacre, Wave 5",
+    "Royal Gardens, Challenge, Medium, Wave 5"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Mithril Staff",
+  "description": "",
+  "icon": "Mithril Staff.png",
+  "category": "Weapons",
+  "type": "Staff",
+  "stats": [
+    "0.9 Power Scalar",
+    "0.9 Fortify Scalar",
+    "0.9 Range Scalar",
+    "0.9 Def. Rate Scalar"
+  ],
+  "dropLocations": "basic drop"
+}

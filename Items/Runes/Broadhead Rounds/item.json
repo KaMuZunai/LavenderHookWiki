@@ -1,0 +1,10 @@
+{
+  "name": "Broadhead Rounds",
+  "description": "Ranged Attacks causes Targets to bleed for % of attack damage per second for  Seconds",
+  "icon": "Broadhead Rounds.png",
+  "category": "Runes",
+  "type": "Rune",
+  "dropLocations": [
+    "The Summit, Campaign, 25%"
+  ]
+}

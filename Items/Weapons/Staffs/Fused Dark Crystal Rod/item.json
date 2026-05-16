@@ -1,0 +1,14 @@
+{
+  "name": "Fused Dark Crystal Rod",
+  "description": "",
+  "icon": "Fused Dark Crystal Rod.png",
+  "category": "Weapons",
+  "type": "MagicStaff",
+  "subtype": [
+    "MagicStaff"
+  ],
+  "elements": [
+    "100% Fusion"
+  ],
+  "dropLocations": "basic drop"
+}

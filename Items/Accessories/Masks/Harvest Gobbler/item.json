@@ -1,0 +1,17 @@
+{
+  "name": "Harvest Gobbler",
+  "description": "",
+  "icon": "Harvest Gobbler.png",
+  "category": "Accessories",
+  "type": "Mask",
+  "subtype": [
+    "Mask"
+  ],
+  "stats": [
+    "0.15 Fortify Scalar",
+    "0.15 Power Scalar",
+    "0.15 Range Scalar",
+    "0.15 Def. Rate Scalar"
+  ],
+  "dropLocations": []
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Overload",
+  "description": "Attacks nearby enemies and deals damage with a chance to crit. On a successful crit restores ability mana.Additionally increases Move Speed by 20%.  Some say it controls fate. Others say it just breaks it.",
+  "icon": "Overload.png",
+  "category": "Pets",
+  "type": "Pet",
+  "stats": [
+    "0.5 Vitality Scalar",
+    "2.25 Fortify Scalar",
+    "2.25 Power Scalar",
+    "2.25 Def. Rate Scalar",
+    "2.6 Range Scalar"
+  ],
+  "elements": [
+    "100% Electric"
+  ],
+  "dropLocations": [
+    "Halloween Ramparts, Mixed, Massacre, Wave 25, Rifted"
+  ]
+}

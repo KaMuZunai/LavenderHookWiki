@@ -1,0 +1,36 @@
+{
+  "name": "Demi Demon Lord",
+  "description": "Attacks at all ranges.",
+  "icon": "Demi Demon Lord.png",
+  "category": "Pets",
+  "type": "Pet",
+  "stats": [
+    "2.65 Vitality Scalar",
+    "2.65 Attack Scalar",
+    "2.65 Ability Scalar"
+  ],
+  "elements": [
+    "100% Fusion"
+  ],
+  "dropLocations": [
+    "Foundries And Forges, Survival, Easy, Wave 25, Rifted",
+    "Foundries And Forges, Survival, Medium, Wave 25, Rifted",
+    "Foundries And Forges, Survival, Hard, Wave 25, Rifted",
+    "Foundries And Forges, Survival, Insane, Wave 25, Rifted",
+    "Foundries And Forges, Survival, Nightmare, Wave 15, Rifted",
+    "Foundries And Forges, Survival, Nightmare, Wave 25, Rifted",
+    "Foundries And Forges, Survival, Massacre, Wave 15, Rifted",
+    "Foundries And Forges, Survival, Massacre, Wave 25, Rifted",
+    "Foundries And Forges, PureStrategy, Easy, Wave 25, Rifted",
+    "Foundries And Forges, PureStrategy, Insane, Wave 25, Rifted",
+    "Foundries And Forges, PureStrategy, Hard, Wave 25, Rifted",
+    "Foundries And Forges, Mixed, Easy, Wave 25, Rifted",
+    "Foundries And Forges, Mixed, Medium, Wave 25, Rifted",
+    "Foundries And Forges, Mixed, Hard, Wave 25, Rifted",
+    "Foundries And Forges, Mixed, Insane, Wave 25, Rifted",
+    "Foundries And Forges, Mixed, Nightmare, Wave 15, Rifted",
+    "Foundries And Forges, Mixed, Nightmare, Wave 25, Rifted",
+    "Foundries And Forges, Mixed, Massacre, Wave 15, Rifted",
+    "Foundries And Forges, Mixed, Massacre, Wave 25, Rifted"
+  ]
+}

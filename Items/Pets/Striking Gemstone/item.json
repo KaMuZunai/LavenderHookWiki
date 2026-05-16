@@ -1,0 +1,33 @@
+{
+  "name": "Striking Gemstone",
+  "description": "Improve the Effective Range of nearby defenses.",
+  "icon": "Striking Gemstone.png",
+  "category": "Pets",
+  "type": "Pet",
+  "stats": [
+    "1.5 Vitality Scalar"
+  ],
+  "dropLocations": [
+    "Hallof Court, Campaign, Insane, Wave 5",
+    "Hallof Court, Campaign, Massacre, Wave 5",
+    "Halloween Ramparts, Campaign, Insane, Wave 5",
+    "Halloween Ramparts, Campaign, Massacre, Wave 5",
+    "Scary_dungeon, Campaign, Insane, Wave 5",
+    "Scary_dungeon, Campaign, Massacre, Wave 5",
+    "The Summit, NUE, Medium, Wave 5",
+    "The Summit, Campaign, Easy, Wave 5",
+    "The Summit, Campaign, Medium, Wave 5",
+    "The Summit, Campaign, Hard, Wave 5",
+    "The Summit, Campaign, Insane, Wave 5",
+    "The Summit, Campaign, Nightmare, Wave 5",
+    "The Summit, Campaign, Massacre, Wave 5",
+    "The Summit, Survival, Insane, Wave 25",
+    "The Summit, Survival, Nightmare, Wave 25",
+    "The Summit, Survival, Massacre, Wave 25",
+    "The Summit, Mixed, Easy, Wave 25",
+    "The Summit, Mixed, Medium, Wave 25",
+    "The Summit, Mixed, Hard, Wave 25",
+    "The Summit, Mixed, Insane, Wave 25",
+    "The Summit, Mixed, Nightmare, Wave 25"
+  ]
+}

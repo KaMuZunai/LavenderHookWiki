@@ -1,0 +1,13 @@
+{
+  "name": "Heal Master",
+  "description": "The Dark Elf Mage Minion can also heal nearby physical defenses and increases the healing by %.",
+  "icon": "Heal Master.png",
+  "category": "Runes",
+  "type": "Rune",
+  "dropLocations": [
+    "Hallof Court, Campaign, 25%",
+    "Halloween Ramparts, Campaign, 25%",
+    "Scary_dungeon, Campaign, 25%",
+    "The Keep, Campaign, 25%"
+  ]
+}

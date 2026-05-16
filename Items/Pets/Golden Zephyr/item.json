@@ -1,0 +1,21 @@
+{
+  "name": "Golden Zephyr",
+  "description": "Shoots Torandos that stop when they hit enemies, dealing damage to all enemies actively inside.",
+  "icon": "Golden Zephyr.png",
+  "category": "Pets",
+  "type": "Pet",
+  "stats": [
+    "3 Vitality Scalar",
+    "3 Attack Scalar",
+    "3 Ability Scalar"
+  ],
+  "elements": [
+    "25% Electric",
+    "25% Fire",
+    "25% Poison",
+    "25% Physical"
+  ],
+  "dropLocations": [
+    "Forsaken Temple, Survival, Massacre, Wave 100, Rifted"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Fused Dragontemper",
+  "description": "",
+  "icon": "Fused Dragontemper.png",
+  "category": "Weapons",
+  "type": "Sword",
+  "subtype": [
+    "Sword"
+  ],
+  "stats": [
+    "2.5 Vitality Scalar",
+    "2.5 Attack Scalar",
+    "2.5 Ability Scalar"
+  ],
+  "elements": [
+    "100% Fusion"
+  ],
+  "dropLocations": [
+    "Halloween Ramparts, Survival, Massacre, Wave 25, Rifted",
+    "Halloween Ramparts, Mixed, Massacre, Wave 25, Rifted",
+    "The Summit, Campaign, Massacre, Wave 5, Rifted",
+    "The Summit, Survival, Massacre, Wave 25, Rifted",
+    "The Summit, Mixed, Massacre, Wave 25, Rifted"
+  ]
+}

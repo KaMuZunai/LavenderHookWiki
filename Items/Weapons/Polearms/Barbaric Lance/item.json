@@ -1,0 +1,8 @@
+{
+  "name": "Barbaric Lance",
+  "description": "",
+  "icon": "Barbaric Lance.png",
+  "category": "Weapons",
+  "type": "Polearm",
+  "dropLocations": "basic drop"
+}

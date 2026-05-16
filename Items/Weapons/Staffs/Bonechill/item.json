@@ -1,0 +1,41 @@
+{
+  "name": "Bonechill",
+  "description": "Forged from frostbitten bones, it trembles with restless magic.",
+  "icon": "Bonechill.png",
+  "category": "Weapons",
+  "type": "Staff",
+  "stats": [
+    "1.5 Range Scalar",
+    "1.5 Power Scalar",
+    "1.5 Ability Scalar"
+  ],
+  "elements": [
+    "100% Poison"
+  ],
+  "dropLocations": [
+    "Ancient Mines, PureStrategy, Easy, Wave 25",
+    "Ancient Mines, PureStrategy, Easy, Wave 15",
+    "Ancient Mines, PureStrategy, Medium, Wave 25",
+    "Ancient Mines, PureStrategy, Medium, Wave 15",
+    "Ancient Mines, PureStrategy, Hard, Wave 25",
+    "Ancient Mines, PureStrategy, Hard, Wave 15",
+    "Ancient Mines, PureStrategy, Insane, Wave 25",
+    "Ancient Mines, PureStrategy, Insane, Wave 15",
+    "Ancient Mines, PureStrategy, Nightmare, Wave 25",
+    "Ancient Mines, PureStrategy, Nightmare, Wave 15",
+    "Ancient Mines, PureStrategy, Massacre, Wave 25",
+    "Ancient Mines, PureStrategy, Massacre, Wave 15",
+    "The Lost Metropolis, PureStrategy, Easy, Wave 25",
+    "The Lost Metropolis, PureStrategy, Easy, Wave 15",
+    "The Lost Metropolis, PureStrategy, Medium, Wave 25",
+    "The Lost Metropolis, PureStrategy, Medium, Wave 15",
+    "The Lost Metropolis, PureStrategy, Hard, Wave 25",
+    "The Lost Metropolis, PureStrategy, Hard, Wave 15",
+    "The Lost Metropolis, PureStrategy, Insane, Wave 25",
+    "The Lost Metropolis, PureStrategy, Insane, Wave 15",
+    "The Lost Metropolis, PureStrategy, Nightmare, Wave 25",
+    "The Lost Metropolis, PureStrategy, Nightmare, Wave 15",
+    "The Lost Metropolis, PureStrategy, Massacre, Wave 25",
+    "The Lost Metropolis, PureStrategy, Massacre, Wave 15"
+  ]
+}

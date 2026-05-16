@@ -1,0 +1,17 @@
+{
+  "name": "DD1 Apprentice's Hat",
+  "description": "",
+  "icon": "DD1 Apprentice's Hat.png",
+  "category": "Accessories",
+  "type": "Mask",
+  "subtype": [
+    "Mask"
+  ],
+  "stats": [
+    "0.15 Fortify Scalar",
+    "0.15 Power Scalar",
+    "0.15 Range Scalar",
+    "0.15 Def. Rate Scalar"
+  ],
+  "dropLocations": []
+}

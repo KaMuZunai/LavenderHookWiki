@@ -1,0 +1,21 @@
+{
+  "name": "Crystal Shard",
+  "description": "Shimmering with power from the distant dimension it escaped, this shard hums with unstable Eternia energy.",
+  "icon": "Crystal Shard.png",
+  "category": "Weapons",
+  "type": "Sword",
+  "stats": [
+    "1.5 Power Scalar",
+    "1.5 Fortify Scalar",
+    "1.5 Ability Scalar"
+  ],
+  "dropLocations": [
+    "Halloween Ramparts, PureStrategy, Massacre, Wave 15",
+    "Royal Gardens, PureStrategy, Easy, Wave 25",
+    "Royal Gardens, PureStrategy, Medium, Wave 25",
+    "Royal Gardens, PureStrategy, Hard, Wave 25",
+    "Royal Gardens, PureStrategy, Insane, Wave 25",
+    "Royal Gardens, PureStrategy, Nightmare, Wave 25",
+    "Royal Gardens, PureStrategy, Massacre, Wave 25"
+  ]
+}

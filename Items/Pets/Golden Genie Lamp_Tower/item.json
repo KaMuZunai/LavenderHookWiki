@@ -1,0 +1,23 @@
+{
+  "name": "Golden Genie Lamp",
+  "description": "Applies a Random Buff/Debuff Effect for a Random Duration",
+  "icon": "Golden Genie Lamp.png",
+  "category": "Pets",
+  "type": "Pet",
+  "stats": [
+    "1.55 Def. Rate Scalar",
+    "1.55 Power Scalar",
+    "1.55 Ability Scalar"
+  ],
+  "elements": [
+    "20% Element.Attunement.Armored",
+    "20% Electric",
+    "20% Fire",
+    "20% Physical",
+    "20% Poison"
+  ],
+  "dropLocations": [
+    "Halloween Ramparts, PureStrategy, Massacre, Wave 25, Rifted",
+    "The Lost Metropolis, Survival, Massacre, Wave 100, Rifted"
+  ]
+}

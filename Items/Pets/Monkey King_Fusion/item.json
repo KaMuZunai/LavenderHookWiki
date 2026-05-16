@@ -1,0 +1,39 @@
+{
+  "name": "Monkey King",
+  "description": "Attacks nearby enemies. Consecutive Hits on the same enemy Improve Damage.",
+  "icon": "Monkey King.png",
+  "category": "Pets",
+  "type": "Pet",
+  "stats": [
+    "3 Vitality Scalar",
+    "2.65 Attack Scalar",
+    "2.65 Ability Scalar"
+  ],
+  "elements": [
+    "100% Fusion"
+  ],
+  "dropLocations": [
+    "Endless Spires, Campaign, Insane, Wave 5, Rifted",
+    "Endless Spires, Campaign, Nightmare, Wave 5, Rifted",
+    "Endless Spires, Campaign, Massacre, Wave 5, Rifted",
+    "Endless Spires, Survival, Easy, Wave 25, Rifted",
+    "Endless Spires, Survival, Medium, Wave 25, Rifted",
+    "Endless Spires, Survival, Hard, Wave 25, Rifted",
+    "Endless Spires, Survival, Insane, Wave 25, Rifted",
+    "Endless Spires, Survival, Nightmare, Wave 15, Rifted",
+    "Endless Spires, Survival, Nightmare, Wave 25, Rifted",
+    "Endless Spires, Survival, Massacre, Wave 15, Rifted",
+    "Endless Spires, Survival, Massacre, Wave 25, Rifted",
+    "Endless Spires, PureStrategy, Easy, Wave 25, Rifted",
+    "Endless Spires, PureStrategy, Insane, Wave 25, Rifted",
+    "Endless Spires, PureStrategy, Hard, Wave 25, Rifted",
+    "Endless Spires, Mixed, Easy, Wave 25, Rifted",
+    "Endless Spires, Mixed, Medium, Wave 25, Rifted",
+    "Endless Spires, Mixed, Hard, Wave 25, Rifted",
+    "Endless Spires, Mixed, Insane, Wave 25, Rifted",
+    "Endless Spires, Mixed, Nightmare, Wave 15, Rifted",
+    "Endless Spires, Mixed, Nightmare, Wave 25, Rifted",
+    "Endless Spires, Mixed, Massacre, Wave 15, Rifted",
+    "Endless Spires, Mixed, Massacre, Wave 25, Rifted"
+  ]
+}

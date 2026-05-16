@@ -1,0 +1,11 @@
+{
+  "name": "Fused Blasticus",
+  "description": "My little friend.",
+  "icon": "Fused Blasticus.png",
+  "category": "Weapons",
+  "type": "Crossbow",
+  "elements": [
+    "100% Fusion"
+  ],
+  "dropLocations": []
+}

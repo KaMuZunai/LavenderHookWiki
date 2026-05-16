@@ -1,0 +1,8 @@
+{
+  "name": "Chicken Chucker",
+  "description": "Projectiles Explode, dealing damage to nearby enemies.",
+  "icon": "Chicken Chucker.png",
+  "category": "Weapons",
+  "type": "Crossbow",
+  "dropLocations": []
+}

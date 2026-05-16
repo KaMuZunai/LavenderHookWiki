@@ -1,0 +1,10 @@
+{
+  "name": "Focus Blossom",
+  "description": "Beaming Blossom does additional % damage for each attack made against the same enemy, stacking up to  times.",
+  "icon": "Focus Blossom.png",
+  "category": "Runes",
+  "type": "Rune",
+  "dropLocations": [
+    "The Mill, Campaign, 16.67%"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Plasma Defense System",
+  "description": "Projectiles Explode, dealing damage to nearby enemies. Prioritizes stronger enemies.",
+  "icon": "Plasma Defense System.png",
+  "category": "Pets",
+  "type": "Pet",
+  "stats": [
+    "3 Vitality Scalar",
+    "3 Attack Scalar",
+    "3 Ability Scalar"
+  ],
+  "elements": [
+    "100% Fusion"
+  ],
+  "dropLocations": []
+}

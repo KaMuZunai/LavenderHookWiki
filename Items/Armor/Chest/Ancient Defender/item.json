@@ -1,0 +1,12 @@
+{
+  "name": "Ancient Defender",
+  "description": "",
+  "icon": "Ancient Defender.png",
+  "category": "Armor",
+  "type": "Chest",
+  "subtype": [
+    "Chest",
+    "Ancient"
+  ],
+  "dropLocations": "basic drop"
+}

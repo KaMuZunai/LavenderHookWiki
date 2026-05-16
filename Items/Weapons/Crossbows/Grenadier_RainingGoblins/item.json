@@ -1,0 +1,15 @@
+{
+  "name": "Grenadier",
+  "description": "Projectiles Explode, dealing damage to nearby enemies.",
+  "icon": "Grenadier.png",
+  "category": "Weapons",
+  "type": "Crossbow",
+  "elements": [
+    "100% Poison"
+  ],
+  "dropLocations": [
+    "Alchemical Laboratory, Challenge, Easy, Wave 7",
+    "Alchemical Laboratory, Challenge, Medium, Wave 7",
+    "Alchemical Laboratory, Challenge, Hard, Wave 7"
+  ]
+}

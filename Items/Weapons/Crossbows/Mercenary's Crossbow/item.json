@@ -1,0 +1,8 @@
+{
+  "name": "Mercenary's Crossbow",
+  "description": "",
+  "icon": "Mercenary's Crossbow.png",
+  "category": "Weapons",
+  "type": "Crossbow",
+  "dropLocations": []
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Talonheart",
+  "description": "The dragon sculpted at its tip is no mere decoration; some swear it breathes when the wielder’s resolve does.",
+  "icon": "Talonheart.png",
+  "category": "Weapons",
+  "type": "Polearm",
+  "stats": [
+    "1.5 Fortify Scalar",
+    "1.5 Range Scalar",
+    "1.5 Power Scalar"
+  ],
+  "dropLocations": [
+    "The Bazaar, PureStrategy, Easy, Wave 25",
+    "The Bazaar, PureStrategy, Easy, Wave 15",
+    "The Bazaar, PureStrategy, Medium, Wave 25",
+    "The Bazaar, PureStrategy, Medium, Wave 15",
+    "The Bazaar, PureStrategy, Hard, Wave 25",
+    "The Bazaar, PureStrategy, Hard, Wave 15",
+    "The Bazaar, PureStrategy, Insane, Wave 25",
+    "The Bazaar, PureStrategy, Insane, Wave 15",
+    "The Bazaar, PureStrategy, Nightmare, Wave 25",
+    "The Bazaar, PureStrategy, Nightmare, Wave 15",
+    "The Bazaar, PureStrategy, Massacre, Wave 25",
+    "The Bazaar, PureStrategy, Massacre, Wave 15",
+    "The Summit, PureStrategy, Easy, Wave 25",
+    "The Summit, PureStrategy, Easy, Wave 15",
+    "The Summit, PureStrategy, Medium, Wave 25",
+    "The Summit, PureStrategy, Medium, Wave 15",
+    "The Summit, PureStrategy, Hard, Wave 25",
+    "The Summit, PureStrategy, Hard, Wave 15",
+    "The Summit, PureStrategy, Insane, Wave 25",
+    "The Summit, PureStrategy, Insane, Wave 15",
+    "The Summit, PureStrategy, Nightmare, Wave 25",
+    "The Summit, PureStrategy, Nightmare, Wave 15",
+    "The Summit, PureStrategy, Massacre, Wave 25",
+    "The Summit, PureStrategy, Massacre, Wave 15"
+  ]
+}

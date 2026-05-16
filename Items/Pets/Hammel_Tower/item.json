@@ -1,0 +1,29 @@
+{
+  "name": "Hammel",
+  "description": "Hammel Shoots spiky cacti at nearby enemies. Projectiles deal heavy damage to their target. Additionally, It increases Move Speed by 25%.",
+  "icon": "Hammel.png",
+  "category": "Pets",
+  "type": "Pet",
+  "stats": [
+    "1 Def. Rate Scalar",
+    "1 Range Scalar",
+    "1 Fortify Scalar"
+  ],
+  "elements": [
+    "25% Electric",
+    "25% Fire",
+    "25% Poison",
+    "25% Physical"
+  ],
+  "dropLocations": [
+    "The Bazaar, Survival, Insane, Wave 15",
+    "The Bazaar, Survival, Nightmare, Wave 15",
+    "The Bazaar, Survival, Massacre, Wave 15",
+    "The Bazaar, PureStrategy, Easy, Wave 15",
+    "The Bazaar, PureStrategy, Medium, Wave 15",
+    "The Bazaar, PureStrategy, Hard, Wave 15",
+    "The Bazaar, PureStrategy, Insane, Wave 15",
+    "The Bazaar, PureStrategy, Nightmare, Wave 15",
+    "The Bazaar, PureStrategy, Massacre, Wave 15"
+  ]
+}

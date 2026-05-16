@@ -1,0 +1,29 @@
+{
+  "name": "Lycan Prince",
+  "description": "Provides Bonus Armor. Additionally, It increases Move Speed by 25%.",
+  "icon": "Lycan Prince.png",
+  "category": "Pets",
+  "type": "Pet",
+  "stats": [
+    "3 Vitality Scalar",
+    "1 Def. Rate Scalar",
+    "1.5 Fortify Scalar"
+  ],
+  "elements": [
+    "100% Fusion"
+  ],
+  "dropLocations": [
+    "The Keep, PureStrategy, Easy, Wave 15, Rifted",
+    "The Keep, PureStrategy, Easy, Wave 25, Rifted",
+    "The Keep, PureStrategy, Medium, Wave 15, Rifted",
+    "The Keep, PureStrategy, Medium, Wave 25, Rifted",
+    "The Keep, PureStrategy, Hard, Wave 15, Rifted",
+    "The Keep, PureStrategy, Hard, Wave 25, Rifted",
+    "The Keep, PureStrategy, Insane, Wave 15, Rifted",
+    "The Keep, PureStrategy, Insane, Wave 25, Rifted",
+    "The Keep, PureStrategy, Nightmare, Wave 15, Rifted",
+    "The Keep, PureStrategy, Nightmare, Wave 25, Rifted",
+    "The Keep, PureStrategy, Massacre, Wave 15, Rifted",
+    "The Keep, PureStrategy, Massacre, Wave 25, Rifted"
+  ]
+}

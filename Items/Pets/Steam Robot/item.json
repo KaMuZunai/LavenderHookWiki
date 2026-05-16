@@ -1,0 +1,40 @@
+{
+  "name": "Steam Robot",
+  "description": "Attacks nearby enemies and deals additional Knockback.",
+  "icon": "Steam Robot.png",
+  "category": "Pets",
+  "type": "Pet",
+  "stats": [
+    "2.75 Vitality Scalar",
+    "2.55 Attack Scalar",
+    "2.55 Ability Scalar"
+  ],
+  "dropLocations": [
+    "Alchemical Laboratory, Survival, Insane, Wave 25",
+    "Alchemical Laboratory, Survival, Nightmare, Wave 25",
+    "Alchemical Laboratory, Survival, Massacre, Wave 25",
+    "Alchemical Laboratory, Mixed, Easy, Wave 25",
+    "Alchemical Laboratory, Mixed, Medium, Wave 25",
+    "Alchemical Laboratory, Mixed, Hard, Wave 25",
+    "Alchemical Laboratory, Mixed, Insane, Wave 25",
+    "Alchemical Laboratory, Mixed, Nightmare, Wave 25",
+    "Alchemical Laboratory, Mixed, Massacre, Wave 25",
+    "Forsaken Temple, Campaign, Easy, Wave 5",
+    "Forsaken Temple, Campaign, Medium, Wave 5",
+    "Forsaken Temple, Campaign, Hard, Wave 5",
+    "Lava Mines, Survival, Easy, Wave 15",
+    "Lava Mines, Survival, Medium, Wave 15",
+    "Lava Mines, Survival, Hard, Wave 15",
+    "Lava Mines, Survival, Insane, Wave 15",
+    "Lava Mines, Survival, Nightmare, Wave 15",
+    "Lava Mines, Survival, Massacre, Wave 15",
+    "Lava Mines, PureStrategy, Easy, Wave 15",
+    "Lava Mines, PureStrategy, Medium, Wave 15",
+    "Lava Mines, Mixed, Easy, Wave 15",
+    "Lava Mines, Mixed, Medium, Wave 15",
+    "Lava Mines, Mixed, Hard, Wave 15",
+    "Lava Mines, Mixed, Insane, Wave 15",
+    "Lava Mines, Mixed, Nightmare, Wave 15",
+    "Lava Mines, Mixed, Massacre, Wave 15"
+  ]
+}

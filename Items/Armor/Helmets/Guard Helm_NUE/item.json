@@ -1,0 +1,14 @@
+{
+  "name": "Guard Helm",
+  "description": "",
+  "icon": "Guard Helm.png",
+  "category": "Armor",
+  "type": "Helmet",
+  "subtype": [
+    "Helmet",
+    "Guard"
+  ],
+  "dropLocations": [
+    "The Deeper Well, NUE, Medium, Wave 3"
+  ]
+}

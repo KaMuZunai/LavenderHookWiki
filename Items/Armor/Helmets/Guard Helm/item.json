@@ -1,0 +1,12 @@
+{
+  "name": "Guard Helm",
+  "description": "",
+  "icon": "Guard Helm.png",
+  "category": "Armor",
+  "type": "Helmet",
+  "subtype": [
+    "Helmet",
+    "Guard"
+  ],
+  "dropLocations": "basic drop"
+}

@@ -1,0 +1,42 @@
+{
+  "name": "EdE CorgE",
+  "description": "This monsterous pet originally belonged to Twitch streamer EdEMonster. Provides the Hero with an EXTRA jump, and 20% Speed Boost",
+  "icon": "EdE CorgE.png",
+  "category": "Pets",
+  "type": "Pet",
+  "stats": [
+    "1.25 Power Scalar",
+    "1.25 Def. Rate Scalar",
+    "1.25 Range Scalar"
+  ],
+  "dropLocations": [
+    "Alchemical Laboratory, Survival, Massacre, Wave 350",
+    "Ancient Mines, Survival, Massacre, Wave 350",
+    "Arcane Library, Survival, Massacre, Wave 350",
+    "Castle Armory, Survival, Massacre, Wave 350",
+    "Endless Spires, Survival, Massacre, Wave 350",
+    "Forsaken Temple, Survival, Massacre, Wave 350",
+    "Foundries And Forges, Survival, Massacre, Wave 350",
+    "Glitterhelm, Survival, Massacre, Wave 350",
+    "Hallof Court, Survival, Massacre, Wave 350",
+    "Halloween Ramparts, Survival, Massacre, Wave 350",
+    "Kings Game, Survival, Massacre, Wave 350",
+    "Lava Mines, Survival, Massacre, Wave 350",
+    "Magus Quarters, Survival, Massacre, Wave 350",
+    "Royal Gardens, Survival, Massacre, Wave 350",
+    "Servants Quarters, Survival, Massacre, Wave 350",
+    "The Bazaar, Survival, Massacre, Wave 350",
+    "The Deeper Well, Survival, Massacre, Wave 350",
+    "The Keep, Survival, Massacre, Wave 350",
+    "The Lost Metropolis, Survival, Massacre, Wave 350",
+    "The Mill, Survival, Massacre, Wave 350",
+    "The Outpost, Survival, Massacre, Wave 350",
+    "The Promenade, Survival, Massacre, Wave 350",
+    "The Ramparts, Survival, Massacre, Wave 350",
+    "The Summit, Survival, Massacre, Wave 350",
+    "The Throne Room, Survival, Massacre, Wave 350",
+    "Tornado High Lands, Survival, Massacre, Wave 350",
+    "Tornado Valley, Survival, Massacre, Wave 350",
+    "Viking Winter, Survival, Massacre, Wave 350"
+  ]
+}

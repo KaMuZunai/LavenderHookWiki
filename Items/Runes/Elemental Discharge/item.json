@@ -1,0 +1,10 @@
+{
+  "name": "Elemental Discharge",
+  "description": "Magic blockade deals Area of effect damage when attacked dealing % of Max Defense Health as damage, the damage type is a rotating damage type with a cooldown of  seconds.",
+  "icon": "Elemental Discharge.png",
+  "category": "Runes",
+  "type": "Rune",
+  "dropLocations": [
+    "The Keep, Campaign, 50%"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Flaming Owl",
+  "description": "The Owl Perch owl applies a fire DoT onto enemies dealing % tower damage every second for  seconds.",
+  "icon": "Flaming Owl.png",
+  "category": "Runes",
+  "type": "Rune",
+  "dropLocations": [
+    "Kings Game, Campaign, 25%",
+    "Tornado Valley, Campaign, 31.58%"
+  ]
+}

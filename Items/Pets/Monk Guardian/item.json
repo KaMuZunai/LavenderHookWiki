@@ -1,0 +1,20 @@
+{
+  "name": "Monk Guardian",
+  "description": "Improve the Effective Range of nearby defenses.",
+  "icon": "Monk Guardian.png",
+  "category": "Pets",
+  "type": "Pet",
+  "stats": [
+    "0.55 Range Scalar",
+    "0.55 Power Scalar",
+    "2.55 Ability Scalar"
+  ],
+  "dropLocations": [
+    "The Summit, PureStrategy, Easy, Wave 15, Rifted",
+    "The Summit, PureStrategy, Medium, Wave 15, Rifted",
+    "The Summit, PureStrategy, Hard, Wave 15, Rifted",
+    "The Summit, PureStrategy, Insane, Wave 15, Rifted",
+    "The Summit, PureStrategy, Nightmare, Wave 15, Rifted",
+    "The Summit, PureStrategy, Massacre, Wave 15, Rifted"
+  ]
+}

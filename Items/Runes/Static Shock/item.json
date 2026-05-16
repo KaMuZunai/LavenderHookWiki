@@ -1,0 +1,10 @@
+{
+  "name": "Static Shock",
+  "description": "For  seconds after Arcing Device is active deal % device damage in an AOE around the Rogue.",
+  "icon": "Static Shock.png",
+  "category": "Runes",
+  "type": "Rune",
+  "dropLocations": [
+    "Royal Gardens, Campaign, 50%"
+  ]
+}

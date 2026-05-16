@@ -1,0 +1,13 @@
+{
+  "name": "Giraffe on a Treadmill",
+  "description": "Increases cast rate by 20%.",
+  "icon": "Giraffe on a Treadmill.png",
+  "category": "Pets",
+  "type": "Pet",
+  "stats": [
+    "2.7 Vitality Scalar",
+    "2.7 Attack Scalar",
+    "2.7 Ability Scalar"
+  ],
+  "dropLocations": "basic drop"
+}

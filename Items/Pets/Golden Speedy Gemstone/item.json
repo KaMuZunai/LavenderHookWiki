@@ -1,0 +1,16 @@
+{
+  "name": "Golden Speedy Gemstone",
+  "description": "Improve the Attack Rate, Lifespan, and Reset Time of nearby defenses. Note this pet gives 50% More of a boost compared to a regular gemstone.",
+  "icon": "Golden Speedy Gemstone.png",
+  "category": "Pets",
+  "type": "Pet",
+  "stats": [
+    "3 Vitality Scalar",
+    "3 Attack Scalar",
+    "3 Ability Scalar"
+  ],
+  "dropLocations": [
+    "The Summit, Survival, Massacre, Wave 250",
+    "The Summit, Survival, Massacre, Wave 100, Rifted"
+  ]
+}

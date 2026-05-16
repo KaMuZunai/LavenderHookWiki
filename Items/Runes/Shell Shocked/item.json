@@ -1,0 +1,11 @@
+{
+  "name": "Shell Shocked",
+  "description": "Enemies are slowed by % and deal % reduced damage for  seconds.",
+  "icon": "Shell Shocked.png",
+  "category": "Runes",
+  "type": "Rune",
+  "dropLocations": [
+    "The Ramparts, Campaign, 25%",
+    "Viking Winter, Campaign, 55.56%"
+  ]
+}

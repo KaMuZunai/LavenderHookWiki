@@ -1,0 +1,41 @@
+{
+  "name": "Golden Douglas",
+  "description": "The trusted companion and programming assistant of Chromatic Engineer, Philip. Provides the Hero with TWO EXTRA jumps, 15% Hero Attack Rate, 20% Hero Move Speed, and Enemy Knockback",
+  "icon": "Golden Douglas.png",
+  "category": "Pets",
+  "type": "Pet",
+  "stats": [
+    "3 Vitality Scalar",
+    "3 Attack Scalar",
+    "3 Ability Scalar"
+  ],
+  "dropLocations": [
+    "Alchemical Laboratory, Survival, Massacre, Wave 500",
+    "Ancient Mines, Survival, Massacre, Wave 500",
+    "Arcane Library, Survival, Massacre, Wave 500",
+    "Castle Armory, Survival, Massacre, Wave 500",
+    "Endless Spires, Survival, Massacre, Wave 500",
+    "Forsaken Temple, Survival, Massacre, Wave 500",
+    "Foundries And Forges, Survival, Massacre, Wave 500",
+    "Glitterhelm, Survival, Massacre, Wave 500",
+    "Hallof Court, Survival, Massacre, Wave 500",
+    "Halloween Ramparts, Survival, Massacre, Wave 500",
+    "Kings Game, Survival, Massacre, Wave 500",
+    "Lava Mines, Survival, Massacre, Wave 500",
+    "Magus Quarters, Survival, Massacre, Wave 500",
+    "Royal Gardens, Survival, Massacre, Wave 500",
+    "Servants Quarters, Survival, Massacre, Wave 500",
+    "The Bazaar, Survival, Massacre, Wave 500",
+    "The Deeper Well, Survival, Massacre, Wave 500",
+    "The Keep, Survival, Massacre, Wave 500",
+    "The Lost Metropolis, Survival, Massacre, Wave 500",
+    "The Mill, Survival, Massacre, Wave 500",
+    "The Outpost, Survival, Massacre, Wave 500",
+    "The Promenade, Survival, Massacre, Wave 500",
+    "The Ramparts, Survival, Massacre, Wave 500",
+    "The Summit, Survival, Massacre, Wave 500",
+    "Tornado High Lands, Survival, Massacre, Wave 500",
+    "Tornado Valley, Survival, Massacre, Wave 500",
+    "Viking Winter, Survival, Massacre, Wave 500"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Fused Face Melter",
+  "description": "",
+  "icon": "Fused Face Melter.png",
+  "category": "Weapons",
+  "type": "Crossbow",
+  "subtype": [
+    "Crossbow"
+  ],
+  "elements": [
+    "100% Fusion"
+  ],
+  "dropLocations": "basic drop"
+}

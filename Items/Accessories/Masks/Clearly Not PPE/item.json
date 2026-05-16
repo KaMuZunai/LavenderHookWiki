@@ -1,0 +1,17 @@
+{
+  "name": "Clearly Not PPE",
+  "description": "\"Chata told him not to put that on his head, but Clobzz refused to listen and did it anyways.\"",
+  "icon": "Clearly Not PPE.png",
+  "category": "Accessories",
+  "type": "Mask",
+  "stats": [
+    "0.45 Fortify Scalar",
+    "0.45 Power Scalar",
+    "0.45 Range Scalar",
+    "0.45 Def. Rate Scalar"
+  ],
+  "dropLocations": [
+    "The Outpost, PureStrategy, Massacre, Wave 15",
+    "The Outpost, PureStrategy, Massacre, Wave 25"
+  ]
+}

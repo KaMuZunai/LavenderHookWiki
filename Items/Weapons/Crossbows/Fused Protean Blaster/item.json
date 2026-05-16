@@ -1,0 +1,23 @@
+{
+  "name": "Fused Protean Blaster",
+  "description": "Projectiles Explode, dealing damage to nearby enemies.",
+  "icon": "Fused Protean Blaster.png",
+  "category": "Weapons",
+  "type": "Crossbow",
+  "subtype": [
+    "Crossbow"
+  ],
+  "stats": [
+    "2.5 Vitality Scalar",
+    "2.5 Attack Scalar",
+    "2.5 Ability Scalar"
+  ],
+  "elements": [
+    "100% Fusion"
+  ],
+  "dropLocations": [
+    "The Throne Room, Campaign, Massacre, Wave 5, Rifted",
+    "The Throne Room, Survival, Massacre, Wave 25, Rifted",
+    "The Throne Room, Mixed, Massacre, Wave 25, Rifted"
+  ]
+}

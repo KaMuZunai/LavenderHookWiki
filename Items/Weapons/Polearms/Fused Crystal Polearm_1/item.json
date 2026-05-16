@@ -1,0 +1,17 @@
+{
+  "name": "Fused Crystal Polearm",
+  "description": "",
+  "icon": "Fused Crystal Polearm.png",
+  "category": "Weapons",
+  "type": "Polearm",
+  "stats": [
+    "0.9 Range Scalar",
+    "0.9 Fortify Scalar",
+    "0.9 Power Scalar",
+    "0.9 Def. Rate Scalar"
+  ],
+  "elements": [
+    "100% Fusion"
+  ],
+  "dropLocations": []
+}

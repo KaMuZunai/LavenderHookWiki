@@ -1,0 +1,16 @@
+{
+  "name": "Crystal Tracker",
+  "description": "Detects the resonant frequencies. Or something.",
+  "icon": "Crystal Tracker.png",
+  "category": "Weapons",
+  "type": "Crossbow",
+  "elements": [
+    "100% Poison"
+  ],
+  "dropLocations": [
+    "Magus Quarters, Challenge, Insane, Wave 5",
+    "Magus Quarters, Challenge, Nightmare, Wave 5",
+    "Magus Quarters, Challenge, Massacre, Wave 5",
+    "Magus Quarters, Challenge, Medium, Wave 5"
+  ]
+}

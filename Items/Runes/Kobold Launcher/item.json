@@ -1,0 +1,10 @@
+{
+  "name": "Kobold Launcher",
+  "description": "Replaces Ogre snotball with kobold projectile that does % of snotball damage. Cooldown of  Seconds.",
+  "icon": "Kobold Launcher.png",
+  "category": "Runes",
+  "type": "Rune",
+  "dropLocations": [
+    "Tornado High Lands, Campaign, 34.78%"
+  ]
+}

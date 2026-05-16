@@ -1,0 +1,12 @@
+{
+  "name": "Ancient Grasps",
+  "description": "",
+  "icon": "Ancient Grasps.png",
+  "category": "Armor",
+  "type": "Gloves",
+  "subtype": [
+    "Gloves",
+    "Ancient"
+  ],
+  "dropLocations": "basic drop"
+}

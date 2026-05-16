@@ -1,0 +1,17 @@
+{
+  "name": "Miner Helmet",
+  "description": "",
+  "icon": "Miner Helmet.png",
+  "category": "Armor",
+  "type": "Helmet",
+  "subtype": [
+    "Helmet",
+    "Miner"
+  ],
+  "stats": [
+    "1 Vitality Scalar",
+    "1 Attack Scalar",
+    "0.3 Ability Scalar"
+  ],
+  "dropLocations": "basic drop"
+}

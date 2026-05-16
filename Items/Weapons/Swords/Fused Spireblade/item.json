@@ -1,0 +1,32 @@
+{
+  "name": "Fused Spireblade",
+  "description": "This blade has felled foes from the first floor to the highest terrace of the Endless Spire.",
+  "icon": "Fused Spireblade.png",
+  "category": "Weapons",
+  "type": "Sword",
+  "subtype": [
+    "Sword"
+  ],
+  "stats": [
+    "1.5 Power Scalar",
+    "1.5 Def. Rate Scalar",
+    "1.5 Range Scalar"
+  ],
+  "elements": [
+    "100% Fusion"
+  ],
+  "dropLocations": [
+    "Endless Spires, PureStrategy, Easy, Wave 25, Rifted",
+    "Endless Spires, PureStrategy, Easy, Wave 15, Rifted",
+    "Endless Spires, PureStrategy, Medium, Wave 25, Rifted",
+    "Endless Spires, PureStrategy, Medium, Wave 15, Rifted",
+    "Endless Spires, PureStrategy, Hard, Wave 25, Rifted",
+    "Endless Spires, PureStrategy, Hard, Wave 15, Rifted",
+    "Endless Spires, PureStrategy, Insane, Wave 25, Rifted",
+    "Endless Spires, PureStrategy, Insane, Wave 15, Rifted",
+    "Endless Spires, PureStrategy, Nightmare, Wave 25, Rifted",
+    "Endless Spires, PureStrategy, Nightmare, Wave 15, Rifted",
+    "Endless Spires, PureStrategy, Massacre, Wave 25, Rifted",
+    "Endless Spires, PureStrategy, Massacre, Wave 15, Rifted"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Minigun",
+  "description": "",
+  "icon": "Minigun.png",
+  "category": "Weapons",
+  "type": "Crossbow",
+  "dropLocations": "basic drop"
+}

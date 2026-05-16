@@ -1,0 +1,8 @@
+{
+  "name": "Crystal Polearm",
+  "description": "",
+  "icon": "Crystal Polearm.png",
+  "category": "Weapons",
+  "type": "Polearm",
+  "dropLocations": "basic drop"
+}

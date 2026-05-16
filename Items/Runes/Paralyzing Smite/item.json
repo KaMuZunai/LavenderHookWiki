@@ -1,0 +1,10 @@
+{
+  "name": "Paralyzing Smite",
+  "description": "Enemies hit by Divine Judgement are now stunned for  seconds.",
+  "icon": "Paralyzing Smite.png",
+  "category": "Runes",
+  "type": "Rune",
+  "dropLocations": [
+    "Forsaken Temple, Campaign, 52.63%"
+  ]
+}

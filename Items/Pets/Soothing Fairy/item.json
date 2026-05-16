@@ -1,0 +1,35 @@
+{
+  "name": "Soothing Fairy",
+  "description": "Continuously Restores HP of nearby heroes.",
+  "icon": "Soothing Fairy.png",
+  "category": "Pets",
+  "type": "Pet",
+  "stats": [
+    "2 Vitality Scalar"
+  ],
+  "dropLocations": [
+    "Royal Gardens, Survival, Easy, Wave 15",
+    "Royal Gardens, Survival, Medium, Wave 15",
+    "Royal Gardens, Survival, Hard, Wave 15",
+    "Royal Gardens, Survival, Insane, Wave 15",
+    "Royal Gardens, Survival, Nightmare, Wave 15",
+    "Royal Gardens, Survival, Massacre, Wave 15",
+    "Royal Gardens, PureStrategy, Easy, Wave 15",
+    "Royal Gardens, PureStrategy, Medium, Wave 15",
+    "Royal Gardens, Mixed, Easy, Wave 15",
+    "Royal Gardens, Mixed, Medium, Wave 15",
+    "Royal Gardens, Mixed, Hard, Wave 15",
+    "Royal Gardens, Mixed, Insane, Wave 15",
+    "Royal Gardens, Mixed, Nightmare, Wave 15",
+    "Royal Gardens, Mixed, Massacre, Wave 15",
+    "The Summit, Survival, Insane, Wave 25",
+    "The Summit, Survival, Nightmare, Wave 25",
+    "The Summit, Survival, Massacre, Wave 25",
+    "The Summit, Mixed, Easy, Wave 25",
+    "The Summit, Mixed, Medium, Wave 25",
+    "The Summit, Mixed, Hard, Wave 25",
+    "The Summit, Mixed, Insane, Wave 25",
+    "The Summit, Mixed, Nightmare, Wave 25",
+    "The Summit, Mixed, Massacre, Wave 25"
+  ]
+}

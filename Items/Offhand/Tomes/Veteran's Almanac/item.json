@@ -1,0 +1,12 @@
+{
+  "name": "Veteran's Almanac",
+  "description": "",
+  "icon": "Veteran's Almanac.png",
+  "category": "Offhand",
+  "type": "Tome",
+  "stats": [
+    "1 Vitality Scalar",
+    "1 Ability Scalar"
+  ],
+  "dropLocations": "basic drop"
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Penguin",
+  "description": "Projectiles Explode, dealing damage to nearby enemies.",
+  "icon": "Penguin.png",
+  "category": "Pets",
+  "type": "Pet",
+  "stats": [
+    "2.55 Vitality Scalar",
+    "2.55 Attack Scalar",
+    "2.55 Ability Scalar"
+  ],
+  "dropLocations": [
+    "Viking Winter, Survival, Easy, Wave 15",
+    "Viking Winter, Survival, Medium, Wave 15",
+    "Viking Winter, Survival, Hard, Wave 15",
+    "Viking Winter, Survival, Insane, Wave 15",
+    "Viking Winter, Survival, Nightmare, Wave 15",
+    "Viking Winter, Survival, Massacre, Wave 15",
+    "Viking Winter, PureStrategy, Easy, Wave 15",
+    "Viking Winter, PureStrategy, Medium, Wave 15",
+    "Viking Winter, Mixed, Easy, Wave 15",
+    "Viking Winter, Mixed, Medium, Wave 15",
+    "Viking Winter, Mixed, Hard, Wave 15",
+    "Viking Winter, Mixed, Insane, Wave 15",
+    "Viking Winter, Mixed, Nightmare, Wave 15",
+    "Viking Winter, Mixed, Massacre, Wave 15"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Expert's Grimoire",
+  "description": "",
+  "icon": "Expert's Grimoire.png",
+  "category": "Offhand",
+  "type": "Tome",
+  "stats": [
+    "1 Attack Scalar",
+    "1 Vitality Scalar"
+  ],
+  "dropLocations": "basic drop"
+}

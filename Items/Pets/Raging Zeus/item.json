@@ -1,0 +1,38 @@
+{
+  "name": "Raging Zeus",
+  "description": "Projectiles Explode, dealing damage to nearby enemies and Stunning them.",
+  "icon": "Raging Zeus.png",
+  "category": "Pets",
+  "type": "Pet",
+  "stats": [
+    "2.55 Vitality Scalar",
+    "2.55 Attack Scalar",
+    "2.55 Ability Scalar"
+  ],
+  "dropLocations": [
+    "Forsaken Temple, Mixed, Massacre, Wave 25",
+    "The Keep, Survival, Insane, Wave 25",
+    "The Keep, Survival, Nightmare, Wave 25",
+    "The Keep, Survival, Massacre, Wave 25",
+    "The Keep, Mixed, Easy, Wave 25",
+    "The Keep, Mixed, Medium, Wave 25",
+    "The Keep, Mixed, Hard, Wave 25",
+    "The Keep, Mixed, Insane, Wave 25",
+    "The Keep, Mixed, Nightmare, Wave 25",
+    "The Keep, Mixed, Massacre, Wave 25",
+    "The Outpost, Survival, Easy, Wave 15",
+    "The Outpost, Survival, Medium, Wave 15",
+    "The Outpost, Survival, Hard, Wave 15",
+    "The Outpost, Survival, Insane, Wave 15",
+    "The Outpost, Survival, Nightmare, Wave 15",
+    "The Outpost, Survival, Massacre, Wave 15",
+    "The Outpost, PureStrategy, Easy, Wave 15",
+    "The Outpost, PureStrategy, Medium, Wave 15",
+    "The Outpost, Mixed, Easy, Wave 15",
+    "The Outpost, Mixed, Medium, Wave 15",
+    "The Outpost, Mixed, Hard, Wave 15",
+    "The Outpost, Mixed, Insane, Wave 15",
+    "The Outpost, Mixed, Nightmare, Wave 15",
+    "The Outpost, Mixed, Massacre, Wave 15"
+  ]
+}

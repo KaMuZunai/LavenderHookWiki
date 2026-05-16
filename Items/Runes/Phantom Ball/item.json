@@ -1,0 +1,10 @@
+{
+  "name": "Phantom Ball",
+  "description": "Bowling Ball Tower now spawns a large phantom bowling ball that pierces enemies and does % increased damage.",
+  "icon": "Phantom Ball.png",
+  "category": "Runes",
+  "type": "Rune",
+  "dropLocations": [
+    "The Throne Room, Campaign, 40%"
+  ]
+}

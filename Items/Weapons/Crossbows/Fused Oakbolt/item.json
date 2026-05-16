@@ -1,0 +1,44 @@
+{
+  "name": "Fused Oakbolt",
+  "description": "Its tip gleams like dew through the mist, piercing foes as if guided by the woods themselves.",
+  "icon": "Fused Oakbolt.png",
+  "category": "Weapons",
+  "type": "Crossbow",
+  "subtype": [
+    "Crossbow"
+  ],
+  "stats": [
+    "1.5 Fortify Scalar",
+    "1.5 Range Scalar",
+    "1.5 Def. Rate Scalar"
+  ],
+  "elements": [
+    "100% Fusion"
+  ],
+  "dropLocations": [
+    "Kings Game, PureStrategy, Easy, Wave 25, Rifted",
+    "Kings Game, PureStrategy, Easy, Wave 15, Rifted",
+    "Kings Game, PureStrategy, Medium, Wave 25, Rifted",
+    "Kings Game, PureStrategy, Medium, Wave 15, Rifted",
+    "Kings Game, PureStrategy, Hard, Wave 25, Rifted",
+    "Kings Game, PureStrategy, Hard, Wave 15, Rifted",
+    "Kings Game, PureStrategy, Insane, Wave 25, Rifted",
+    "Kings Game, PureStrategy, Insane, Wave 15, Rifted",
+    "Kings Game, PureStrategy, Nightmare, Wave 25, Rifted",
+    "Kings Game, PureStrategy, Nightmare, Wave 15, Rifted",
+    "Kings Game, PureStrategy, Massacre, Wave 25, Rifted",
+    "Kings Game, PureStrategy, Massacre, Wave 15, Rifted",
+    "The Mill, PureStrategy, Easy, Wave 25, Rifted",
+    "The Mill, PureStrategy, Easy, Wave 15, Rifted",
+    "The Mill, PureStrategy, Medium, Wave 25, Rifted",
+    "The Mill, PureStrategy, Medium, Wave 15, Rifted",
+    "The Mill, PureStrategy, Hard, Wave 25, Rifted",
+    "The Mill, PureStrategy, Hard, Wave 15, Rifted",
+    "The Mill, PureStrategy, Insane, Wave 25, Rifted",
+    "The Mill, PureStrategy, Insane, Wave 15, Rifted",
+    "The Mill, PureStrategy, Nightmare, Wave 25, Rifted",
+    "The Mill, PureStrategy, Nightmare, Wave 15, Rifted",
+    "The Mill, PureStrategy, Massacre, Wave 25, Rifted",
+    "The Mill, PureStrategy, Massacre, Wave 15, Rifted"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Fused OakHeart",
+  "description": "Some say the mist bends around it, parting just long enough for a hero’s strike.",
+  "icon": "Fused OakHeart.png",
+  "category": "Weapons",
+  "type": "Sword",
+  "subtype": [
+    "Sword"
+  ],
+  "stats": [
+    "1.5 Power Scalar",
+    "1.5 Range Scalar",
+    "1.5 Ability Scalar"
+  ],
+  "elements": [
+    "100% Fusion"
+  ],
+  "dropLocations": [
+    "The Promenade, PureStrategy, Easy, Wave 25, Rifted",
+    "The Promenade, PureStrategy, Easy, Wave 15, Rifted",
+    "The Promenade, PureStrategy, Medium, Wave 25, Rifted",
+    "The Promenade, PureStrategy, Medium, Wave 15, Rifted",
+    "The Promenade, PureStrategy, Hard, Wave 25, Rifted",
+    "The Promenade, PureStrategy, Hard, Wave 15, Rifted",
+    "The Promenade, PureStrategy, Insane, Wave 25, Rifted",
+    "The Promenade, PureStrategy, Insane, Wave 15, Rifted",
+    "The Promenade, PureStrategy, Nightmare, Wave 25, Rifted",
+    "The Promenade, PureStrategy, Nightmare, Wave 15, Rifted",
+    "The Promenade, PureStrategy, Massacre, Wave 25, Rifted",
+    "The Promenade, PureStrategy, Massacre, Wave 15, Rifted"
+  ]
+}

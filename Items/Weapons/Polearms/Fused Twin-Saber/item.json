@@ -1,0 +1,45 @@
+{
+  "name": "Fused Twin-Saber",
+  "description": "A whirlwind of red blades, cutting through enemies as effortlessly as through the air.",
+  "icon": "Fused Twin-Saber.png",
+  "category": "Weapons",
+  "type": "Polearm",
+  "subtype": [
+    "Polearm"
+  ],
+  "stats": [
+    "1.5 Power Scalar",
+    "1.5 Range Scalar",
+    "1.5 Ability Scalar"
+  ],
+  "elements": [
+    "100% Fusion"
+  ],
+  "dropLocations": [
+    "Forsaken Temple, PureStrategy, Easy, Wave 25, Rifted",
+    "Forsaken Temple, PureStrategy, Easy, Wave 15, Rifted",
+    "Forsaken Temple, PureStrategy, Medium, Wave 25, Rifted",
+    "Forsaken Temple, PureStrategy, Medium, Wave 15, Rifted",
+    "Forsaken Temple, PureStrategy, Hard, Wave 25, Rifted",
+    "Forsaken Temple, PureStrategy, Hard, Wave 15, Rifted",
+    "Forsaken Temple, PureStrategy, Insane, Wave 25, Rifted",
+    "Forsaken Temple, PureStrategy, Insane, Wave 15, Rifted",
+    "Forsaken Temple, PureStrategy, Nightmare, Wave 25, Rifted",
+    "Forsaken Temple, PureStrategy, Nightmare, Wave 15, Rifted",
+    "Forsaken Temple, PureStrategy, Massacre, Wave 25, Rifted",
+    "Forsaken Temple, PureStrategy, Massacre, Wave 15, Rifted",
+    "Halloween Ramparts, PureStrategy, Massacre, Wave 15, Rifted",
+    "Tornado High Lands, PureStrategy, Easy, Wave 25, Rifted",
+    "Tornado High Lands, PureStrategy, Easy, Wave 15, Rifted",
+    "Tornado High Lands, PureStrategy, Medium, Wave 25, Rifted",
+    "Tornado High Lands, PureStrategy, Medium, Wave 15, Rifted",
+    "Tornado High Lands, PureStrategy, Hard, Wave 25, Rifted",
+    "Tornado High Lands, PureStrategy, Hard, Wave 15, Rifted",
+    "Tornado High Lands, PureStrategy, Insane, Wave 25, Rifted",
+    "Tornado High Lands, PureStrategy, Insane, Wave 15, Rifted",
+    "Tornado High Lands, PureStrategy, Nightmare, Wave 25, Rifted",
+    "Tornado High Lands, PureStrategy, Nightmare, Wave 15, Rifted",
+    "Tornado High Lands, PureStrategy, Massacre, Wave 25, Rifted",
+    "Tornado High Lands, PureStrategy, Massacre, Wave 15, Rifted"
+  ]
+}

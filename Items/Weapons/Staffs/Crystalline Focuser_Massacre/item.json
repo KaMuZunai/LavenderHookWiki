@@ -1,0 +1,23 @@
+{
+  "name": "Crystalline Focuser",
+  "description": "",
+  "icon": "Crystalline Focuser.png",
+  "category": "Weapons",
+  "type": "Staff",
+  "stats": [
+    "2 Vitality Scalar",
+    "2 Attack Scalar",
+    "2 Ability Scalar"
+  ],
+  "elements": [
+    "100% Fire"
+  ],
+  "dropLocations": [
+    "The Summit, Campaign, Massacre, Wave 5",
+    "The Summit, Survival, Massacre, Wave 25",
+    "The Summit, Mixed, Easy, Wave 25",
+    "The Summit, Mixed, Medium, Wave 25",
+    "The Summit, Mixed, Hard, Wave 25",
+    "The Summit, Mixed, Massacre, Wave 25"
+  ]
+}

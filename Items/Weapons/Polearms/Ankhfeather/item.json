@@ -1,0 +1,38 @@
+{
+  "name": "Ankhfeather",
+  "description": "The feather of life, sharpened into steel, watches over its wielder with silent wisdom.",
+  "icon": "Ankhfeather.png",
+  "category": "Weapons",
+  "type": "Polearm",
+  "stats": [
+    "1.5 Power Scalar",
+    "1.5 Def. Rate Scalar",
+    "1.5 Fortify Scalar"
+  ],
+  "dropLocations": [
+    "Forsaken Temple, PureStrategy, Easy, Wave 25",
+    "Forsaken Temple, PureStrategy, Easy, Wave 15",
+    "Forsaken Temple, PureStrategy, Medium, Wave 25",
+    "Forsaken Temple, PureStrategy, Medium, Wave 15",
+    "Forsaken Temple, PureStrategy, Hard, Wave 25",
+    "Forsaken Temple, PureStrategy, Hard, Wave 15",
+    "Forsaken Temple, PureStrategy, Insane, Wave 25",
+    "Forsaken Temple, PureStrategy, Insane, Wave 15",
+    "Forsaken Temple, PureStrategy, Nightmare, Wave 25",
+    "Forsaken Temple, PureStrategy, Nightmare, Wave 15",
+    "Forsaken Temple, PureStrategy, Massacre, Wave 25",
+    "Forsaken Temple, PureStrategy, Massacre, Wave 15",
+    "The Bazaar, PureStrategy, Easy, Wave 25",
+    "The Bazaar, PureStrategy, Easy, Wave 15",
+    "The Bazaar, PureStrategy, Medium, Wave 25",
+    "The Bazaar, PureStrategy, Medium, Wave 15",
+    "The Bazaar, PureStrategy, Hard, Wave 25",
+    "The Bazaar, PureStrategy, Hard, Wave 15",
+    "The Bazaar, PureStrategy, Insane, Wave 25",
+    "The Bazaar, PureStrategy, Insane, Wave 15",
+    "The Bazaar, PureStrategy, Nightmare, Wave 25",
+    "The Bazaar, PureStrategy, Nightmare, Wave 15",
+    "The Bazaar, PureStrategy, Massacre, Wave 25",
+    "The Bazaar, PureStrategy, Massacre, Wave 15"
+  ]
+}

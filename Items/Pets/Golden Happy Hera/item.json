@@ -1,0 +1,22 @@
+{
+  "name": "Golden Happy Hera",
+  "description": "Projectiles Explode, dealing damage to nearby enemies. Restoring HP for each enemy hit.",
+  "icon": "Golden Happy Hera.png",
+  "category": "Pets",
+  "type": "Pet",
+  "stats": [
+    "4 Vitality Scalar",
+    "3 Attack Scalar",
+    "3 Ability Scalar"
+  ],
+  "elements": [
+    "20% Element.Attunement.Armored",
+    "20% Electric",
+    "20% Fire",
+    "20% Physical",
+    "20% Poison"
+  ],
+  "dropLocations": [
+    "The Mill, Survival, Massacre, Wave 100, Rifted"
+  ]
+}

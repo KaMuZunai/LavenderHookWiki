@@ -1,0 +1,11 @@
+{
+  "name": "Face Melter",
+  "description": "",
+  "icon": "Face Melter.png",
+  "category": "Weapons",
+  "type": "Crossbow",
+  "elements": [
+    "100% Fire"
+  ],
+  "dropLocations": "basic drop"
+}

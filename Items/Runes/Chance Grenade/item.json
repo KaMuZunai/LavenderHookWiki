@@ -1,0 +1,13 @@
+{
+  "name": "Chance Grenade",
+  "description": "Grenade Toss has a % chance to spawn another grenade upon hitting an enemy.",
+  "icon": "Chance Grenade.png",
+  "category": "Runes",
+  "type": "Rune",
+  "dropLocations": [
+    "Arcane Library, Campaign, 76.92%",
+    "Hallof Court, Campaign, 50%",
+    "Halloween Ramparts, Campaign, 50%",
+    "Scary_dungeon, Campaign, 50%"
+  ]
+}

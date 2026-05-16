@@ -1,0 +1,16 @@
+{
+  "name": "Primitive Pathfinders",
+  "description": "",
+  "icon": "Primitive Pathfinders.png",
+  "category": "Armor",
+  "type": "Boots",
+  "subtype": [
+    "Boots",
+    "Primitive"
+  ],
+  "stats": [
+    "1 Fortify Scalar",
+    "1 Def. Rate Scalar"
+  ],
+  "dropLocations": "basic drop"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Penguin",
+  "description": "Projectiles Explode, dealing damage to nearby enemies. This pet also increases move speed by 25%.",
+  "icon": "Penguin.png",
+  "category": "Pets",
+  "type": "Pet",
+  "stats": [
+    "1 Power Scalar",
+    "1 Range Scalar",
+    "1 Fortify Scalar"
+  ],
+  "dropLocations": [
+    "Viking Winter, Survival, Insane, Wave 15",
+    "Viking Winter, Survival, Nightmare, Wave 15",
+    "Viking Winter, Survival, Massacre, Wave 15",
+    "Viking Winter, PureStrategy, Massacre, Wave 15"
+  ]
+}

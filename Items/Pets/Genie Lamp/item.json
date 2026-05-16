@@ -1,0 +1,22 @@
+{
+  "name": "Genie Lamp",
+  "description": "Applies a Random Buff/Debuff Effect for a Random Duration",
+  "icon": "Genie Lamp.png",
+  "category": "Pets",
+  "type": "Pet",
+  "stats": [
+    "2.75 Vitality Scalar",
+    "2.55 Attack Scalar",
+    "2.55 Ability Scalar"
+  ],
+  "dropLocations": [
+    "Forsaken Temple, Survival, Insane, Wave 25",
+    "Forsaken Temple, Survival, Nightmare, Wave 25",
+    "Forsaken Temple, Survival, Massacre, Wave 25",
+    "The Lost Metropolis, Survival, Massacre, Wave 15",
+    "The Lost Metropolis, Mixed, Easy, Wave 15",
+    "The Lost Metropolis, Mixed, Medium, Wave 15",
+    "The Lost Metropolis, Mixed, Hard, Wave 15",
+    "The Lost Metropolis, Mixed, Massacre, Wave 15"
+  ]
+}

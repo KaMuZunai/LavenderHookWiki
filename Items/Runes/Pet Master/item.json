@@ -1,0 +1,11 @@
+{
+  "name": "Pet Master",
+  "description": "Pet Boost now applies to nearby allies and increases their pet damage by %.",
+  "icon": "Pet Master.png",
+  "category": "Runes",
+  "type": "Rune",
+  "dropLocations": [
+    "Kings Game, Campaign, 25%",
+    "The Throne Room, Campaign, 20%"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Mini Ogre",
+  "description": "Attacks enemies at all ranges, Melee if in ranged and Explosive Projectiles at ranged.",
+  "icon": "Mini Ogre.png",
+  "category": "Pets",
+  "type": "Pet",
+  "stats": [
+    "2.65 Vitality Scalar",
+    "2.65 Attack Scalar",
+    "2.65 Ability Scalar"
+  ],
+  "elements": [
+    "100% Fusion"
+  ],
+  "dropLocations": [
+    "Castle Armory, Survival, Easy, Wave 25, Rifted",
+    "Castle Armory, Survival, Hard, Wave 25, Rifted",
+    "Castle Armory, Survival, Insane, Wave 25, Rifted",
+    "Castle Armory, Survival, Nightmare, Wave 15, Rifted",
+    "Castle Armory, Survival, Nightmare, Wave 25, Rifted",
+    "Castle Armory, Survival, Massacre, Wave 15, Rifted",
+    "Castle Armory, Survival, Massacre, Wave 25, Rifted",
+    "Castle Armory, Mixed, Easy, Wave 25, Rifted",
+    "Castle Armory, Mixed, Hard, Wave 25, Rifted",
+    "Castle Armory, Mixed, Insane, Wave 25, Rifted",
+    "Castle Armory, Mixed, Nightmare, Wave 15, Rifted",
+    "Castle Armory, Mixed, Nightmare, Wave 25, Rifted",
+    "Castle Armory, Mixed, Massacre, Wave 15, Rifted",
+    "Castle Armory, Mixed, Massacre, Wave 25, Rifted"
+  ]
+}

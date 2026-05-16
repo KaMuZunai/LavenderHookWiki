@@ -1,0 +1,11 @@
+{
+  "name": "Eternian Wand",
+  "description": "",
+  "icon": "Eternian Wand.png",
+  "category": "Weapons",
+  "type": "Staff",
+  "elements": [
+    "100% Physical"
+  ],
+  "dropLocations": "basic drop"
+}

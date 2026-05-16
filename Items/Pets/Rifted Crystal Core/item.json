@@ -1,0 +1,15 @@
+{
+  "name": "Rifted Crystal Core",
+  "description": "This crystal companion enhances mobility with a small jump height increase while empowering its wielder with a 10% casting rate bonus.",
+  "icon": "Rifted Crystal Core.png",
+  "category": "Pets",
+  "type": "Pet",
+  "stats": [
+    "1 Fortify Scalar",
+    "1 Power Scalar"
+  ],
+  "dropLocations": [
+    "Magus Quarters, Challenge, Massacre, Wave 5",
+    "Royal Gardens, Challenge, Massacre, Wave 5"
+  ]
+}

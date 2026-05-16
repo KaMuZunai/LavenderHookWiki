@@ -1,0 +1,12 @@
+{
+  "name": "Ancient Headpiece",
+  "description": "",
+  "icon": "Ancient Headpiece.png",
+  "category": "Armor",
+  "type": "Helmet",
+  "subtype": [
+    "Helmet",
+    "Ancient"
+  ],
+  "dropLocations": "basic drop"
+}

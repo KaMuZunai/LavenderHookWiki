@@ -1,0 +1,44 @@
+{
+  "name": "Fused Massfire",
+  "description": "Unleashes a torrent of bullets so relentless, foes barely see the first before the last strikes.",
+  "icon": "Fused Massfire.png",
+  "category": "Weapons",
+  "type": "Crossbow",
+  "subtype": [
+    "Crossbow"
+  ],
+  "stats": [
+    "1.5 Def. Rate Scalar",
+    "1.5 Power Scalar",
+    "1.5 Ability Scalar"
+  ],
+  "elements": [
+    "100% Fusion"
+  ],
+  "dropLocations": [
+    "Alchemical Laboratory, PureStrategy, Easy, Wave 25, Rifted",
+    "Alchemical Laboratory, PureStrategy, Easy, Wave 15, Rifted",
+    "Alchemical Laboratory, PureStrategy, Medium, Wave 25, Rifted",
+    "Alchemical Laboratory, PureStrategy, Medium, Wave 15, Rifted",
+    "Alchemical Laboratory, PureStrategy, Hard, Wave 25, Rifted",
+    "Alchemical Laboratory, PureStrategy, Hard, Wave 15, Rifted",
+    "Alchemical Laboratory, PureStrategy, Insane, Wave 25, Rifted",
+    "Alchemical Laboratory, PureStrategy, Insane, Wave 15, Rifted",
+    "Alchemical Laboratory, PureStrategy, Nightmare, Wave 25, Rifted",
+    "Alchemical Laboratory, PureStrategy, Nightmare, Wave 15, Rifted",
+    "Alchemical Laboratory, PureStrategy, Massacre, Wave 25, Rifted",
+    "Alchemical Laboratory, PureStrategy, Massacre, Wave 15, Rifted",
+    "Kings Game, PureStrategy, Easy, Wave 25, Rifted",
+    "Kings Game, PureStrategy, Easy, Wave 15, Rifted",
+    "Kings Game, PureStrategy, Medium, Wave 25, Rifted",
+    "Kings Game, PureStrategy, Medium, Wave 15, Rifted",
+    "Kings Game, PureStrategy, Hard, Wave 25, Rifted",
+    "Kings Game, PureStrategy, Hard, Wave 15, Rifted",
+    "Kings Game, PureStrategy, Insane, Wave 25, Rifted",
+    "Kings Game, PureStrategy, Insane, Wave 15, Rifted",
+    "Kings Game, PureStrategy, Nightmare, Wave 25, Rifted",
+    "Kings Game, PureStrategy, Nightmare, Wave 15, Rifted",
+    "Kings Game, PureStrategy, Massacre, Wave 25, Rifted",
+    "Kings Game, PureStrategy, Massacre, Wave 15, Rifted"
+  ]
+}

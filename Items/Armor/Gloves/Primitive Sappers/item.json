@@ -1,0 +1,16 @@
+{
+  "name": "Primitive Sappers",
+  "description": "",
+  "icon": "Primitive Sappers.png",
+  "category": "Armor",
+  "type": "Gloves",
+  "subtype": [
+    "Gloves",
+    "Primitive"
+  ],
+  "stats": [
+    "1 Fortify Scalar",
+    "1 Def. Rate Scalar"
+  ],
+  "dropLocations": "basic drop"
+}

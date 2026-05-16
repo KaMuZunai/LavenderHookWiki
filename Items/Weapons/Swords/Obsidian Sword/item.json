@@ -1,0 +1,26 @@
+{
+  "name": "Obsidian Sword",
+  "description": "",
+  "icon": "Obsidian Sword.png",
+  "category": "Weapons",
+  "type": "Sword",
+  "stats": [
+    "2.5 Vitality Scalar",
+    "2.5 Attack Scalar",
+    "2.5 Ability Scalar"
+  ],
+  "dropLocations": [
+    "Forsaken Temple, Survival, Easy, Wave 25",
+    "Forsaken Temple, Survival, Medium, Wave 25",
+    "Forsaken Temple, Survival, Hard, Wave 25",
+    "Forsaken Temple, Survival, Insane, Wave 25",
+    "Forsaken Temple, Survival, Nightmare, Wave 25",
+    "Forsaken Temple, Survival, Massacre, Wave 25",
+    "Forsaken Temple, PureStrategy, Easy, Wave 25",
+    "Forsaken Temple, PureStrategy, Medium, Wave 25",
+    "Forsaken Temple, Mixed, Easy, Wave 25",
+    "Forsaken Temple, Mixed, Medium, Wave 25",
+    "Forsaken Temple, Mixed, Hard, Wave 25",
+    "Forsaken Temple, Mixed, Massacre, Wave 25"
+  ]
+}

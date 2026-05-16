@@ -1,0 +1,8 @@
+{
+  "name": "Recruit's Pouch",
+  "description": "",
+  "icon": "Recruit's Pouch.png",
+  "category": "Offhand",
+  "type": "AmmoPouch",
+  "dropLocations": "basic drop"
+}

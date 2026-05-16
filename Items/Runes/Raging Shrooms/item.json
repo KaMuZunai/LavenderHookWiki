@@ -1,0 +1,10 @@
+{
+  "name": "Raging Shrooms",
+  "description": "Enemies hit by  Shroomy Geyser have a  % chance of becoming Enraged for   seconds",
+  "icon": "Raging Shrooms.png",
+  "category": "Runes",
+  "type": "Rune",
+  "dropLocations": [
+    "The Lost Metropolis, Campaign, 50%"
+  ]
+}

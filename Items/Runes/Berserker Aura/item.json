@@ -1,0 +1,10 @@
+{
+  "name": "Berserker Aura",
+  "description": "Enrage Aura increases the damage enraged enemies deal by %.",
+  "icon": "Berserker Aura.png",
+  "category": "Runes",
+  "type": "Rune",
+  "dropLocations": [
+    "The Ramparts, Campaign, 50%"
+  ]
+}

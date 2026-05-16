@@ -1,0 +1,44 @@
+{
+  "name": "Fused Paintstorm",
+  "description": "Why settle for one stream of paint when you can double the mess, double the chaos, and double the fun?",
+  "icon": "Fused Paintstorm.png",
+  "category": "Weapons",
+  "type": "Crossbow",
+  "subtype": [
+    "Crossbow"
+  ],
+  "stats": [
+    "1.5 Power Scalar",
+    "1.5 Fortify Scalar",
+    "1.5 Def. Rate Scalar"
+  ],
+  "elements": [
+    "100% Fusion"
+  ],
+  "dropLocations": [
+    "Kings Game, PureStrategy, Easy, Wave 25, Rifted",
+    "Kings Game, PureStrategy, Easy, Wave 15, Rifted",
+    "Kings Game, PureStrategy, Medium, Wave 25, Rifted",
+    "Kings Game, PureStrategy, Medium, Wave 15, Rifted",
+    "Kings Game, PureStrategy, Hard, Wave 25, Rifted",
+    "Kings Game, PureStrategy, Hard, Wave 15, Rifted",
+    "Kings Game, PureStrategy, Insane, Wave 25, Rifted",
+    "Kings Game, PureStrategy, Insane, Wave 15, Rifted",
+    "Kings Game, PureStrategy, Nightmare, Wave 25, Rifted",
+    "Kings Game, PureStrategy, Nightmare, Wave 15, Rifted",
+    "Kings Game, PureStrategy, Massacre, Wave 25, Rifted",
+    "Kings Game, PureStrategy, Massacre, Wave 15, Rifted",
+    "Royal Gardens, PureStrategy, Easy, Wave 25, Rifted",
+    "Royal Gardens, PureStrategy, Easy, Wave 15, Rifted",
+    "Royal Gardens, PureStrategy, Medium, Wave 25, Rifted",
+    "Royal Gardens, PureStrategy, Medium, Wave 15, Rifted",
+    "Royal Gardens, PureStrategy, Hard, Wave 25, Rifted",
+    "Royal Gardens, PureStrategy, Hard, Wave 15, Rifted",
+    "Royal Gardens, PureStrategy, Insane, Wave 25, Rifted",
+    "Royal Gardens, PureStrategy, Insane, Wave 15, Rifted",
+    "Royal Gardens, PureStrategy, Nightmare, Wave 25, Rifted",
+    "Royal Gardens, PureStrategy, Nightmare, Wave 15, Rifted",
+    "Royal Gardens, PureStrategy, Massacre, Wave 25, Rifted",
+    "Royal Gardens, PureStrategy, Massacre, Wave 15, Rifted"
+  ]
+}

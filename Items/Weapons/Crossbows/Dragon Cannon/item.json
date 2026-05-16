@@ -1,0 +1,11 @@
+{
+  "name": "Dragon Cannon",
+  "description": "Projectiles Explode, dealing damage to nearby enemies.",
+  "icon": "Dragon Cannon.png",
+  "category": "Weapons",
+  "type": "Crossbow",
+  "elements": [
+    "100% Fire"
+  ],
+  "dropLocations": "basic drop"
+}

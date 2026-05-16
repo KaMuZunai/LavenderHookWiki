@@ -1,0 +1,12 @@
+{
+  "name": "Guard Sabatons",
+  "description": "",
+  "icon": "Guard Sabatons.png",
+  "category": "Armor",
+  "type": "Boots",
+  "subtype": [
+    "Boots",
+    "Guard"
+  ],
+  "dropLocations": "basic drop"
+}

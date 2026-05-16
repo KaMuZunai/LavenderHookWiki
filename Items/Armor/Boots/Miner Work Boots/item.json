@@ -1,0 +1,16 @@
+{
+  "name": "Miner Work Boots",
+  "description": "",
+  "icon": "Miner Work Boots.png",
+  "category": "Armor",
+  "type": "Boots",
+  "subtype": [
+    "Boots",
+    "Miner"
+  ],
+  "stats": [
+    "1 Power Scalar",
+    "1 Fortify Scalar"
+  ],
+  "dropLocations": "basic drop"
+}

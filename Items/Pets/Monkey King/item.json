@@ -1,0 +1,37 @@
+{
+  "name": "Monkey King",
+  "description": "Attacks nearby enemies. Consecutive Hits on the same enemy Improve Damage.",
+  "icon": "Monkey King.png",
+  "category": "Pets",
+  "type": "Pet",
+  "stats": [
+    "2.75 Vitality Scalar",
+    "2.55 Attack Scalar",
+    "2.55 Ability Scalar"
+  ],
+  "dropLocations": [
+    "Endless Spires, Survival, Easy, Wave 15",
+    "Endless Spires, Survival, Medium, Wave 15",
+    "Endless Spires, Survival, Hard, Wave 15",
+    "Endless Spires, Survival, Insane, Wave 15",
+    "Endless Spires, Survival, Nightmare, Wave 15",
+    "Endless Spires, Survival, Massacre, Wave 15",
+    "Endless Spires, PureStrategy, Easy, Wave 15",
+    "Endless Spires, PureStrategy, Medium, Wave 15",
+    "Endless Spires, Mixed, Easy, Wave 15",
+    "Endless Spires, Mixed, Medium, Wave 15",
+    "Endless Spires, Mixed, Hard, Wave 15",
+    "Endless Spires, Mixed, Insane, Wave 15",
+    "Endless Spires, Mixed, Nightmare, Wave 15",
+    "Endless Spires, Mixed, Massacre, Wave 15",
+    "The Throne Room, Survival, Insane, Wave 25",
+    "The Throne Room, Survival, Nightmare, Wave 25",
+    "The Throne Room, Survival, Massacre, Wave 25",
+    "The Throne Room, Mixed, Easy, Wave 25",
+    "The Throne Room, Mixed, Medium, Wave 25",
+    "The Throne Room, Mixed, Hard, Wave 25",
+    "The Throne Room, Mixed, Insane, Wave 25",
+    "The Throne Room, Mixed, Nightmare, Wave 25",
+    "The Throne Room, Mixed, Massacre, Wave 25"
+  ]
+}

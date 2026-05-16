@@ -1,0 +1,48 @@
+{
+  "name": "Demi Demon Lord",
+  "description": "Attacks at all ranges.",
+  "icon": "Demi Demon Lord.png",
+  "category": "Pets",
+  "type": "Pet",
+  "stats": [
+    "2.55 Vitality Scalar",
+    "2.55 Attack Scalar",
+    "2.55 Ability Scalar"
+  ],
+  "elements": [
+    "100% Fire"
+  ],
+  "dropLocations": [
+    "Forsaken Temple, Mixed, Massacre, Wave 25",
+    "Foundries And Forges, Survival, Easy, Wave 15",
+    "Foundries And Forges, Survival, Medium, Wave 15",
+    "Foundries And Forges, Survival, Hard, Wave 15",
+    "Foundries And Forges, Survival, Insane, Wave 15",
+    "Foundries And Forges, Survival, Nightmare, Wave 15",
+    "Foundries And Forges, Survival, Massacre, Wave 15",
+    "Foundries And Forges, PureStrategy, Easy, Wave 15",
+    "Foundries And Forges, PureStrategy, Medium, Wave 15",
+    "Foundries And Forges, Mixed, Easy, Wave 15",
+    "Foundries And Forges, Mixed, Medium, Wave 15",
+    "Foundries And Forges, Mixed, Hard, Wave 15",
+    "Foundries And Forges, Mixed, Insane, Wave 15",
+    "Foundries And Forges, Mixed, Nightmare, Wave 15",
+    "Foundries And Forges, Mixed, Massacre, Wave 15",
+    "The Keep, Survival, Insane, Wave 25",
+    "The Keep, Survival, Nightmare, Wave 25",
+    "The Keep, Survival, Massacre, Wave 25",
+    "The Keep, Mixed, Easy, Wave 25",
+    "The Keep, Mixed, Medium, Wave 25",
+    "The Keep, Mixed, Hard, Wave 25",
+    "The Keep, Mixed, Insane, Wave 25",
+    "The Keep, Mixed, Nightmare, Wave 25",
+    "The Keep, Mixed, Massacre, Wave 25",
+    "The Lost Metropolis, Survival, Easy, Wave 15",
+    "The Lost Metropolis, Survival, Medium, Wave 15",
+    "The Lost Metropolis, Survival, Hard, Wave 15",
+    "The Lost Metropolis, PureStrategy, Easy, Wave 15",
+    "The Lost Metropolis, PureStrategy, Medium, Wave 15",
+    "The Lost Metropolis, Mixed, Insane, Wave 15",
+    "The Lost Metropolis, Mixed, Nightmare, Wave 15"
+  ]
+}

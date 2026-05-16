@@ -1,0 +1,10 @@
+{
+  "name": "Empowering Ring",
+  "description": "Warden and allies who walk through Mushroom Circle now gain %  movement speed  and %  bonus damage  which lasts for  seconds upon exiting.",
+  "icon": "Empowering Ring.png",
+  "category": "Runes",
+  "type": "Rune",
+  "dropLocations": [
+    "Castle Armory, Campaign, 25%"
+  ]
+}

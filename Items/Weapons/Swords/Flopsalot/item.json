@@ -1,0 +1,15 @@
+{
+  "name": "Flopsalot",
+  "description": "\"The toughest question Ive ever been asked.\"",
+  "icon": "Flopsalot.png",
+  "category": "Weapons",
+  "type": "Sword",
+  "stats": [
+    "1.5 Power Scalar",
+    "1.5 Def. Rate Scalar",
+    "1.5 Range Scalar"
+  ],
+  "dropLocations": [
+    "Viking Winter, PureStrategy, Massacre, Wave 15"
+  ]
+}

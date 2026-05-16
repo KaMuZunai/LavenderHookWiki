@@ -1,0 +1,23 @@
+{
+  "name": "Fused Draketooth",
+  "description": "",
+  "icon": "Fused Draketooth.png",
+  "category": "Weapons",
+  "type": "Polearm",
+  "subtype": [
+    "Polearm"
+  ],
+  "stats": [
+    "2.5 Vitality Scalar",
+    "2.5 Attack Scalar",
+    "2.5 Ability Scalar"
+  ],
+  "elements": [
+    "100% Fusion"
+  ],
+  "dropLocations": [
+    "The Summit, Campaign, Massacre, Wave 5, Rifted",
+    "The Summit, Survival, Massacre, Wave 25, Rifted",
+    "The Summit, Mixed, Massacre, Wave 25, Rifted"
+  ]
+}

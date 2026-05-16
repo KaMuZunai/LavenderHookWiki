@@ -1,0 +1,17 @@
+{
+  "name": "Fused Kings face",
+  "description": "Once worn by a king, now fractured by the rift — its gaze still commands fear.",
+  "icon": "Fused Kings face.png",
+  "category": "Accessories",
+  "type": "Mask",
+  "stats": [
+    "0.45 Fortify Scalar",
+    "0.45 Power Scalar",
+    "0.45 Range Scalar",
+    "0.45 Def. Rate Scalar"
+  ],
+  "dropLocations": [
+    "The Keep, PureStrategy, Massacre, Wave 25, Rifted",
+    "The Keep, PureStrategy, Massacre, Wave 15, Rifted"
+  ]
+}

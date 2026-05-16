@@ -1,0 +1,22 @@
+{
+  "name": "Golden Paddle Ball",
+  "description": "Attacks nearby enemies. Has a chance to Enrage weaker enemies for 10Ⅹ.",
+  "icon": "Golden Paddle Ball.png",
+  "category": "Pets",
+  "type": "Pet",
+  "stats": [
+    "3.25 Vitality Scalar",
+    "2.8 Attack Scalar",
+    "2.8 Ability Scalar"
+  ],
+  "elements": [
+    "20% Element.Attunement.Armored",
+    "20% Electric",
+    "20% Physical",
+    "20% Poison",
+    "20% Fire"
+  ],
+  "dropLocations": [
+    "Magus Quarters, Survival, Massacre, Wave 100, Rifted"
+  ]
+}

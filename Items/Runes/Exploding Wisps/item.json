@@ -1,0 +1,10 @@
+{
+  "name": "Exploding Wisps",
+  "description": "Wisp Dens Explode dealing % damage upon attaching to a new target. Cooldown of  seconds.",
+  "icon": "Exploding Wisps.png",
+  "category": "Runes",
+  "type": "Rune",
+  "dropLocations": [
+    "The Keep, Campaign, 25%"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Heavy Crossbow",
+  "description": "Projectiles Pierce, dealing damage to all enemies in a line.",
+  "icon": "Heavy Crossbow.png",
+  "category": "Weapons",
+  "type": "Crossbow",
+  "dropLocations": "basic drop"
+}

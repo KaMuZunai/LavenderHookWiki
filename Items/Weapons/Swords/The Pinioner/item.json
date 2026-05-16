@@ -1,0 +1,16 @@
+{
+  "name": "The Pinioner",
+  "description": "We will always remember what it was like to fly.",
+  "icon": "The Pinioner.png",
+  "category": "Weapons",
+  "type": "Sword",
+  "elements": [
+    "100% Electric"
+  ],
+  "dropLocations": [
+    "The Ramparts, Challenge, Insane, Wave 6",
+    "The Ramparts, Challenge, Nightmare, Wave 6",
+    "The Ramparts, Challenge, Massacre, Wave 6",
+    "The Ramparts, Challenge, Medium, Wave 6"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Mantis Great Scythe",
+  "description": "",
+  "icon": "Mantis Great Scythe.png",
+  "category": "Weapons",
+  "type": "Polearm",
+  "stats": [
+    "1.5 Vitality Scalar",
+    "1.5 Attack Scalar",
+    "1.5 Ability Scalar"
+  ],
+  "dropLocations": "basic drop"
+}

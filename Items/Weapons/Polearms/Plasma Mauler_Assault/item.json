@@ -1,0 +1,15 @@
+{
+  "name": "Plasma Mauler",
+  "description": "",
+  "icon": "Plasma Mauler.png",
+  "category": "Weapons",
+  "type": "Polearm",
+  "elements": [
+    "100% Electric"
+  ],
+  "dropLocations": [
+    "Endless Spires, Challenge, Easy, Wave 1",
+    "Endless Spires, Challenge, Medium, Wave 1",
+    "Endless Spires, Challenge, Hard, Wave 1"
+  ]
+}

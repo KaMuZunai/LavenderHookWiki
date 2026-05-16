@@ -1,0 +1,10 @@
+{
+  "name": "Rejuvenating Aura",
+  "description": "Leaving Heal Aura applies a heal over time, that heals % of Max HP every second for  seconds.",
+  "icon": "Rejuvenating Aura.png",
+  "category": "Runes",
+  "type": "Rune",
+  "dropLocations": [
+    "Endless Spires, Campaign, 66.67%"
+  ]
+}

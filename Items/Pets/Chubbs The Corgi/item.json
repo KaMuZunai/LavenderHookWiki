@@ -1,0 +1,41 @@
+{
+  "name": "Chubbs The Corgi",
+  "description": "This rad pet originally belonged to YouTuber TheRadBrad. Provides the Hero with an EXTRA jump, and 15% Hero Damage Boost",
+  "icon": "Chubbs The Corgi.png",
+  "category": "Pets",
+  "type": "Pet",
+  "stats": [
+    "2.9 Vitality Scalar",
+    "2.9 Attack Scalar",
+    "2.9 Ability Scalar"
+  ],
+  "dropLocations": [
+    "Alchemical Laboratory, Survival, Massacre, Wave 400",
+    "Ancient Mines, Survival, Massacre, Wave 400",
+    "Arcane Library, Survival, Massacre, Wave 400",
+    "Castle Armory, Survival, Massacre, Wave 400",
+    "Endless Spires, Survival, Massacre, Wave 400",
+    "Forsaken Temple, Survival, Massacre, Wave 400",
+    "Foundries And Forges, Survival, Massacre, Wave 400",
+    "Glitterhelm, Survival, Massacre, Wave 400",
+    "Hallof Court, Survival, Massacre, Wave 400",
+    "Halloween Ramparts, Survival, Massacre, Wave 400",
+    "Kings Game, Survival, Massacre, Wave 400",
+    "Lava Mines, Survival, Massacre, Wave 400",
+    "Magus Quarters, Survival, Massacre, Wave 400",
+    "Royal Gardens, Survival, Massacre, Wave 400",
+    "Servants Quarters, Survival, Massacre, Wave 400",
+    "The Bazaar, Survival, Massacre, Wave 400",
+    "The Deeper Well, Survival, Massacre, Wave 400",
+    "The Keep, Survival, Massacre, Wave 400",
+    "The Lost Metropolis, Survival, Massacre, Wave 400",
+    "The Mill, Survival, Massacre, Wave 400",
+    "The Outpost, Survival, Massacre, Wave 400",
+    "The Promenade, Survival, Massacre, Wave 400",
+    "The Ramparts, Survival, Massacre, Wave 400",
+    "The Summit, Survival, Massacre, Wave 400",
+    "Tornado High Lands, Survival, Massacre, Wave 400",
+    "Tornado Valley, Survival, Massacre, Wave 400",
+    "Viking Winter, Survival, Massacre, Wave 400"
+  ]
+}

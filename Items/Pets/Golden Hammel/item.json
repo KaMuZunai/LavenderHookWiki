@@ -1,0 +1,21 @@
+{
+  "name": "Golden Hammel",
+  "description": "Hammel Shoots spiky cacti at nearby enemies. Projectiles deal heavy damage to their target.",
+  "icon": "Golden Hammel.png",
+  "category": "Pets",
+  "type": "Pet",
+  "stats": [
+    "3.25 Vitality Scalar",
+    "3.25 Attack Scalar",
+    "3.25 Ability Scalar"
+  ],
+  "elements": [
+    "25% Electric",
+    "25% Fire",
+    "25% Poison",
+    "25% Physical"
+  ],
+  "dropLocations": [
+    "The Bazaar, Survival, Massacre, Wave 100, Rifted"
+  ]
+}

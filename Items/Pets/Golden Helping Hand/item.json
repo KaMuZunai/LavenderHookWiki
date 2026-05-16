@@ -1,0 +1,16 @@
+{
+  "name": "Golden Helping Hand",
+  "description": "Repairs nearby defenses below 75% HP. Consumes Build Mana. Also grants the user a 20% speed buff",
+  "icon": "Golden Helping Hand.png",
+  "category": "Pets",
+  "type": "Pet",
+  "stats": [
+    "1 Range Scalar",
+    "1 Power Scalar",
+    "1 Def. Rate Scalar",
+    "1 None Scalar"
+  ],
+  "dropLocations": [
+    "The Promenade, Survival, Massacre, Wave 100, Rifted"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Strengthen Field",
+  "description": "Reflect Field is now a blockade, allowing enemies to attack it, also while also reflecting projectiles back at sender. Reflected projectiles still cause damage to the blockade but % is healed back to the defense. This effect applies once per a match and upon switching characters the Physical beam will convert back into a reflect field.",
+  "icon": "Strengthen Field.png",
+  "category": "Runes",
+  "type": "Rune",
+  "dropLocations": [
+    "The Outpost, Campaign, 50%"
+  ]
+}

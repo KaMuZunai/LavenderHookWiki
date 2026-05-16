@@ -1,0 +1,15 @@
+{
+  "name": "Golden Soothing Fairy",
+  "description": "Continuously Restores HP of nearby heroes.",
+  "icon": "Golden Soothing Fairy.png",
+  "category": "Pets",
+  "type": "Pet",
+  "stats": [
+    "3.5 Vitality Scalar",
+    "2.5 Attack Scalar",
+    "2.5 Ability Scalar"
+  ],
+  "dropLocations": [
+    "Royal Gardens, Survival, Massacre, Wave 100, Rifted"
+  ]
+}

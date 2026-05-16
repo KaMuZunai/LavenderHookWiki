@@ -1,0 +1,16 @@
+{
+  "name": "Posion Dart Tower",
+  "description": "Projectiles Explode, dealing damage to nearby enemies. Prioritizes stronger enemies.",
+  "icon": "Posion Dart Tower.png",
+  "category": "Pets",
+  "type": "Pet",
+  "stats": [
+    "3 Vitality Scalar",
+    "3 Attack Scalar",
+    "3 Ability Scalar"
+  ],
+  "elements": [
+    "100% Fusion"
+  ],
+  "dropLocations": []
+}

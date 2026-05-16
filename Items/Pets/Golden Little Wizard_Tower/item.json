@@ -1,0 +1,21 @@
+{
+  "name": "Golden Little Wizard",
+  "description": "",
+  "icon": "Golden Little Wizard.png",
+  "category": "Pets",
+  "type": "Pet",
+  "stats": [
+    "1 Fortify Scalar",
+    "1 Power Scalar",
+    "1 Def. Rate Scalar"
+  ],
+  "elements": [
+    "25% Electric",
+    "25% Fire",
+    "25% Poison",
+    "25% Physical"
+  ],
+  "dropLocations": [
+    "Tornado Valley, Survival, Massacre, Wave 100, Rifted"
+  ]
+}

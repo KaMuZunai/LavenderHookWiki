@@ -1,0 +1,10 @@
+{
+  "name": "Divine Absorption",
+  "description": "The Holy Bulwark now heals % of damage received from the towers it is protecting. It will not heal from damage it receives directly.",
+  "icon": "Divine Absorption.png",
+  "category": "Runes",
+  "type": "Rune",
+  "dropLocations": [
+    "Foundries And Forges, Campaign, 55.56%"
+  ]
+}

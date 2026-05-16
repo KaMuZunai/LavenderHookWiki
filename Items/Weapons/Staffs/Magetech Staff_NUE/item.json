@@ -1,0 +1,16 @@
+{
+  "name": "Magetech Staff",
+  "description": "",
+  "icon": "Magetech Staff.png",
+  "category": "Weapons",
+  "type": "Staff",
+  "elements": [
+    "100% Fire"
+  ],
+  "dropLocations": [
+    "The Deeper Well, NUE, Medium, Wave 2",
+    "The Deeper Well, Campaign, Easy, Wave 2",
+    "The Deeper Well, Campaign, Medium, Wave 2",
+    "The Deeper Well, Campaign, Hard, Wave 2"
+  ]
+}

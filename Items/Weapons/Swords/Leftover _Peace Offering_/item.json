@@ -1,0 +1,15 @@
+{
+  "name": "Leftover \"Peace Offering\"",
+  "description": "\"When words fail and diplomatic talks sour, NuminousFox reaches for the dagger. Because nothing says 'the conversation is over' like being walloped by a purple leg of mystery meat.\"",
+  "icon": "Leftover _Peace Offering_.png",
+  "category": "Weapons",
+  "type": "Sword",
+  "stats": [
+    "1.5 Range Scalar",
+    "1.5 Power Scalar",
+    "1.5 Def. Rate Scalar"
+  ],
+  "dropLocations": [
+    "Castle Armory, PureStrategy, Massacre, Wave 15"
+  ]
+}

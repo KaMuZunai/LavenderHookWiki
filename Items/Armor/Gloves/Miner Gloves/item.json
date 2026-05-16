@@ -1,0 +1,16 @@
+{
+  "name": "Miner Gloves",
+  "description": "",
+  "icon": "Miner Gloves.png",
+  "category": "Armor",
+  "type": "Gloves",
+  "subtype": [
+    "Gloves",
+    "Miner"
+  ],
+  "stats": [
+    "1 Power Scalar",
+    "1 Fortify Scalar"
+  ],
+  "dropLocations": "basic drop"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Lapis Gemstone",
+  "description": "Your next attack applies debuff that decreases the damage dealt by enemies by 15 percent for 6 seconds 4 second cooldown",
+  "icon": "Lapis Gemstone.png",
+  "category": "Pets",
+  "type": "Pet",
+  "stats": [
+    "1.75 Vitality Scalar",
+    "1.75 Attack Scalar",
+    "1.75 Ability Scalar"
+  ],
+  "dropLocations": [
+    "Forsaken Temple, Mixed, Massacre, Wave 25",
+    "The Keep, Survival, Insane, Wave 25",
+    "The Keep, Survival, Nightmare, Wave 25",
+    "The Keep, Survival, Massacre, Wave 25",
+    "The Keep, Mixed, Easy, Wave 25",
+    "The Keep, Mixed, Medium, Wave 25",
+    "The Keep, Mixed, Hard, Wave 25",
+    "The Keep, Mixed, Insane, Wave 25",
+    "The Keep, Mixed, Nightmare, Wave 25",
+    "The Keep, Mixed, Massacre, Wave 25",
+    "The Lost Metropolis, Survival, Insane, Wave 15",
+    "The Lost Metropolis, Survival, Nightmare, Wave 15",
+    "The Summit, Challenge, Massacre, Wave 5"
+  ]
+}

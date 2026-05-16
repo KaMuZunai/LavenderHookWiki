@@ -1,0 +1,13 @@
+{
+  "name": "Chargin' Ramster",
+  "description": "Attacks Pierce nearby enemies, dealing damage in a line.",
+  "icon": "Chargin' Ramster.png",
+  "category": "Pets",
+  "type": "Pet",
+  "stats": [
+    "1.5 Vitality Scalar",
+    "1.5 Attack Scalar",
+    "1.5 Ability Scalar"
+  ],
+  "dropLocations": []
+}

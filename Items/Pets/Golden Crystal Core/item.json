@@ -1,0 +1,15 @@
+{
+  "name": "Golden Crystal Core",
+  "description": "This crystal companion enhances mobility with a small jump height increase of 20% while empowering its wielder with a 10% casting rate bonus.",
+  "icon": "Golden Crystal Core.png",
+  "category": "Pets",
+  "type": "Pet",
+  "stats": [
+    "1.5 Power Scalar",
+    "1 Fortify Scalar"
+  ],
+  "dropLocations": [
+    "Magus Quarters, Challenge, Massacre, Wave 5",
+    "Royal Gardens, Challenge, Massacre, Wave 5"
+  ]
+}

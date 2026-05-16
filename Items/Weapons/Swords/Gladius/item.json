@@ -1,0 +1,8 @@
+{
+  "name": "Gladius",
+  "description": "",
+  "icon": "Gladius.png",
+  "category": "Weapons",
+  "type": "Sword",
+  "dropLocations": "basic drop"
+}

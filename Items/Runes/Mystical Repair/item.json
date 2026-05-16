@@ -1,0 +1,10 @@
+{
+  "name": "Mystical Repair",
+  "description": "Tower Boost Slowly Repairs Defenses for % of max tower health every second.",
+  "icon": "Mystical Repair.png",
+  "category": "Runes",
+  "type": "Rune",
+  "dropLocations": [
+    "Lava Mines, Campaign, 76.92%"
+  ]
+}

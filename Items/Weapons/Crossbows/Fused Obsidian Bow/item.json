@@ -1,0 +1,20 @@
+{
+  "name": "Fused Obsidian Bow",
+  "description": "",
+  "icon": "Fused Obsidian Bow.png",
+  "category": "Weapons",
+  "type": "Crossbow",
+  "stats": [
+    "2.5 Vitality Scalar",
+    "2.5 Attack Scalar",
+    "2.5 Ability Scalar"
+  ],
+  "elements": [
+    "100% Fusion"
+  ],
+  "dropLocations": [
+    "Forsaken Temple, Campaign, Massacre, Wave 5, Rifted",
+    "Forsaken Temple, Survival, Massacre, Wave 25, Rifted",
+    "Forsaken Temple, Mixed, Massacre, Wave 25, Rifted"
+  ]
+}

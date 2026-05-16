@@ -1,0 +1,8 @@
+{
+  "name": "Spiked Greatbow",
+  "description": "",
+  "icon": "Spiked Greatbow.png",
+  "category": "Weapons",
+  "type": "Crossbow",
+  "dropLocations": "basic drop"
+}

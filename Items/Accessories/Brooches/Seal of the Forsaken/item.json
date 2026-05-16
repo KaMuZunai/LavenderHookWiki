@@ -1,0 +1,40 @@
+{
+  "name": "Seal of the Forsaken",
+  "description": "Legend says this seal once locked the temple's greatest secrets. Apparently, those secrets weren't 'giant worm proof.' At least it’s shiny!",
+  "icon": "Seal of the Forsaken.png",
+  "category": "Accessories",
+  "type": "Brooch",
+  "subtype": [
+    "Brooch"
+  ],
+  "stats": [
+    "0.45 Fortify Scalar",
+    "0.45 Power Scalar",
+    "0.45 Range Scalar",
+    "0.45 Def. Rate Scalar"
+  ],
+  "dropLocations": [
+    "Forsaken Temple, Survival, Easy, Wave 25",
+    "Forsaken Temple, Survival, Medium, Wave 25",
+    "Forsaken Temple, Survival, Hard, Wave 25",
+    "Forsaken Temple, Survival, Insane, Wave 25",
+    "Forsaken Temple, Survival, Nightmare, Wave 25",
+    "Forsaken Temple, Survival, Massacre, Wave 25",
+    "Forsaken Temple, PureStrategy, Easy, Wave 25",
+    "Forsaken Temple, PureStrategy, Easy, Wave 25, Rifted",
+    "Forsaken Temple, PureStrategy, Easy, Wave 15, Rifted",
+    "Forsaken Temple, PureStrategy, Medium, Wave 25",
+    "Forsaken Temple, PureStrategy, Medium, Wave 25, Rifted",
+    "Forsaken Temple, PureStrategy, Medium, Wave 15, Rifted",
+    "Forsaken Temple, PureStrategy, Hard, Wave 25",
+    "Forsaken Temple, PureStrategy, Hard, Wave 25, Rifted",
+    "Forsaken Temple, PureStrategy, Hard, Wave 15, Rifted",
+    "Forsaken Temple, PureStrategy, Insane, Wave 25",
+    "Forsaken Temple, PureStrategy, Insane, Wave 25, Rifted",
+    "Forsaken Temple, PureStrategy, Insane, Wave 15, Rifted",
+    "Forsaken Temple, PureStrategy, Nightmare, Wave 25",
+    "Forsaken Temple, PureStrategy, Nightmare, Wave 25, Rifted",
+    "Forsaken Temple, PureStrategy, Nightmare, Wave 15, Rifted",
+    "Forsaken Temple, PureStrategy, Massacre, Wave 25"
+  ]
+}

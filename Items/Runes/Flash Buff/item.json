@@ -1,0 +1,10 @@
+{
+  "name": "Flash Buff",
+  "description": "Defenses within Flash Heal gain % Attack rate and % Power for  Seconds.",
+  "icon": "Flash Buff.png",
+  "category": "Runes",
+  "type": "Rune",
+  "dropLocations": [
+    "Magus Quarters, Campaign, 41.67%"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Giraffe on a Treadmill",
+  "description": "Increases cast rate by 20%.",
+  "icon": "Giraffe on a Treadmill.png",
+  "category": "Pets",
+  "type": "Pet",
+  "stats": [
+    "1 Fortify Scalar",
+    "1 Def. Rate Scalar",
+    "1 Power Scalar"
+  ],
+  "dropLocations": "basic drop"
+}

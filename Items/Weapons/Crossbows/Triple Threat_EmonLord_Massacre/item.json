@@ -1,0 +1,11 @@
+{
+  "name": "Triple Threat",
+  "description": "",
+  "icon": "Triple Threat.png",
+  "category": "Weapons",
+  "type": "Crossbow",
+  "elements": [
+    "100% Poison"
+  ],
+  "dropLocations": []
+}

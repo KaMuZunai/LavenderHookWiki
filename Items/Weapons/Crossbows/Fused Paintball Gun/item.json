@@ -1,0 +1,14 @@
+{
+  "name": "Fused Paintball Gun",
+  "description": "",
+  "icon": "Fused Paintball Gun.png",
+  "category": "Weapons",
+  "type": "Crossbow",
+  "subtype": [
+    "Crossbow"
+  ],
+  "elements": [
+    "100% Fusion"
+  ],
+  "dropLocations": "basic drop"
+}

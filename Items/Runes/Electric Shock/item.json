@@ -1,0 +1,10 @@
+{
+  "name": "Electric Shock",
+  "description": "Proton Beam has a % chance to shock and stun enemies for  seconds.",
+  "icon": "Electric Shock.png",
+  "category": "Runes",
+  "type": "Rune",
+  "dropLocations": [
+    "Tornado Valley, Campaign, 52.63%"
+  ]
+}

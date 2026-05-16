@@ -1,0 +1,8 @@
+{
+  "name": "Morning Star",
+  "description": "",
+  "icon": "Morning Star.png",
+  "category": "Weapons",
+  "type": "Polearm",
+  "dropLocations": "basic drop"
+}

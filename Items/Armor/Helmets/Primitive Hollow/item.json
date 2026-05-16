@@ -1,0 +1,16 @@
+{
+  "name": "Primitive Hollow",
+  "description": "",
+  "icon": "Primitive Hollow.png",
+  "category": "Armor",
+  "type": "Helmet",
+  "subtype": [
+    "Helmet",
+    "Primitive"
+  ],
+  "stats": [
+    "1 Fortify Scalar",
+    "1 Def. Rate Scalar"
+  ],
+  "dropLocations": "basic drop"
+}

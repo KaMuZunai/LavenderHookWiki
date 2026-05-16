@@ -1,0 +1,14 @@
+{
+  "name": "Fused Minigun",
+  "description": "",
+  "icon": "Fused Minigun.png",
+  "category": "Weapons",
+  "type": "Crossbow",
+  "subtype": [
+    "Crossbow"
+  ],
+  "elements": [
+    "100% Fusion"
+  ],
+  "dropLocations": "basic drop"
+}

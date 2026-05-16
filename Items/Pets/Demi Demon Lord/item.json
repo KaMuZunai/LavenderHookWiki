@@ -1,0 +1,16 @@
+{
+  "name": "Demi Demon Lord",
+  "description": "Attacks at all ranges.",
+  "icon": "Demi Demon Lord.png",
+  "category": "Pets",
+  "type": "Pet",
+  "stats": [
+    "2.55 Vitality Scalar",
+    "2.55 Attack Scalar",
+    "2.55 Ability Scalar"
+  ],
+  "elements": [
+    "100% Fire"
+  ],
+  "dropLocations": []
+}

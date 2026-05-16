@@ -1,0 +1,16 @@
+{
+  "name": "Shambhala Ley Staff",
+  "description": "If only Nathan had this artifact.",
+  "icon": "Shambhala Ley Staff.png",
+  "category": "Weapons",
+  "type": "Staff",
+  "elements": [
+    "100% Fire"
+  ],
+  "dropLocations": [
+    "The Summit, Challenge, Insane, Wave 5",
+    "The Summit, Challenge, Nightmare, Wave 5",
+    "The Summit, Challenge, Massacre, Wave 5",
+    "The Summit, Challenge, Medium, Wave 5"
+  ]
+}

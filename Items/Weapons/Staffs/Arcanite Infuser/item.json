@@ -1,0 +1,8 @@
+{
+  "name": "Arcanite Infuser",
+  "description": "",
+  "icon": "Arcanite Infuser.png",
+  "category": "Weapons",
+  "type": "Staff",
+  "dropLocations": "basic drop"
+}

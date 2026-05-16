@@ -1,0 +1,13 @@
+{
+  "name": "Giraffe on a Treadmill",
+  "description": "",
+  "icon": "Giraffe on a Treadmill.png",
+  "category": "Pets",
+  "type": "Pet",
+  "stats": [
+    "1.5 Vitality Scalar",
+    "1.5 Attack Scalar",
+    "1.5 Ability Scalar"
+  ],
+  "dropLocations": []
+}

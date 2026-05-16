@@ -1,0 +1,10 @@
+{
+  "name": "Poison Dagger",
+  "description": "Swift Assault Dagger deals % of dagger damage every second for  Seconds to the enemy hit.",
+  "icon": "Poison Dagger.png",
+  "category": "Runes",
+  "type": "Rune",
+  "dropLocations": [
+    "The Mill, Campaign, 27.78%"
+  ]
+}

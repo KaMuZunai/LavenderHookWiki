@@ -1,0 +1,14 @@
+{
+  "name": "Jester's Domino",
+  "description": "",
+  "icon": "Jester's Domino.png",
+  "category": "Accessories",
+  "type": "Mask",
+  "stats": [
+    "0.3 Fortify Scalar",
+    "0.3 Power Scalar",
+    "0.3 Range Scalar",
+    "0.3 Def. Rate Scalar"
+  ],
+  "dropLocations": "basic drop"
+}

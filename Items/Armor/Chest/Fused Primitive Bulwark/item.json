@@ -1,0 +1,18 @@
+{
+  "name": "Fused Primitive Bulwark",
+  "description": "",
+  "icon": "Fused Primitive Bulwark.png",
+  "category": "Armor",
+  "type": "Chest",
+  "subtype": [
+    "Chest",
+    "Primitive"
+  ],
+  "stats": [
+    "1 Fortify Scalar"
+  ],
+  "elements": [
+    "100% Fusion"
+  ],
+  "dropLocations": "basic drop"
+}

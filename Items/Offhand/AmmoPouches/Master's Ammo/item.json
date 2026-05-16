@@ -1,0 +1,13 @@
+{
+  "name": "Master's Ammo",
+  "description": "",
+  "icon": "Master's Ammo.png",
+  "category": "Offhand",
+  "type": "AmmoPouch",
+  "stats": [
+    "1.25 Ability Scalar",
+    "1.25 Vitality Scalar",
+    "1.25 Attack Scalar"
+  ],
+  "dropLocations": "basic drop"
+}

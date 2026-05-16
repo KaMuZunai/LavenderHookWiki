@@ -1,0 +1,12 @@
+{
+  "name": "Expert's Artillery",
+  "description": "",
+  "icon": "Expert's Artillery.png",
+  "category": "Offhand",
+  "type": "AmmoPouch",
+  "stats": [
+    "1 Vitality Scalar",
+    "1 Attack Scalar"
+  ],
+  "dropLocations": "basic drop"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Retribution Aura",
+  "description": "While Divine Protection is active % of damage received is reflected back at the enemies.",
+  "icon": "Retribution Aura.png",
+  "category": "Runes",
+  "type": "Rune",
+  "dropLocations": [
+    "The Outpost, Campaign, 25%"
+  ]
+}

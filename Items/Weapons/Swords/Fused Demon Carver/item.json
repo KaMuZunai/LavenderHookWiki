@@ -1,0 +1,23 @@
+{
+  "name": "Fused Demon Carver",
+  "description": "",
+  "icon": "Fused Demon Carver.png",
+  "category": "Weapons",
+  "type": "Sword",
+  "subtype": [
+    "Sword"
+  ],
+  "stats": [
+    "2.5 Vitality Scalar",
+    "2.5 Attack Scalar",
+    "2.5 Ability Scalar"
+  ],
+  "elements": [
+    "100% Fusion"
+  ],
+  "dropLocations": [
+    "Alchemical Laboratory, Campaign, Massacre, Wave 5, Rifted",
+    "Alchemical Laboratory, Survival, Massacre, Wave 25, Rifted",
+    "Alchemical Laboratory, Mixed, Massacre, Wave 25, Rifted"
+  ]
+}

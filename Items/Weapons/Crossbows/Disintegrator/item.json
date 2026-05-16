@@ -1,0 +1,8 @@
+{
+  "name": "Disintegrator",
+  "description": "",
+  "icon": "Disintegrator.png",
+  "category": "Weapons",
+  "type": "Crossbow",
+  "dropLocations": "basic drop"
+}

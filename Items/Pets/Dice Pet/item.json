@@ -1,0 +1,28 @@
+{
+  "name": "Dice Pet",
+  "description": "Attacks nearby enemies and deals damage with a chance to crit. On a successful crit restores ability mana.\r\n\r\nAdditionally increases cast rate by 10%.",
+  "icon": "Dice Pet.png",
+  "category": "Pets",
+  "type": "Pet",
+  "stats": [
+    "4.75 Vitality Scalar",
+    "4.5 Attack Scalar",
+    "4.5 Ability Scalar"
+  ],
+  "dropLocations": [
+    "Kings Game, Survival, Easy, Wave 15",
+    "Kings Game, Survival, Medium, Wave 15",
+    "Kings Game, Survival, Hard, Wave 15",
+    "Kings Game, Survival, Insane, Wave 15",
+    "Kings Game, Survival, Nightmare, Wave 15",
+    "Kings Game, Survival, Massacre, Wave 15",
+    "Kings Game, PureStrategy, Easy, Wave 15",
+    "Kings Game, PureStrategy, Medium, Wave 15",
+    "Kings Game, Mixed, Easy, Wave 15",
+    "Kings Game, Mixed, Medium, Wave 15",
+    "Kings Game, Mixed, Hard, Wave 15",
+    "Kings Game, Mixed, Insane, Wave 15",
+    "Kings Game, Mixed, Nightmare, Wave 15",
+    "Kings Game, Mixed, Massacre, Wave 15"
+  ]
+}

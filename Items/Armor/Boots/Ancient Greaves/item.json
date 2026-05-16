@@ -1,0 +1,12 @@
+{
+  "name": "Ancient Greaves",
+  "description": "",
+  "icon": "Ancient Greaves.png",
+  "category": "Armor",
+  "type": "Boots",
+  "subtype": [
+    "Boots",
+    "Ancient"
+  ],
+  "dropLocations": "basic drop"
+}

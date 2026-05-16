@@ -1,0 +1,15 @@
+{
+  "name": "Chicken Chucker",
+  "description": "Projectiles Explode, dealing damage to nearby enemies.",
+  "icon": "Chicken Chucker.png",
+  "category": "Weapons",
+  "type": "Crossbow",
+  "elements": [
+    "100% Electric"
+  ],
+  "dropLocations": [
+    "The Throne Room, Challenge, Easy, Wave 5",
+    "The Throne Room, Challenge, Medium, Wave 5",
+    "The Throne Room, Challenge, Hard, Wave 5"
+  ]
+}

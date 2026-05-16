@@ -1,0 +1,19 @@
+{
+  "name": "Woodland Whisper",
+  "description": "Projectiles Pierce, dealing damage to all enemies in a line.",
+  "icon": "Woodland Whisper.png",
+  "category": "Weapons",
+  "type": "Crossbow",
+  "stats": [
+    "1.5 Vitality Scalar",
+    "1.5 Attack Scalar",
+    "1.5 Ability Scalar"
+  ],
+  "elements": [
+    "100% Physical"
+  ],
+  "dropLocations": [
+    "The Keep, Mixed, Insane, Wave 25",
+    "The Keep, Mixed, Nightmare, Wave 25"
+  ]
+}

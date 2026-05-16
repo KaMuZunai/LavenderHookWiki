@@ -1,0 +1,8 @@
+{
+  "name": "Practice Pole",
+  "description": "",
+  "icon": "Practice Pole.png",
+  "category": "Weapons",
+  "type": "Polearm",
+  "dropLocations": "basic drop"
+}

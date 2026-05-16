@@ -1,0 +1,27 @@
+{
+  "name": "Oakheart",
+  "description": "Forged from the heartwood of Mistymire, it carries the whispers and shadows of the forest.",
+  "icon": "Oakheart.png",
+  "category": "Weapons",
+  "type": "Sword",
+  "stats": [
+    "1.5 Range Scalar",
+    "1.5 Power Scalar",
+    "1.5 Fortify Scalar"
+  ],
+  "dropLocations": [
+    "Halloween Ramparts, PureStrategy, Massacre, Wave 15",
+    "The Mill, PureStrategy, Easy, Wave 25",
+    "The Mill, PureStrategy, Easy, Wave 15",
+    "The Mill, PureStrategy, Medium, Wave 25",
+    "The Mill, PureStrategy, Medium, Wave 15",
+    "The Mill, PureStrategy, Hard, Wave 25",
+    "The Mill, PureStrategy, Hard, Wave 15",
+    "The Mill, PureStrategy, Insane, Wave 25",
+    "The Mill, PureStrategy, Insane, Wave 15",
+    "The Mill, PureStrategy, Nightmare, Wave 25",
+    "The Mill, PureStrategy, Nightmare, Wave 15",
+    "The Mill, PureStrategy, Massacre, Wave 25",
+    "The Mill, PureStrategy, Massacre, Wave 15"
+  ]
+}

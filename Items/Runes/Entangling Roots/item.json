@@ -1,0 +1,10 @@
+{
+  "name": "Entangling Roots",
+  "description": "Applies % slow and % Tower Damage DoT to enemies within range.",
+  "icon": "Entangling Roots.png",
+  "category": "Runes",
+  "type": "Rune",
+  "dropLocations": [
+    "Magus Quarters, Campaign, 41.67%"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Multiple Marks",
+  "description": "Increases max number of Marked targets by .",
+  "icon": "Multiple Marks.png",
+  "category": "Runes",
+  "type": "Rune",
+  "dropLocations": [
+    "Ancient Mines, Campaign, 76.92%"
+  ]
+}

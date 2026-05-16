@@ -1,0 +1,11 @@
+{
+  "name": "Propeller Cat",
+  "description": "Improve the Damage of nearby heroes.",
+  "icon": "Propeller Cat.png",
+  "category": "Pets",
+  "type": "Pet",
+  "stats": [
+    "1.5 Attack Scalar"
+  ],
+  "dropLocations": []
+}

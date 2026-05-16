@@ -1,0 +1,14 @@
+{
+  "name": "Fused Magetech Staff",
+  "description": "",
+  "icon": "Fused Magetech Staff.png",
+  "category": "Weapons",
+  "type": "MagicStaff",
+  "subtype": [
+    "MagicStaff"
+  ],
+  "elements": [
+    "100% Fusion"
+  ],
+  "dropLocations": "basic drop"
+}

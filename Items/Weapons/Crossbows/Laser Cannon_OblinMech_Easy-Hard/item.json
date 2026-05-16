@@ -1,0 +1,21 @@
+{
+  "name": "Laser Cannon",
+  "description": "Projectiles Explode, dealing damage to nearby enemies.",
+  "icon": "Laser Cannon.png",
+  "category": "Weapons",
+  "type": "Crossbow",
+  "elements": [
+    "100% Electric"
+  ],
+  "dropLocations": [
+    "The Throne Room, NUE, Medium, Wave 5",
+    "The Throne Room, Campaign, Easy, Wave 5",
+    "The Throne Room, Campaign, Medium, Wave 5",
+    "The Throne Room, Campaign, Hard, Wave 5",
+    "The Throne Room, Survival, Easy, Wave 25",
+    "The Throne Room, Survival, Medium, Wave 25",
+    "The Throne Room, Survival, Hard, Wave 25",
+    "The Throne Room, PureStrategy, Easy, Wave 25",
+    "The Throne Room, PureStrategy, Medium, Wave 25"
+  ]
+}

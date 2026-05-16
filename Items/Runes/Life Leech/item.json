@@ -1,0 +1,10 @@
+{
+  "name": "Life Leech",
+  "description": "Arrows heal the Archer for a % of the max health but decreases max health by %.",
+  "icon": "Life Leech.png",
+  "category": "Runes",
+  "type": "Rune",
+  "dropLocations": [
+    "The Promenade, Campaign, 25%"
+  ]
+}

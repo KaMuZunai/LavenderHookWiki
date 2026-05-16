@@ -1,0 +1,10 @@
+{
+  "name": "Blazing Fire",
+  "description": "Applies Fire damage over time and deals % tower damage every second for  seconds.",
+  "icon": "Blazing Fire.png",
+  "category": "Runes",
+  "type": "Rune",
+  "dropLocations": [
+    "Glitterhelm, Campaign, 25%"
+  ]
+}

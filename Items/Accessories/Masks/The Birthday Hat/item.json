@@ -1,0 +1,17 @@
+{
+  "name": "The Birthday Hat",
+  "description": "Two birthdays, one celebration, and plenty of reasons to party.\"",
+  "icon": "The Birthday Hat.png",
+  "category": "Accessories",
+  "type": "Mask",
+  "stats": [
+    "0.45 Fortify Scalar",
+    "0.45 Power Scalar",
+    "0.45 Range Scalar",
+    "0.45 Def. Rate Scalar"
+  ],
+  "dropLocations": [
+    "Kings Game, PureStrategy, Massacre, Wave 25",
+    "Kings Game, PureStrategy, Massacre, Wave 15"
+  ]
+}

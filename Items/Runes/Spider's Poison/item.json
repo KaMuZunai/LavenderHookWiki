@@ -1,0 +1,11 @@
+{
+  "name": "Spider's Poison",
+  "description": "Webbed enemies have a % to be posioned and recieve damage over time that deals % tower damage per second for  Seconds.",
+  "icon": "Spider's Poison.png",
+  "category": "Runes",
+  "type": "Rune",
+  "dropLocations": [
+    "The Ramparts, Campaign, 25%",
+    "Viking Winter, Campaign, 27.78%"
+  ]
+}

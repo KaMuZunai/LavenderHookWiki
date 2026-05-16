@@ -1,0 +1,13 @@
+{
+  "name": "Harpoon Tower",
+  "description": "Projectiles Explode, dealing damage to nearby enemies. Prioritizes stronger enemies.",
+  "icon": "Harpoon Tower.png",
+  "category": "Pets",
+  "type": "Pet",
+  "stats": [
+    "3 Vitality Scalar",
+    "3 Attack Scalar",
+    "3 Ability Scalar"
+  ],
+  "dropLocations": []
+}

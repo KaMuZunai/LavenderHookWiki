@@ -1,0 +1,16 @@
+{
+  "name": "Runic Carver",
+  "description": "",
+  "icon": "Runic Carver.png",
+  "category": "Weapons",
+  "type": "Sword",
+  "stats": [
+    "1.5 Vitality Scalar",
+    "1.5 Attack Scalar",
+    "1.5 Ability Scalar"
+  ],
+  "elements": [
+    "100% Physical"
+  ],
+  "dropLocations": "basic drop"
+}

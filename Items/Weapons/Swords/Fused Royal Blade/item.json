@@ -1,0 +1,14 @@
+{
+  "name": "Fused Royal Blade",
+  "description": "",
+  "icon": "Fused Royal Blade.png",
+  "category": "Weapons",
+  "type": "Sword",
+  "subtype": [
+    "Sword"
+  ],
+  "elements": [
+    "100% Fusion"
+  ],
+  "dropLocations": "basic drop"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Snowman",
+  "description": "Projectiles Explode, dealing damage to nearby enemies.",
+  "icon": "Snowman.png",
+  "category": "Pets",
+  "type": "Pet",
+  "stats": [
+    "2.55 Vitality Scalar",
+    "2.55 Attack Scalar",
+    "2.55 Ability Scalar"
+  ],
+  "dropLocations": []
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Default Ammo Pouch",
+  "description": "",
+  "icon": "Default Ammo Pouch.png",
+  "category": "Offhand",
+  "type": "AmmoPouch",
+  "dropLocations": []
+}

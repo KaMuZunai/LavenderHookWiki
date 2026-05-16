@@ -1,0 +1,13 @@
+{
+  "name": "Sludge Pool",
+  "description": "Sludge Launcher Leaves a pool of sludge at hit location, % slowing and dealing % tower damage to enemies within lasting  seconds. Cooldown of  Seconds",
+  "icon": "Sludge Pool.png",
+  "category": "Runes",
+  "type": "Rune",
+  "dropLocations": [
+    "Hallof Court, Campaign, 25%",
+    "Halloween Ramparts, Campaign, 25%",
+    "Scary_dungeon, Campaign, 25%",
+    "The Bazaar, Campaign, 25%"
+  ]
+}

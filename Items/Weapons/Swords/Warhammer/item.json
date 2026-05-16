@@ -1,0 +1,8 @@
+{
+  "name": "Warhammer",
+  "description": "",
+  "icon": "Warhammer.png",
+  "category": "Weapons",
+  "type": "Sword",
+  "dropLocations": "basic drop"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Conduit Staff",
+  "description": "",
+  "icon": "Conduit Staff.png",
+  "category": "Weapons",
+  "type": "Staff",
+  "elements": [
+    "100% Fire"
+  ],
+  "dropLocations": "basic drop"
+}

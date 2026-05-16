@@ -1,0 +1,22 @@
+{
+  "name": "Golden Etherian Ancient",
+  "description": "Attacks nearby enemies.",
+  "icon": "Golden Etherian Ancient.png",
+  "category": "Pets",
+  "type": "Pet",
+  "stats": [
+    "3.25 Vitality Scalar",
+    "2.8 Attack Scalar",
+    "2.8 Ability Scalar"
+  ],
+  "elements": [
+    "20% Element.Attunement.Armored",
+    "20% Electric",
+    "20% Fire",
+    "20% Physical",
+    "20% Poison"
+  ],
+  "dropLocations": [
+    "Tornado High Lands, Survival, Massacre, Wave 100, Rifted"
+  ]
+}

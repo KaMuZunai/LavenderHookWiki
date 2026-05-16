@@ -1,0 +1,16 @@
+{
+  "name": "Clearly Not PPE",
+  "description": "\"Chata told him not to put that on his head, but Clobzz refused to listen and did it anyways.\"",
+  "icon": "Clearly Not PPE.png",
+  "category": "Accessories",
+  "type": "Mask",
+  "stats": [
+    "0.45 Vitality Scalar",
+    "0.45 Power Scalar",
+    "0.45 Ability Scalar",
+    "0.45 Attack Scalar"
+  ],
+  "dropLocations": [
+    "The Keep, Mixed, Massacre, Wave 25"
+  ]
+}

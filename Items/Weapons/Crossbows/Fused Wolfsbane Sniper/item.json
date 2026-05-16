@@ -1,0 +1,23 @@
+{
+  "name": "Fused Wolfsbane Sniper",
+  "description": "Projectiles Pierce, dealing damage to all enemies in a line.",
+  "icon": "Fused Wolfsbane Sniper.png",
+  "category": "Weapons",
+  "type": "Crossbow",
+  "subtype": [
+    "Crossbow"
+  ],
+  "stats": [
+    "2.5 Vitality Scalar",
+    "2.5 Attack Scalar",
+    "2.5 Ability Scalar"
+  ],
+  "elements": [
+    "100% Fusion"
+  ],
+  "dropLocations": [
+    "The Keep, Campaign, Massacre, Wave 5, Rifted",
+    "The Keep, Survival, Massacre, Wave 25, Rifted",
+    "The Keep, Mixed, Massacre, Wave 25, Rifted"
+  ]
+}

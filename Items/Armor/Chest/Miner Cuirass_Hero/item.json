@@ -1,0 +1,17 @@
+{
+  "name": "Miner Cuirass",
+  "description": "",
+  "icon": "Miner Cuirass.png",
+  "category": "Armor",
+  "type": "Chest",
+  "subtype": [
+    "Chest",
+    "Miner"
+  ],
+  "stats": [
+    "0.3 Ability Scalar",
+    "1 Attack Scalar",
+    "1 Vitality Scalar"
+  ],
+  "dropLocations": "basic drop"
+}

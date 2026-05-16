@@ -1,0 +1,44 @@
+{
+  "name": "Baby Dragon",
+  "description": "Projectiles Explode, dealing damage to nearby enemies.",
+  "icon": "Baby Dragon.png",
+  "category": "Pets",
+  "type": "Pet",
+  "stats": [
+    "2.55 Vitality Scalar",
+    "2.55 Attack Scalar",
+    "2.55 Ability Scalar"
+  ],
+  "elements": [
+    "100% Fire"
+  ],
+  "dropLocations": [
+    "The Summit, Survival, Easy, Wave 15",
+    "The Summit, Survival, Medium, Wave 15",
+    "The Summit, Survival, Hard, Wave 15",
+    "The Summit, Survival, Insane, Wave 15",
+    "The Summit, Survival, Insane, Wave 25",
+    "The Summit, Survival, Nightmare, Wave 15",
+    "The Summit, Survival, Nightmare, Wave 25",
+    "The Summit, Survival, Massacre, Wave 15",
+    "The Summit, Survival, Massacre, Wave 25",
+    "The Summit, PureStrategy, Easy, Wave 15",
+    "The Summit, PureStrategy, Medium, Wave 15",
+    "The Summit, PureStrategy, Hard, Wave 15",
+    "The Summit, PureStrategy, Insane, Wave 15",
+    "The Summit, PureStrategy, Nightmare, Wave 15",
+    "The Summit, PureStrategy, Massacre, Wave 15",
+    "The Summit, Mixed, Easy, Wave 15",
+    "The Summit, Mixed, Easy, Wave 25",
+    "The Summit, Mixed, Medium, Wave 15",
+    "The Summit, Mixed, Medium, Wave 25",
+    "The Summit, Mixed, Hard, Wave 15",
+    "The Summit, Mixed, Hard, Wave 25",
+    "The Summit, Mixed, Insane, Wave 15",
+    "The Summit, Mixed, Insane, Wave 25",
+    "The Summit, Mixed, Nightmare, Wave 15",
+    "The Summit, Mixed, Nightmare, Wave 25",
+    "The Summit, Mixed, Massacre, Wave 15",
+    "The Summit, Mixed, Massacre, Wave 25"
+  ]
+}

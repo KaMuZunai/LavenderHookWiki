@@ -1,0 +1,14 @@
+{
+  "name": "Morning Star",
+  "description": "",
+  "icon": "Morning Star.png",
+  "category": "Weapons",
+  "type": "Polearm",
+  "stats": [
+    "0.9 Power Scalar",
+    "0.9 Fortify Scalar",
+    "0.9 Range Scalar",
+    "0.9 Def. Rate Scalar"
+  ],
+  "dropLocations": "basic drop"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Empowering Friendship",
+  "description": "The Empowering Shrine gives an additional % hero damage for each player inside the area of effect.",
+  "icon": "Empowering Friendship.png",
+  "category": "Runes",
+  "type": "Rune",
+  "dropLocations": [
+    "Royal Gardens, Campaign, 25%"
+  ]
+}

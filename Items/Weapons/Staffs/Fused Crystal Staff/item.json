@@ -1,0 +1,16 @@
+{
+  "name": "Fused Crystal Staff",
+  "description": "",
+  "icon": "Fused Crystal Staff.png",
+  "category": "Weapons",
+  "type": "Staff",
+  "stats": [
+    "1.5 Vitality Scalar",
+    "1.5 Attack Scalar",
+    "1.5 Ability Scalar"
+  ],
+  "elements": [
+    "100% Fusion"
+  ],
+  "dropLocations": "basic drop"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Golden Sturdy Gemstone",
+  "description": "Improve the Armor of nearby defenses. Note this pet gives 50% give of a boost compared to a regular gemstone.",
+  "icon": "Golden Sturdy Gemstone.png",
+  "category": "Pets",
+  "type": "Pet",
+  "stats": [
+    "3 Vitality Scalar",
+    "3 Attack Scalar",
+    "3 Ability Scalar"
+  ],
+  "dropLocations": [
+    "The Summit, Survival, Massacre, Wave 250",
+    "The Summit, Survival, Massacre, Wave 100, Rifted"
+  ]
+}

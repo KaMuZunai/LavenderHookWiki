@@ -1,0 +1,51 @@
+{
+  "name": "Steam Robot",
+  "description": "Attacks nearby enemies and deals additional Knockback.",
+  "icon": "Steam Robot.png",
+  "category": "Pets",
+  "type": "Pet",
+  "stats": [
+    "2.9 Vitality Scalar",
+    "2.65 Attack Scalar",
+    "2.65 Ability Scalar"
+  ],
+  "elements": [
+    "100% Fusion"
+  ],
+  "dropLocations": [
+    "Alchemical Laboratory, PureStrategy, Insane, Wave 25, Rifted",
+    "Alchemical Laboratory, Survival, Easy, Wave 25, Rifted",
+    "Alchemical Laboratory, Survival, Nightmare, Wave 25, Rifted",
+    "Alchemical Laboratory, Survival, Medium, Wave 25, Rifted",
+    "Alchemical Laboratory, Survival, Nightmare, Wave 15, Rifted",
+    "Alchemical Laboratory, Survival, Hard, Wave 25, Rifted",
+    "Alchemical Laboratory, PureStrategy, Easy, Wave 25, Rifted",
+    "Alchemical Laboratory, Survival, Insane, Wave 25, Rifted",
+    "Alchemical Laboratory, PureStrategy, Hard, Wave 25, Rifted",
+    "Alchemical Laboratory, Mixed, Easy, Wave 25, Rifted",
+    "Alchemical Laboratory, Mixed, Medium, Wave 25, Rifted",
+    "Alchemical Laboratory, Mixed, Hard, Wave 25, Rifted",
+    "Alchemical Laboratory, Mixed, Insane, Wave 25, Rifted",
+    "Alchemical Laboratory, Mixed, Nightmare, Wave 15, Rifted",
+    "Alchemical Laboratory, Mixed, Nightmare, Wave 25, Rifted",
+    "Lava Mines, PureStrategy, Easy, Wave 25, Rifted",
+    "Lava Mines, PureStrategy, Insane, Wave 25, Rifted",
+    "Lava Mines, Survival, Easy, Wave 25, Rifted",
+    "Lava Mines, PureStrategy, Hard, Wave 25, Rifted",
+    "Lava Mines, Survival, Medium, Wave 25, Rifted",
+    "Lava Mines, Mixed, Easy, Wave 25, Rifted",
+    "Lava Mines, Survival, Hard, Wave 25, Rifted",
+    "Lava Mines, Mixed, Medium, Wave 25, Rifted",
+    "Lava Mines, Survival, Insane, Wave 25, Rifted",
+    "Lava Mines, Mixed, Hard, Wave 25, Rifted",
+    "Lava Mines, Survival, Nightmare, Wave 15, Rifted",
+    "Lava Mines, Mixed, Insane, Wave 25, Rifted",
+    "Lava Mines, Survival, Nightmare, Wave 25, Rifted",
+    "Lava Mines, Mixed, Nightmare, Wave 15, Rifted",
+    "Lava Mines, Survival, Massacre, Wave 15, Rifted",
+    "Lava Mines, Mixed, Nightmare, Wave 25, Rifted",
+    "Lava Mines, Survival, Massacre, Wave 25, Rifted",
+    "Lava Mines, Mixed, Massacre, Wave 15, Rifted",
+    "Lava Mines, Mixed, Massacre, Wave 25, Rifted"
+  ]
+}

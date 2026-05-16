@@ -1,0 +1,15 @@
+{
+  "name": "Series EV-A Action Figure",
+  "description": "Improve the Effective Range of nearby defenses. Note this pet gives 10% more of a boost compared to a regular gemstone.",
+  "icon": "Series EV-A Action Figure.png",
+  "category": "Pets",
+  "type": "Pet",
+  "stats": [
+    "0.75 Range Scalar",
+    "0.75 Power Scalar",
+    "0.75 Fortify Scalar"
+  ],
+  "dropLocations": [
+    "The Lost Metropolis, PureStrategy, Massacre, Wave 25"
+  ]
+}

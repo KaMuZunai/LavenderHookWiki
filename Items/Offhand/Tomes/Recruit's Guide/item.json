@@ -1,0 +1,8 @@
+{
+  "name": "Recruit's Guide",
+  "description": "",
+  "icon": "Recruit's Guide.png",
+  "category": "Offhand",
+  "type": "Tome",
+  "dropLocations": "basic drop"
+}

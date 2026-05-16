@@ -1,0 +1,12 @@
+{
+  "name": "Guard Chestplate",
+  "description": "",
+  "icon": "Guard Chestplate.png",
+  "category": "Armor",
+  "type": "Chest",
+  "subtype": [
+    "Chest",
+    "Guard"
+  ],
+  "dropLocations": "basic drop"
+}

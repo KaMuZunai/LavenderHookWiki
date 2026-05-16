@@ -1,0 +1,17 @@
+{
+  "name": "Militia Gauntlets",
+  "description": "",
+  "icon": "Militia Gauntlets.png",
+  "category": "Armor",
+  "type": "Gloves",
+  "subtype": [
+    "Gloves",
+    "Militia"
+  ],
+  "stats": [
+    "0.9 Ability Scalar",
+    "1 Attack Scalar",
+    "0.9 Vitality Scalar"
+  ],
+  "dropLocations": "basic drop"
+}

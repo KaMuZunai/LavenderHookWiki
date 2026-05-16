@@ -1,0 +1,8 @@
+{
+  "name": "Gunblade",
+  "description": "",
+  "icon": "Gunblade.png",
+  "category": "Weapons",
+  "type": "Polearm",
+  "dropLocations": "basic drop"
+}

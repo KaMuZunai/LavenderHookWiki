@@ -1,0 +1,8 @@
+{
+  "name": "Crusader's Shield",
+  "description": "",
+  "icon": "Crusader's Shield.png",
+  "category": "Offhand",
+  "type": "Shield",
+  "dropLocations": "basic drop"
+}

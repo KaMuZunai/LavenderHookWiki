@@ -1,0 +1,17 @@
+{
+  "name": "Eternian Wand",
+  "description": "",
+  "icon": "Eternian Wand.png",
+  "category": "Weapons",
+  "type": "Staff",
+  "stats": [
+    "0.9 Power Scalar",
+    "0.9 Fortify Scalar",
+    "0.9 Range Scalar",
+    "0.9 Def. Rate Scalar"
+  ],
+  "elements": [
+    "100% Physical"
+  ],
+  "dropLocations": "basic drop"
+}

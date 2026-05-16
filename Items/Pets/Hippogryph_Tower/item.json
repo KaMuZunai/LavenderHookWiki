@@ -1,0 +1,26 @@
+{
+  "name": "Hippogryph",
+  "description": "Projectiles Explode, dealing damage to nearby enemies. Additionally, It increases VERSATILITY by 15%.",
+  "icon": "Hippogryph.png",
+  "category": "Pets",
+  "type": "Pet",
+  "stats": [
+    "1 Fortify Scalar",
+    "1 Range Scalar",
+    "1 Def. Rate Scalar"
+  ],
+  "elements": [
+    "100% Electric"
+  ],
+  "dropLocations": [
+    "The Deeper Well, Survival, Insane, Wave 15",
+    "The Deeper Well, Survival, Nightmare, Wave 15",
+    "The Deeper Well, Survival, Massacre, Wave 15",
+    "The Deeper Well, PureStrategy, Easy, Wave 15",
+    "The Deeper Well, PureStrategy, Medium, Wave 15",
+    "The Deeper Well, PureStrategy, Hard, Wave 15",
+    "The Deeper Well, PureStrategy, Insane, Wave 15",
+    "The Deeper Well, PureStrategy, Nightmare, Wave 15",
+    "The Deeper Well, PureStrategy, Massacre, Wave 15"
+  ]
+}

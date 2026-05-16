@@ -1,0 +1,8 @@
+{
+  "name": "Strengthed Field - Old",
+  "description": "Reflect Field is now a blockade, allowing enemies to attack it, also while also reflecting projectiles back at sender. Reflected projectiles still cause damage to the blockade.",
+  "icon": "Strengthed Field - Old.png",
+  "category": "Runes",
+  "type": "Rune",
+  "dropLocations": []
+}

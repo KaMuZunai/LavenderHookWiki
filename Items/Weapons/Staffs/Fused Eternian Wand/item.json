@@ -1,0 +1,14 @@
+{
+  "name": "Fused Eternian Wand",
+  "description": "",
+  "icon": "Fused Eternian Wand.png",
+  "category": "Weapons",
+  "type": "MagicStaff",
+  "subtype": [
+    "MagicStaff"
+  ],
+  "elements": [
+    "100% Fusion"
+  ],
+  "dropLocations": "basic drop"
+}

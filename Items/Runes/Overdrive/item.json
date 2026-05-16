@@ -1,0 +1,11 @@
+{
+  "name": "Overdrive",
+  "description": "Overclock Beam gives towers % more damage, this effect is reduced by % for each additional defense the overclock beam buffs beyond the first. Ignoring Ensnare, Reflects, Gas, Healing Aura, Strength Drain and Enrage.",
+  "icon": "Overdrive.png",
+  "category": "Runes",
+  "type": "Rune",
+  "dropLocations": [
+    "Tornado Valley, Campaign, 15.79%",
+    "Viking Winter, Campaign, 16.67%"
+  ]
+}

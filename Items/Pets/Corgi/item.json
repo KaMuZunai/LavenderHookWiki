@@ -1,0 +1,40 @@
+{
+  "name": "Corgi",
+  "description": "He's Such a Good Boy! Provides the Hero with an EXTRA jump, and increases Hero cast rate by 40%",
+  "icon": "Corgi.png",
+  "category": "Pets",
+  "type": "Pet",
+  "stats": [
+    "2.75 Vitality Scalar",
+    "2.75 Attack Scalar",
+    "2.75 Ability Scalar"
+  ],
+  "dropLocations": [
+    "Alchemical Laboratory, Survival, Massacre, Wave 250",
+    "Ancient Mines, Survival, Massacre, Wave 250",
+    "Arcane Library, Survival, Massacre, Wave 250",
+    "Castle Armory, Survival, Massacre, Wave 250",
+    "Endless Spires, Survival, Massacre, Wave 250",
+    "Forsaken Temple, Survival, Massacre, Wave 250",
+    "Foundries And Forges, Survival, Massacre, Wave 250",
+    "Glitterhelm, Survival, Massacre, Wave 250",
+    "Hallof Court, Survival, Massacre, Wave 250",
+    "Kings Game, Survival, Massacre, Wave 250",
+    "Lava Mines, Survival, Massacre, Wave 250",
+    "Magus Quarters, Survival, Massacre, Wave 250",
+    "Royal Gardens, Survival, Massacre, Wave 250",
+    "Servants Quarters, Survival, Massacre, Wave 250",
+    "The Bazaar, Survival, Massacre, Wave 250",
+    "The Deeper Well, Survival, Massacre, Wave 250",
+    "The Keep, Survival, Massacre, Wave 250",
+    "The Lost Metropolis, Survival, Massacre, Wave 250",
+    "The Mill, Survival, Massacre, Wave 250",
+    "The Outpost, Survival, Massacre, Wave 250",
+    "The Promenade, Survival, Massacre, Wave 250",
+    "The Ramparts, Survival, Massacre, Wave 250",
+    "The Throne Room, Survival, Massacre, Wave 250",
+    "Tornado High Lands, Survival, Massacre, Wave 250",
+    "Tornado Valley, Survival, Massacre, Wave 250",
+    "Viking Winter, Survival, Massacre, Wave 250"
+  ]
+}

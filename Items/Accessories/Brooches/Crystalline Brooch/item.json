@@ -1,0 +1,8 @@
+{
+  "name": "Crystalline Brooch",
+  "description": "",
+  "icon": "Crystalline Brooch.png",
+  "category": "Accessories",
+  "type": "Brooch",
+  "dropLocations": "basic drop"
+}

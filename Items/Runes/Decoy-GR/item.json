@@ -1,0 +1,10 @@
+{
+  "name": "Decoy-GR",
+  "description": "Decoy now shoots along with the hero at the same direction dealing % of hero damage.",
+  "icon": "Decoy-GR.png",
+  "category": "Runes",
+  "type": "Rune",
+  "dropLocations": [
+    "Tornado High Lands, Campaign, 43.48%"
+  ]
+}

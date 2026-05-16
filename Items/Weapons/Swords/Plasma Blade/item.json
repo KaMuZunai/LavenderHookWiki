@@ -1,0 +1,8 @@
+{
+  "name": "Plasma Blade",
+  "description": "",
+  "icon": "Plasma Blade.png",
+  "category": "Weapons",
+  "type": "Sword",
+  "dropLocations": "basic drop"
+}

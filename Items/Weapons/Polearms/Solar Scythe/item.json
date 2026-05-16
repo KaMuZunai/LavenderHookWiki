@@ -1,0 +1,8 @@
+{
+  "name": "Solar Scythe",
+  "description": "",
+  "icon": "Solar Scythe.png",
+  "category": "Weapons",
+  "type": "Polearm",
+  "dropLocations": "basic drop"
+}

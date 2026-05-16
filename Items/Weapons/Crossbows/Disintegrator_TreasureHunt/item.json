@@ -1,0 +1,15 @@
+{
+  "name": "Disintegrator",
+  "description": "",
+  "icon": "Disintegrator.png",
+  "category": "Weapons",
+  "type": "Crossbow",
+  "elements": [
+    "100% Fire"
+  ],
+  "dropLocations": [
+    "The Summit, Challenge, Easy, Wave 5",
+    "The Summit, Challenge, Medium, Wave 5",
+    "The Summit, Challenge, Hard, Wave 5"
+  ]
+}

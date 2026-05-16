@@ -1,0 +1,8 @@
+{
+  "name": "Zealot's Staff",
+  "description": "",
+  "icon": "Zealot's Staff.png",
+  "category": "Weapons",
+  "type": "Staff",
+  "dropLocations": "basic drop"
+}

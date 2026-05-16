@@ -1,0 +1,10 @@
+{
+  "name": "Full Coverage",
+  "description": "Plasma Defense System Increases Defense Range by % which will also increase the size of the deadzone.",
+  "icon": "Full Coverage.png",
+  "category": "Runes",
+  "type": "Rune",
+  "dropLocations": [
+    "The Bazaar, Campaign, 50%"
+  ]
+}

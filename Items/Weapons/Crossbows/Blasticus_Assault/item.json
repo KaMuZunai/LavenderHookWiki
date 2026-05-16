@@ -1,0 +1,16 @@
+{
+  "name": "Blasticus",
+  "description": "My little friend.",
+  "icon": "Blasticus.png",
+  "category": "Weapons",
+  "type": "Crossbow",
+  "elements": [
+    "100% Electric"
+  ],
+  "dropLocations": [
+    "Endless Spires, Challenge, Insane, Wave 1",
+    "Endless Spires, Challenge, Nightmare, Wave 1",
+    "Endless Spires, Challenge, Massacre, Wave 1",
+    "Endless Spires, Challenge, Medium, Wave 1"
+  ]
+}

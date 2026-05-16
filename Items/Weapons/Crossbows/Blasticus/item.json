@@ -1,0 +1,11 @@
+{
+  "name": "Blasticus",
+  "description": "My little friend.",
+  "icon": "Blasticus.png",
+  "category": "Weapons",
+  "type": "Crossbow",
+  "elements": [
+    "100% Electric"
+  ],
+  "dropLocations": []
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Beginner's Staff",
+  "description": "",
+  "icon": "Beginner's Staff.png",
+  "category": "Weapons",
+  "type": "Staff",
+  "dropLocations": "basic drop"
+}

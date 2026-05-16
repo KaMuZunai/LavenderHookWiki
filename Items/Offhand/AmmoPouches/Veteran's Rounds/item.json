@@ -1,0 +1,12 @@
+{
+  "name": "Veteran's Rounds",
+  "description": "",
+  "icon": "Veteran's Rounds.png",
+  "category": "Offhand",
+  "type": "AmmoPouch",
+  "stats": [
+    "1 Ability Scalar",
+    "1 Vitality Scalar"
+  ],
+  "dropLocations": "basic drop"
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Paddle Ball",
+  "description": "Attacks nearby enemies. Has a chance to Enrage weaker enemies for 10Ⅹ.",
+  "icon": "Paddle Ball.png",
+  "category": "Pets",
+  "type": "Pet",
+  "stats": [
+    "2.75 Vitality Scalar",
+    "2.55 Attack Scalar",
+    "2.55 Ability Scalar"
+  ],
+  "dropLocations": [
+    "Alchemical Laboratory, Survival, Insane, Wave 25",
+    "Alchemical Laboratory, Survival, Nightmare, Wave 25",
+    "Alchemical Laboratory, Survival, Massacre, Wave 25",
+    "Alchemical Laboratory, Mixed, Easy, Wave 25",
+    "Alchemical Laboratory, Mixed, Medium, Wave 25",
+    "Alchemical Laboratory, Mixed, Hard, Wave 25",
+    "Alchemical Laboratory, Mixed, Insane, Wave 25",
+    "Alchemical Laboratory, Mixed, Nightmare, Wave 25",
+    "Alchemical Laboratory, Mixed, Massacre, Wave 25",
+    "Magus Quarters, Survival, Easy, Wave 15",
+    "Magus Quarters, Survival, Medium, Wave 15",
+    "Magus Quarters, Survival, Hard, Wave 15",
+    "Magus Quarters, Survival, Insane, Wave 15",
+    "Magus Quarters, Survival, Nightmare, Wave 15",
+    "Magus Quarters, Survival, Massacre, Wave 15",
+    "Magus Quarters, PureStrategy, Easy, Wave 15",
+    "Magus Quarters, PureStrategy, Medium, Wave 15",
+    "Magus Quarters, Mixed, Easy, Wave 15",
+    "Magus Quarters, Mixed, Medium, Wave 15",
+    "Magus Quarters, Mixed, Hard, Wave 15",
+    "Magus Quarters, Mixed, Insane, Wave 15",
+    "Magus Quarters, Mixed, Nightmare, Wave 15",
+    "Magus Quarters, Mixed, Massacre, Wave 15"
+  ]
+}

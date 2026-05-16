@@ -1,0 +1,10 @@
+{
+  "name": "Yum Yum Seed",
+  "description": "Sprout Seeds on-pickup gives a Healing over time for % of Max Health every second for  seconds.",
+  "icon": "Yum Yum Seed.png",
+  "category": "Runes",
+  "type": "Rune",
+  "dropLocations": [
+    "The Mill, Campaign, 55.56%"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Golden Penguin",
+  "description": "Projectiles Explode, dealing damage to nearby enemies.",
+  "icon": "Golden Penguin.png",
+  "category": "Pets",
+  "type": "Pet",
+  "stats": [
+    "3 Vitality Scalar",
+    "3 Attack Scalar",
+    "3 Ability Scalar"
+  ],
+  "elements": [
+    "20% Electric",
+    "20% Element.Attunement.Armored",
+    "20% Fire",
+    "20% Physical",
+    "20% Poison"
+  ],
+  "dropLocations": [
+    "Viking Winter, Survival, Massacre, Wave 100, Rifted"
+  ]
+}

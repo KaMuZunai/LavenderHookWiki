@@ -1,0 +1,17 @@
+{
+  "name": "Assassin's Kiss",
+  "description": "",
+  "icon": "Assassin's Kiss.png",
+  "category": "Weapons",
+  "type": "Crossbow",
+  "stats": [
+    "0.9 Power Scalar",
+    "0.9 Fortify Scalar",
+    "0.9 Range Scalar",
+    "0.9 Def. Rate Scalar"
+  ],
+  "elements": [
+    "100% Physical"
+  ],
+  "dropLocations": "basic drop"
+}

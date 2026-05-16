@@ -1,0 +1,21 @@
+{
+  "name": "Golden Baby Dragon",
+  "description": "Projectiles Explode, dealing damage to nearby enemies.",
+  "icon": "Golden Baby Dragon.png",
+  "category": "Pets",
+  "type": "Pet",
+  "stats": [
+    "3 Vitality Scalar",
+    "3 Attack Scalar",
+    "3 Ability Scalar"
+  ],
+  "elements": [
+    "25% Fire",
+    "25% Electric",
+    "25% Physical",
+    "25% Poison"
+  ],
+  "dropLocations": [
+    "The Summit, Survival, Massacre, Wave 100, Rifted"
+  ]
+}

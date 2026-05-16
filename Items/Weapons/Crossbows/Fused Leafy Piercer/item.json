@@ -1,0 +1,15 @@
+{
+  "name": "Fused Leafy Piercer",
+  "description": "Projectiles Explode, dealing damage to nearby enemies.",
+  "icon": "Fused Leafy Piercer.png",
+  "category": "Weapons",
+  "type": "Crossbow",
+  "stats": [
+    "2 Vitality Scalar",
+    "2 Attack Scalar",
+    "2 Ability Scalar"
+  ],
+  "dropLocations": [
+    "The Mill, PureStrategy, Massacre, Wave 15, Rifted"
+  ]
+}

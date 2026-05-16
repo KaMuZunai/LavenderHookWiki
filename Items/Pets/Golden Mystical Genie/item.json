@@ -1,0 +1,16 @@
+{
+  "name": "Golden Mystical Genie",
+  "description": "Your next attack Restores MP. 4Ⅹ cooldown",
+  "icon": "Golden Mystical Genie.png",
+  "category": "Pets",
+  "type": "Pet",
+  "stats": [
+    "3 Vitality Scalar",
+    "3 Attack Scalar",
+    "4.5 Ability Scalar"
+  ],
+  "dropLocations": [
+    "Halloween Ramparts, Survival, Massacre, Wave 100, Rifted",
+    "The Ramparts, Survival, Massacre, Wave 100, Rifted"
+  ]
+}

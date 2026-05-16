@@ -1,0 +1,21 @@
+{
+  "name": "Chargin' Ramster",
+  "description": "Attacks Pierce nearby enemies, dealing damage in a line.",
+  "icon": "Chargin' Ramster.png",
+  "category": "Pets",
+  "type": "Pet",
+  "stats": [
+    "3 Vitality Scalar",
+    "2.65 Attack Scalar",
+    "2.65 Ability Scalar"
+  ],
+  "elements": [
+    "100% Fusion"
+  ],
+  "dropLocations": [
+    "Arcane Library, Survival, Massacre, Wave 15, Rifted",
+    "Arcane Library, Survival, Massacre, Wave 25, Rifted",
+    "Arcane Library, Mixed, Massacre, Wave 15, Rifted",
+    "Arcane Library, Mixed, Massacre, Wave 25, Rifted"
+  ]
+}

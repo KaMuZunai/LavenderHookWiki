@@ -1,0 +1,8 @@
+{
+  "name": "Recruit's Sharpener",
+  "description": "",
+  "icon": "Recruit's Sharpener.png",
+  "category": "Offhand",
+  "type": "Whetstone",
+  "dropLocations": "basic drop"
+}

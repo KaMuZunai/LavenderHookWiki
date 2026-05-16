@@ -1,0 +1,10 @@
+{
+  "name": "Reflective Screech",
+  "description": "Siren's Inner Radius is now   Units and now projects a reflective shield that reflects Projectiles.",
+  "icon": "Reflective Screech.png",
+  "category": "Runes",
+  "type": "Rune",
+  "dropLocations": [
+    "Forsaken Temple, Campaign, 15.79%"
+  ]
+}

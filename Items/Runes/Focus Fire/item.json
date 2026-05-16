@@ -1,0 +1,10 @@
+{
+  "name": "Focus Fire",
+  "description": "Repeated attacks on the same target increase Primary Attack Damage by %. Stacking  times, it is removed upon hitting a new enemy or after  seconds.",
+  "icon": "Focus Fire.png",
+  "category": "Runes",
+  "type": "Rune",
+  "dropLocations": [
+    "Lava Mines, Campaign, 23.08%"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Milton's Militant Mutt",
+  "description": "This combat ready pet originally belonged to streamer MiltonTPike1. Provides the Hero with an EXTRA jump, and 2x Hero Health Increase",
+  "icon": "Milton's Militant Mutt.png",
+  "category": "Pets",
+  "type": "Pet",
+  "stats": [
+    "2.95 Vitality Scalar",
+    "2.95 Attack Scalar",
+    "2.95 Ability Scalar"
+  ],
+  "dropLocations": [
+    "Alchemical Laboratory, Survival, Massacre, Wave 450",
+    "Ancient Mines, Survival, Massacre, Wave 450",
+    "Arcane Library, Survival, Massacre, Wave 450",
+    "Castle Armory, Survival, Massacre, Wave 450",
+    "Endless Spires, Survival, Massacre, Wave 450",
+    "Forsaken Temple, Survival, Massacre, Wave 450",
+    "Foundries And Forges, Survival, Massacre, Wave 450",
+    "Glitterhelm, Survival, Massacre, Wave 450",
+    "Hallof Court, Survival, Massacre, Wave 450",
+    "Halloween Ramparts, Survival, Massacre, Wave 450",
+    "Kings Game, Survival, Massacre, Wave 450",
+    "Lava Mines, Survival, Massacre, Wave 450",
+    "Magus Quarters, Survival, Massacre, Wave 450",
+    "Royal Gardens, Survival, Massacre, Wave 450",
+    "Servants Quarters, Survival, Massacre, Wave 450",
+    "The Bazaar, Survival, Massacre, Wave 450",
+    "The Deeper Well, Survival, Massacre, Wave 450",
+    "The Keep, Survival, Massacre, Wave 450",
+    "The Lost Metropolis, Survival, Massacre, Wave 450",
+    "The Mill, Survival, Massacre, Wave 450",
+    "The Outpost, Survival, Massacre, Wave 450",
+    "The Promenade, Survival, Massacre, Wave 450",
+    "The Ramparts, Survival, Massacre, Wave 450",
+    "The Summit, Survival, Massacre, Wave 450",
+    "Tornado High Lands, Survival, Massacre, Wave 450",
+    "Tornado Valley, Survival, Massacre, Wave 450",
+    "Viking Winter, Survival, Massacre, Wave 450"
+  ]
+}

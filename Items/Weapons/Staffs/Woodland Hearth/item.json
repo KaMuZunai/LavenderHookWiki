@@ -1,0 +1,8 @@
+{
+  "name": "Woodland Hearth",
+  "description": "Projectiles Explode, dealing damage to nearby enemies.",
+  "icon": "Woodland Hearth.png",
+  "category": "Weapons",
+  "type": "Staff",
+  "dropLocations": "basic drop"
+}

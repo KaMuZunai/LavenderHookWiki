@@ -1,0 +1,34 @@
+{
+  "name": "Mini Ogre",
+  "description": "Attacks enemies at all ranges, Melee if in ranged and Explosive Projectiles at ranged.",
+  "icon": "Mini Ogre.png",
+  "category": "Pets",
+  "type": "Pet",
+  "stats": [
+    "2.55 Vitality Scalar",
+    "2.55 Attack Scalar",
+    "2.55 Ability Scalar"
+  ],
+  "elements": [
+    "100% Poison"
+  ],
+  "dropLocations": [
+    "Castle Armory, Mixed, Easy, Wave 15",
+    "Castle Armory, Mixed, Medium, Wave 15",
+    "Castle Armory, Mixed, Hard, Wave 15",
+    "Castle Armory, Mixed, Massacre, Wave 15",
+    "Forsaken Temple, Survival, Easy, Wave 15",
+    "Forsaken Temple, Survival, Medium, Wave 15",
+    "Forsaken Temple, Survival, Hard, Wave 15",
+    "Forsaken Temple, Survival, Insane, Wave 15",
+    "Forsaken Temple, Survival, Insane, Wave 25",
+    "Forsaken Temple, Survival, Nightmare, Wave 15",
+    "Forsaken Temple, Survival, Nightmare, Wave 25",
+    "Forsaken Temple, Survival, Massacre, Wave 15",
+    "Forsaken Temple, Survival, Massacre, Wave 25",
+    "Forsaken Temple, PureStrategy, Easy, Wave 15",
+    "Forsaken Temple, PureStrategy, Medium, Wave 15",
+    "Forsaken Temple, Mixed, Insane, Wave 15",
+    "Forsaken Temple, Mixed, Nightmare, Wave 15"
+  ]
+}

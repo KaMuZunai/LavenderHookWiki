@@ -1,0 +1,14 @@
+{
+  "name": "Fused Gunblade",
+  "description": "",
+  "icon": "Fused Gunblade.png",
+  "category": "Weapons",
+  "type": "Polearm",
+  "subtype": [
+    "Polearm"
+  ],
+  "elements": [
+    "100% Fusion"
+  ],
+  "dropLocations": "basic drop"
+}

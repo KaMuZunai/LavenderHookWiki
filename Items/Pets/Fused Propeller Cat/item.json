@@ -1,0 +1,18 @@
+{
+  "name": "Fused Propeller Cat",
+  "description": "Improve the Damage of nearby heroes.",
+  "icon": "Fused Propeller Cat.png",
+  "category": "Pets",
+  "type": "Pet",
+  "stats": [
+    "2 Vitality Scalar",
+    "2.5 Attack Scalar",
+    "2 Ability Scalar"
+  ],
+  "dropLocations": [
+    "Alchemical Laboratory, Survival, Massacre, Wave 15, Rifted",
+    "Alchemical Laboratory, Survival, Massacre, Wave 25, Rifted",
+    "Alchemical Laboratory, Mixed, Massacre, Wave 15, Rifted",
+    "Alchemical Laboratory, Mixed, Massacre, Wave 25, Rifted"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Poleaxe",
+  "description": "",
+  "icon": "Poleaxe.png",
+  "category": "Weapons",
+  "type": "Polearm",
+  "dropLocations": "basic drop"
+}

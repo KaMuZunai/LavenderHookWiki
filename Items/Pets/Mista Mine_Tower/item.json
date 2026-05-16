@@ -1,0 +1,25 @@
+{
+  "name": "Mista Mine",
+  "description": "Cuts your Move Speed by 30% but increases cast rate by 30%.",
+  "icon": "Mista Mine.png",
+  "category": "Pets",
+  "type": "Pet",
+  "stats": [
+    "1 Fortify Scalar",
+    "0.9 Def. Rate Scalar",
+    "0.9 Power Scalar",
+    "1 Range Scalar"
+  ],
+  "dropLocations": [
+    "Ancient Mines, Survival, Insane, Wave 15",
+    "Ancient Mines, Survival, Nightmare, Wave 15",
+    "Ancient Mines, Survival, Massacre, Wave 15",
+    "Ancient Mines, Challenge, Massacre, Wave 8",
+    "Ancient Mines, PureStrategy, Easy, Wave 15",
+    "Ancient Mines, PureStrategy, Medium, Wave 15",
+    "Ancient Mines, PureStrategy, Hard, Wave 15",
+    "Ancient Mines, PureStrategy, Insane, Wave 15",
+    "Ancient Mines, PureStrategy, Nightmare, Wave 15",
+    "Ancient Mines, PureStrategy, Massacre, Wave 15"
+  ]
+}

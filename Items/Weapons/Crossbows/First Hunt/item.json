@@ -1,0 +1,13 @@
+{
+  "name": "First Hunt",
+  "description": "",
+  "icon": "First Hunt.png",
+  "category": "Weapons",
+  "type": "Crossbow",
+  "stats": [
+    "0 Vitality Scalar",
+    "0 Attack Scalar",
+    "0 Ability Scalar"
+  ],
+  "dropLocations": []
+}

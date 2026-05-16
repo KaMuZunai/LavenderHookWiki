@@ -1,0 +1,14 @@
+{
+  "name": "Sirloin",
+  "description": "The loyal and faithfull companion of Tato.  He's Such a Good Boy! Provides the Hero with an EXTRA jump, and increases Hero cast rate by 40%",
+  "icon": "Sirloin.png",
+  "category": "Pets",
+  "type": "Pet",
+  "stats": [
+    "3.5 Vitality Scalar",
+    "3.5 Attack Scalar",
+    "3.5 Ability Scalar",
+    "3.25 Fortify Scalar"
+  ],
+  "dropLocations": []
+}

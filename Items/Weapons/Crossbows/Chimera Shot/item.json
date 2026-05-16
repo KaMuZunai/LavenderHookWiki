@@ -1,0 +1,8 @@
+{
+  "name": "Chimera Shot",
+  "description": "",
+  "icon": "Chimera Shot.png",
+  "category": "Weapons",
+  "type": "Crossbow",
+  "dropLocations": []
+}

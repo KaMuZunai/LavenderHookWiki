@@ -1,0 +1,19 @@
+{
+  "name": "Fused Woodland Hearth",
+  "description": "Projectiles Explode, dealing damage to nearby enemies.",
+  "icon": "Fused Woodland Hearth.png",
+  "category": "Weapons",
+  "type": "MagicStaff",
+  "subtype": [
+    "MagicStaff"
+  ],
+  "stats": [
+    "1.5 Vitality Scalar",
+    "1.5 Attack Scalar",
+    "1.5 Ability Scalar"
+  ],
+  "elements": [
+    "100% Fusion"
+  ],
+  "dropLocations": "basic drop"
+}

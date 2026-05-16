@@ -1,0 +1,21 @@
+{
+  "name": "Golden Hammel",
+  "description": "Hammel Shoots spiky cacti at nearby enemies. Projectiles deal heavy damage to their target. Additionally, It increases Move Speed by 25%.",
+  "icon": "Golden Hammel.png",
+  "category": "Pets",
+  "type": "Pet",
+  "stats": [
+    "1.05 Fortify Scalar",
+    "1.05 Power Scalar",
+    "1.05 Def. Rate Scalar"
+  ],
+  "elements": [
+    "25% Electric",
+    "25% Fire",
+    "25% Poison",
+    "25% Physical"
+  ],
+  "dropLocations": [
+    "The Bazaar, Survival, Massacre, Wave 100, Rifted"
+  ]
+}

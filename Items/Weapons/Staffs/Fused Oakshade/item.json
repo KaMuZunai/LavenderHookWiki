@@ -1,0 +1,44 @@
+{
+  "name": "Fused Oakshade",
+  "description": "Every leaf and branch of Mistymire speaks through Oakshade, echoing the forest’s age-old wisdom.",
+  "icon": "Fused Oakshade.png",
+  "category": "Weapons",
+  "type": "MagicStaff",
+  "subtype": [
+    "MagicStaff"
+  ],
+  "stats": [
+    "1.1 Power Scalar",
+    "1.1 Def. Rate Scalar",
+    "1.1 Range Scalar"
+  ],
+  "elements": [
+    "100% Fusion"
+  ],
+  "dropLocations": [
+    "The Lost Metropolis, PureStrategy, Easy, Wave 25, Rifted",
+    "The Lost Metropolis, PureStrategy, Easy, Wave 15, Rifted",
+    "The Lost Metropolis, PureStrategy, Medium, Wave 25, Rifted",
+    "The Lost Metropolis, PureStrategy, Medium, Wave 15, Rifted",
+    "The Lost Metropolis, PureStrategy, Hard, Wave 25, Rifted",
+    "The Lost Metropolis, PureStrategy, Hard, Wave 15, Rifted",
+    "The Lost Metropolis, PureStrategy, Insane, Wave 25, Rifted",
+    "The Lost Metropolis, PureStrategy, Insane, Wave 15, Rifted",
+    "The Lost Metropolis, PureStrategy, Nightmare, Wave 25, Rifted",
+    "The Lost Metropolis, PureStrategy, Nightmare, Wave 15, Rifted",
+    "The Lost Metropolis, PureStrategy, Massacre, Wave 25, Rifted",
+    "The Lost Metropolis, PureStrategy, Massacre, Wave 15, Rifted",
+    "The Summit, PureStrategy, Easy, Wave 25, Rifted",
+    "The Summit, PureStrategy, Easy, Wave 15, Rifted",
+    "The Summit, PureStrategy, Medium, Wave 25, Rifted",
+    "The Summit, PureStrategy, Medium, Wave 15, Rifted",
+    "The Summit, PureStrategy, Hard, Wave 25, Rifted",
+    "The Summit, PureStrategy, Hard, Wave 15, Rifted",
+    "The Summit, PureStrategy, Insane, Wave 25, Rifted",
+    "The Summit, PureStrategy, Insane, Wave 15, Rifted",
+    "The Summit, PureStrategy, Nightmare, Wave 25, Rifted",
+    "The Summit, PureStrategy, Nightmare, Wave 15, Rifted",
+    "The Summit, PureStrategy, Massacre, Wave 25, Rifted",
+    "The Summit, PureStrategy, Massacre, Wave 15, Rifted"
+  ]
+}

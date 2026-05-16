@@ -1,0 +1,8 @@
+{
+  "name": "Winged Staff",
+  "description": "",
+  "icon": "Winged Staff.png",
+  "category": "Weapons",
+  "type": "Staff",
+  "dropLocations": "basic drop"
+}

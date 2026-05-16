@@ -1,0 +1,18 @@
+{
+  "name": "Katana",
+  "description": "",
+  "icon": "Katana.png",
+  "category": "Weapons",
+  "type": "Sword",
+  "elements": [
+    "100% Poison"
+  ],
+  "dropLocations": [
+    "Alchemical Laboratory, Campaign, Insane, Wave 5",
+    "Alchemical Laboratory, Campaign, Nightmare, Wave 5",
+    "Alchemical Laboratory, Survival, Insane, Wave 25",
+    "Alchemical Laboratory, Survival, Nightmare, Wave 25",
+    "Alchemical Laboratory, Mixed, Insane, Wave 25",
+    "Alchemical Laboratory, Mixed, Nightmare, Wave 25"
+  ]
+}

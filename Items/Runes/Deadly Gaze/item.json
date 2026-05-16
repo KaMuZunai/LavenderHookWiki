@@ -1,0 +1,10 @@
+{
+  "name": "Deadly Gaze",
+  "description": "The Obelisk will apply a DoT to enemies within the circle dealing % tower damage every second.",
+  "icon": "Deadly Gaze.png",
+  "category": "Runes",
+  "type": "Rune",
+  "dropLocations": [
+    "Castle Armory, Campaign, 25%"
+  ]
+}

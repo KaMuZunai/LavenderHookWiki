@@ -1,0 +1,20 @@
+{
+  "name": "Huntress Guardian",
+  "description": "Improve the Attack Rate, Lifespan, and Reset Time of nearby defenses.",
+  "icon": "Huntress Guardian.png",
+  "category": "Pets",
+  "type": "Pet",
+  "stats": [
+    "1 Fortify Scalar",
+    "1 Def. Rate Scalar",
+    "2.55 Ability Scalar"
+  ],
+  "dropLocations": [
+    "The Summit, PureStrategy, Easy, Wave 15, Rifted",
+    "The Summit, PureStrategy, Medium, Wave 15, Rifted",
+    "The Summit, PureStrategy, Hard, Wave 15, Rifted",
+    "The Summit, PureStrategy, Insane, Wave 15, Rifted",
+    "The Summit, PureStrategy, Nightmare, Wave 15, Rifted",
+    "The Summit, PureStrategy, Massacre, Wave 15, Rifted"
+  ]
+}

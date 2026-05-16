@@ -1,0 +1,8 @@
+{
+  "name": "Monk Spade",
+  "description": "",
+  "icon": "Monk Spade.png",
+  "category": "Weapons",
+  "type": "Polearm",
+  "dropLocations": "basic drop"
+}

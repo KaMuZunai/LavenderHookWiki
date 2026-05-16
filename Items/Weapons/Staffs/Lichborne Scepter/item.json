@@ -1,0 +1,11 @@
+{
+  "name": "Lichborne Scepter",
+  "description": "",
+  "icon": "Lichborne Scepter.png",
+  "category": "Weapons",
+  "type": "Staff",
+  "elements": [
+    "100% Poison"
+  ],
+  "dropLocations": "basic drop"
+}

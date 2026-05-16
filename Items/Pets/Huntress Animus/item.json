@@ -1,0 +1,22 @@
+{
+  "name": "Huntress Animus",
+  "description": "Fires a beam of light that explodes on impact, dealing elemental area-of-effect damage to all nearby enemies",
+  "icon": "Huntress Animus.png",
+  "category": "Pets",
+  "type": "Pet",
+  "stats": [
+    "3 Vitality Scalar",
+    "3 Attack Scalar",
+    "3 Ability Scalar"
+  ],
+  "elements": [
+    "25% Electric",
+    "25% Fire",
+    "25% Poison",
+    "25% Physical",
+    "1% Fusion"
+  ],
+  "dropLocations": [
+    "The Summit, Mixed, Massacre, Wave 25"
+  ]
+}

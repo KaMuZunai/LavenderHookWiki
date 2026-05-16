@@ -1,0 +1,14 @@
+{
+  "name": "Fused Plasma Blade",
+  "description": "",
+  "icon": "Fused Plasma Blade.png",
+  "category": "Weapons",
+  "type": "Sword",
+  "subtype": [
+    "Sword"
+  ],
+  "elements": [
+    "100% Fusion"
+  ],
+  "dropLocations": "basic drop"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Fused Obsidian Staff",
+  "description": "",
+  "icon": "Fused Obsidian Staff.png",
+  "category": "Weapons",
+  "type": "Staff",
+  "stats": [
+    "3 Vitality Scalar",
+    "3 Attack Scalar",
+    "3 Ability Scalar"
+  ],
+  "elements": [
+    "100% Fusion"
+  ],
+  "dropLocations": [
+    "Forsaken Temple, Campaign, Massacre, Wave 5, Rifted",
+    "Forsaken Temple, Survival, Massacre, Wave 25, Rifted",
+    "Forsaken Temple, Mixed, Massacre, Wave 25, Rifted"
+  ]
+}

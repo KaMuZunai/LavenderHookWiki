@@ -1,0 +1,14 @@
+{
+  "name": "Lycan's Claws",
+  "description": "",
+  "icon": "Lycan's Claws.png",
+  "category": "Accessories",
+  "type": "Bracer",
+  "stats": [
+    "0.3 Fortify Scalar",
+    "0.3 Power Scalar",
+    "0.3 Range Scalar",
+    "0.3 Def. Rate Scalar"
+  ],
+  "dropLocations": "basic drop"
+}

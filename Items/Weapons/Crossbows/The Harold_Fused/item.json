@@ -1,0 +1,18 @@
+{
+  "name": "The Harold",
+  "description": "\"Did I fire six casters, or only five? Three? Seven. Idk…\"",
+  "icon": "The Harold.png",
+  "category": "Weapons",
+  "type": "Crossbow",
+  "stats": [
+    "2 Vitality Scalar",
+    "2 Attack Scalar",
+    "2 Ability Scalar"
+  ],
+  "elements": [
+    "100% Fusion"
+  ],
+  "dropLocations": [
+    "The Bazaar, Mixed, Massacre, Wave 25, Rifted"
+  ]
+}

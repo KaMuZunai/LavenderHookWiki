@@ -1,0 +1,28 @@
+{
+  "name": "Fused Mista Mine",
+  "description": "Cuts your Move Speed by 40% but increases cast rate by 40%.",
+  "icon": "Fused Mista Mine.png",
+  "category": "Pets",
+  "type": "Pet",
+  "stats": [
+    "0.95 Fortify Scalar",
+    "0.9 Def. Rate Scalar",
+    "0.9 Power Scalar",
+    "1 Range Scalar"
+  ],
+  "dropLocations": [
+    "Ancient Mines, Challenge, Massacre, Wave 8",
+    "Ancient Mines, PureStrategy, Easy, Wave 15, Rifted",
+    "Ancient Mines, PureStrategy, Easy, Wave 25, Rifted",
+    "Ancient Mines, PureStrategy, Medium, Wave 15, Rifted",
+    "Ancient Mines, PureStrategy, Medium, Wave 25, Rifted",
+    "Ancient Mines, PureStrategy, Hard, Wave 15, Rifted",
+    "Ancient Mines, PureStrategy, Hard, Wave 25, Rifted",
+    "Ancient Mines, PureStrategy, Insane, Wave 15, Rifted",
+    "Ancient Mines, PureStrategy, Insane, Wave 25, Rifted",
+    "Ancient Mines, PureStrategy, Nightmare, Wave 15, Rifted",
+    "Ancient Mines, PureStrategy, Nightmare, Wave 25, Rifted",
+    "Ancient Mines, PureStrategy, Massacre, Wave 15, Rifted",
+    "Ancient Mines, PureStrategy, Massacre, Wave 25, Rifted"
+  ]
+}

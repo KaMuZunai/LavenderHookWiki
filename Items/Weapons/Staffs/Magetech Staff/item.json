@@ -1,0 +1,8 @@
+{
+  "name": "Magetech Staff",
+  "description": "",
+  "icon": "Magetech Staff.png",
+  "category": "Weapons",
+  "type": "Staff",
+  "dropLocations": "basic drop"
+}

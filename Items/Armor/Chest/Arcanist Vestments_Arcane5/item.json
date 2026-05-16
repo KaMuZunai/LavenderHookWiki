@@ -1,0 +1,21 @@
+{
+  "name": "Arcanist Vestments",
+  "description": "",
+  "icon": "Arcanist Vestments.png",
+  "category": "Armor",
+  "type": "Chest",
+  "subtype": [
+    "Chest",
+    "Arcanist"
+  ],
+  "stats": [
+    "1.5 Power Scalar",
+    "1.5 Fortify Scalar",
+    "1.5 Range Scalar",
+    "1.5 Def. Rate Scalar"
+  ],
+  "elements": [
+    "100% Fusion"
+  ],
+  "dropLocations": []
+}

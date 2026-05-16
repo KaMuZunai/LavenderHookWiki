@@ -1,0 +1,16 @@
+{
+  "name": "Magina's Last Glaive",
+  "description": "Many years of service has rendered its Mana draining abilities useless.",
+  "icon": "Magina's Last Glaive.png",
+  "category": "Weapons",
+  "type": "Polearm",
+  "elements": [
+    "100% Fire"
+  ],
+  "dropLocations": [
+    "Glitterhelm, Challenge, Insane, Wave 6",
+    "Glitterhelm, Challenge, Nightmare, Wave 6",
+    "Glitterhelm, Challenge, Massacre, Wave 6",
+    "Glitterhelm, Challenge, Medium, Wave 6"
+  ]
+}

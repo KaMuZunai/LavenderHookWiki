@@ -1,0 +1,18 @@
+{
+  "name": "Fused Flopsalot",
+  "description": "The toughest question Ive ever been asked.",
+  "icon": "Fused Flopsalot.png",
+  "category": "Weapons",
+  "type": "Sword",
+  "stats": [
+    "2.5 Vitality Scalar",
+    "2.5 Attack Scalar",
+    "2.75 Ability Scalar"
+  ],
+  "elements": [
+    "100% Fusion"
+  ],
+  "dropLocations": [
+    "Viking Winter, PureStrategy, Massacre, Wave 15, Rifted"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Gold Lil' Bomber",
+  "description": "Projectiles Explode, dealing damage to nearby enemies. Prioritizes stronger enemies.",
+  "icon": "Gold Lil' Bomber.png",
+  "category": "Pets",
+  "type": "Pet",
+  "stats": [
+    "3 Vitality Scalar",
+    "3 Attack Scalar",
+    "3 Ability Scalar"
+  ],
+  "elements": [
+    "25% Electric",
+    "25% Fire",
+    "25% Physical",
+    "25% Poison"
+  ],
+  "dropLocations": [
+    "The Promenade, Challenge, Massacre, Wave 5",
+    "The Throne Room, Survival, Massacre, Wave 100, Rifted"
+  ]
+}

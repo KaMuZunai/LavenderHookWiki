@@ -1,0 +1,8 @@
+{
+  "name": "Default Tome",
+  "description": "",
+  "icon": "Default Tome.png",
+  "category": "Offhand",
+  "type": "Tome",
+  "dropLocations": []
+}

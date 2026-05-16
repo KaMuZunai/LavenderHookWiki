@@ -1,0 +1,23 @@
+{
+  "name": "Golden Mini Ogre",
+  "description": "Attacks enemies at all ranges, Melee if in ranged and Explosive Projectiles at ranged.",
+  "icon": "Golden Mini Ogre.png",
+  "category": "Pets",
+  "type": "Pet",
+  "stats": [
+    "3 Vitality Scalar",
+    "3 Attack Scalar",
+    "3 Ability Scalar"
+  ],
+  "elements": [
+    "17% Poison",
+    "17% Electric",
+    "17% Element.Attunement.Armored",
+    "17% Fire",
+    "17% Poison",
+    "17% Physical"
+  ],
+  "dropLocations": [
+    "Castle Armory, Survival, Massacre, Wave 100, Rifted"
+  ]
+}

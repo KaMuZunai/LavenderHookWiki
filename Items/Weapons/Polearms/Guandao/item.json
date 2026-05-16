@@ -1,0 +1,8 @@
+{
+  "name": "Guandao",
+  "description": "",
+  "icon": "Guandao.png",
+  "category": "Weapons",
+  "type": "Polearm",
+  "dropLocations": "basic drop"
+}

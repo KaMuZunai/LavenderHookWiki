@@ -1,0 +1,11 @@
+{
+  "name": "Toxicity Overload",
+  "description": "Noxious Device has % to Enrage enemies for  Seconds when noxious expires.",
+  "icon": "Toxicity Overload.png",
+  "category": "Runes",
+  "type": "Rune",
+  "dropLocations": [
+    "Alchemical Laboratory, Campaign, 41.67%",
+    "Foundries And Forges, Campaign, 27.78%"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "A Giant Waffle",
+  "description": "A syrupy pet from Twitch streamer GiantWaffle that grants 50% bonus health and 10% movement speed.",
+  "icon": "A Giant Waffle.png",
+  "category": "Pets",
+  "type": "Pet",
+  "stats": [
+    "1.5 Vitality Scalar",
+    "1.5 Attack Scalar",
+    "2 Ability Scalar"
+  ],
+  "dropLocations": [
+    "Glitterhelm, Challenge, Massacre, Wave 5"
+  ]
+}

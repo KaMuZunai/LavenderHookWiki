@@ -1,0 +1,10 @@
+{
+  "name": "Spin-To-Win",
+  "description": "Carnage consumes -50% mana and does % of the original damage.",
+  "icon": "Spin-To-Win.png",
+  "category": "Runes",
+  "type": "Rune",
+  "dropLocations": [
+    "The Deeper Well, Campaign, 23.08%"
+  ]
+}

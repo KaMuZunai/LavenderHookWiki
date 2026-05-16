@@ -1,0 +1,37 @@
+{
+  "name": "Zephyr",
+  "description": "Shoots Torandos that stop when they hit enemies, dealing damage to all enemies actively inside.",
+  "icon": "Zephyr.png",
+  "category": "Pets",
+  "type": "Pet",
+  "stats": [
+    "2.55 Vitality Scalar",
+    "2.55 Attack Scalar",
+    "2.55 Ability Scalar"
+  ],
+  "elements": [
+    "25% Electric",
+    "25% Fire",
+    "25% Poison",
+    "25% Physical"
+  ],
+  "dropLocations": [
+    "Forsaken Temple, Survival, Easy, Wave 15",
+    "Forsaken Temple, Survival, Medium, Wave 15",
+    "Forsaken Temple, Survival, Hard, Wave 15",
+    "Forsaken Temple, Survival, Insane, Wave 15",
+    "Forsaken Temple, Survival, Insane, Wave 25",
+    "Forsaken Temple, Survival, Nightmare, Wave 15",
+    "Forsaken Temple, Survival, Nightmare, Wave 25",
+    "Forsaken Temple, Survival, Massacre, Wave 15",
+    "Forsaken Temple, Survival, Massacre, Wave 25",
+    "Forsaken Temple, PureStrategy, Easy, Wave 15",
+    "Forsaken Temple, PureStrategy, Medium, Wave 15",
+    "Forsaken Temple, Mixed, Easy, Wave 15",
+    "Forsaken Temple, Mixed, Medium, Wave 15",
+    "Forsaken Temple, Mixed, Hard, Wave 15",
+    "Forsaken Temple, Mixed, Insane, Wave 15",
+    "Forsaken Temple, Mixed, Nightmare, Wave 15",
+    "Forsaken Temple, Mixed, Massacre, Wave 15"
+  ]
+}

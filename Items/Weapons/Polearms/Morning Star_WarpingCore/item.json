@@ -1,0 +1,15 @@
+{
+  "name": "Morning Star",
+  "description": "",
+  "icon": "Morning Star.png",
+  "category": "Weapons",
+  "type": "Polearm",
+  "elements": [
+    "100% Poison"
+  ],
+  "dropLocations": [
+    "Magus Quarters, Challenge, Easy, Wave 5",
+    "Magus Quarters, Challenge, Medium, Wave 5",
+    "Magus Quarters, Challenge, Hard, Wave 5"
+  ]
+}

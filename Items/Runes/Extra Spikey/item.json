@@ -1,0 +1,10 @@
+{
+  "name": "Extra Spikey",
+  "description": "Thunder Spike Trap now has % chance to reset it's cooldown when it hits an enemy.",
+  "icon": "Extra Spikey.png",
+  "category": "Runes",
+  "type": "Rune",
+  "dropLocations": [
+    "Arcane Library, Campaign, 23.08%"
+  ]
+}

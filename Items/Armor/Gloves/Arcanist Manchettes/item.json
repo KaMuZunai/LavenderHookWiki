@@ -1,0 +1,21 @@
+{
+  "name": "Arcanist Manchettes",
+  "description": "",
+  "icon": "Arcanist Manchettes.png",
+  "category": "Armor",
+  "type": "Gloves",
+  "subtype": [
+    "Gloves",
+    "Arcanist"
+  ],
+  "stats": [
+    "1.5 Power Scalar",
+    "1.5 Fortify Scalar",
+    "1.5 Range Scalar",
+    "1.5 Def. Rate Scalar"
+  ],
+  "dropLocations": [
+    "Forsaken Temple, Survival, Massacre, Wave 25, Rifted",
+    "Forsaken Temple, Mixed, Massacre, Wave 25, Rifted"
+  ]
+}

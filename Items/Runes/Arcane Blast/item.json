@@ -1,0 +1,10 @@
+{
+  "name": "Arcane Blast",
+  "description": "Arcane Surge becomes a ranged piercing projectile which deals % of secondary attack damage.Enemies hit by the projectile will take 25% more damage from all sources for 10 seconds. This debuff can stack twice.THIS RUNE DOES NOT WORK WITH THE DECOY GR OR GRENADE CHANCE RUNES EQUIPED ON THE SERIES EV!.",
+  "icon": "Arcane Blast.png",
+  "category": "Runes",
+  "type": "Rune",
+  "dropLocations": [
+    "The Outpost, Campaign, 25%"
+  ]
+}

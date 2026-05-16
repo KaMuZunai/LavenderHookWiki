@@ -1,0 +1,10 @@
+{
+  "name": "Critical Rage",
+  "description": "Blood Boil adds % to your Critical Chance.",
+  "icon": "Critical Rage.png",
+  "category": "Runes",
+  "type": "Rune",
+  "dropLocations": [
+    "The Summit, Campaign, 25%"
+  ]
+}

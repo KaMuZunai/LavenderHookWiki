@@ -1,0 +1,8 @@
+{
+  "name": "Royal Blade",
+  "description": "",
+  "icon": "Royal Blade.png",
+  "category": "Weapons",
+  "type": "Sword",
+  "dropLocations": "basic drop"
+}

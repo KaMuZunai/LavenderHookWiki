@@ -1,0 +1,13 @@
+{
+  "name": "Fragmenter",
+  "description": "Built for heroes who prefer a little fireworks with their victory.",
+  "icon": "Fragmenter.png",
+  "category": "Weapons",
+  "type": "Crossbow",
+  "stats": [
+    "1.5 Range Scalar",
+    "1.5 Power Scalar",
+    "1.5 Ability Scalar"
+  ],
+  "dropLocations": "basic drop"
+}

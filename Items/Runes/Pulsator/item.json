@@ -1,0 +1,10 @@
+{
+  "name": "Pulsator",
+  "description": "When the Lightning Tower fires off, it also deals % of tower damage to all enemies within range with less damage the further away they are from the tower starting after half way.",
+  "icon": "Pulsator.png",
+  "category": "Runes",
+  "type": "Rune",
+  "dropLocations": [
+    "Magus Quarters, Campaign, 16.67%"
+  ]
+}

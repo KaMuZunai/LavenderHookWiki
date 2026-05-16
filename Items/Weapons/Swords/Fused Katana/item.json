@@ -1,0 +1,18 @@
+{
+  "name": "Fused Katana",
+  "description": "",
+  "icon": "Fused Katana.png",
+  "category": "Weapons",
+  "type": "Sword",
+  "subtype": [
+    "Sword"
+  ],
+  "stats": [
+    "1.1 Vitality Scalar",
+    "1.1 Attack Scalar"
+  ],
+  "elements": [
+    "100% Fusion"
+  ],
+  "dropLocations": "basic drop"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Explosive Striker",
+  "description": "Deadly Striker projectiles now also explode on hit, dealing % of tower damage to nearby enemies with a cooldown of  seconds.",
+  "icon": "Explosive Striker.png",
+  "category": "Runes",
+  "type": "Rune",
+  "dropLocations": [
+    "Ancient Mines, Campaign, 23.08%"
+  ]
+}

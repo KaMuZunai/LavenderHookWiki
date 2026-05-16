@@ -1,0 +1,14 @@
+{
+  "name": "Nature's Wrap",
+  "description": "",
+  "icon": "Nature's Wrap.png",
+  "category": "Accessories",
+  "type": "Bracer",
+  "stats": [
+    "0.3 Fortify Scalar",
+    "0.3 Power Scalar",
+    "0.3 Range Scalar",
+    "0.3 Def. Rate Scalar"
+  ],
+  "dropLocations": "basic drop"
+}

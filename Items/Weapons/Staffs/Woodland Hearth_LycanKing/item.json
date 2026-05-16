@@ -1,0 +1,19 @@
+{
+  "name": "Woodland Hearth",
+  "description": "Projectiles Explode, dealing damage to nearby enemies.",
+  "icon": "Woodland Hearth.png",
+  "category": "Weapons",
+  "type": "Staff",
+  "stats": [
+    "1.5 Vitality Scalar",
+    "1.5 Attack Scalar",
+    "1.5 Ability Scalar"
+  ],
+  "elements": [
+    "100% Physical"
+  ],
+  "dropLocations": [
+    "The Keep, Mixed, Insane, Wave 25",
+    "The Keep, Mixed, Nightmare, Wave 25"
+  ]
+}

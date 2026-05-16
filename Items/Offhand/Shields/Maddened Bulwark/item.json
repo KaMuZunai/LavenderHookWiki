@@ -1,0 +1,13 @@
+{
+  "name": "Maddened Bulwark",
+  "description": "",
+  "icon": "Maddened Bulwark.png",
+  "category": "Offhand",
+  "type": "Shield",
+  "stats": [
+    "1.25 Ability Scalar",
+    "1.25 Vitality Scalar",
+    "1.25 Attack Scalar"
+  ],
+  "dropLocations": "basic drop"
+}

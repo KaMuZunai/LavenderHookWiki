@@ -1,0 +1,18 @@
+{
+  "name": "Fused The Pinioner",
+  "description": "We will always remember what it was like to fly.",
+  "icon": "Fused The Pinioner.png",
+  "category": "Weapons",
+  "type": "Sword",
+  "elements": [
+    "100% Fusion"
+  ],
+  "dropLocations": [
+    "The Ramparts, Challenge, Easy, Wave 6",
+    "The Ramparts, Challenge, Medium, Wave 6",
+    "The Ramparts, Challenge, Hard, Wave 6",
+    "The Ramparts, Challenge, Insane, Wave 6",
+    "The Ramparts, Challenge, Massacre, Wave 6",
+    "The Ramparts, Challenge, Nightmare, Wave 6"
+  ]
+}

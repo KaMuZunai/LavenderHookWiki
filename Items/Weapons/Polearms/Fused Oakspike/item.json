@@ -1,0 +1,45 @@
+{
+  "name": "Fused Oakspike",
+  "description": "The mists of Mistymire cling to its shaft, hiding the strike until it’s far too late.",
+  "icon": "Fused Oakspike.png",
+  "category": "Weapons",
+  "type": "Polearm",
+  "subtype": [
+    "Polearm"
+  ],
+  "stats": [
+    "1.5 Fortify Scalar",
+    "1.5 Range Scalar",
+    "1.5 Def. Rate Scalar"
+  ],
+  "elements": [
+    "100% Fusion"
+  ],
+  "dropLocations": [
+    "Arcane Library, PureStrategy, Easy, Wave 25, Rifted",
+    "Arcane Library, PureStrategy, Easy, Wave 5, Rifted",
+    "Arcane Library, PureStrategy, Medium, Wave 25, Rifted",
+    "Arcane Library, PureStrategy, Medium, Wave 5, Rifted",
+    "Arcane Library, PureStrategy, Hard, Wave 25, Rifted",
+    "Arcane Library, PureStrategy, Hard, Wave 5, Rifted",
+    "Arcane Library, PureStrategy, Insane, Wave 25, Rifted",
+    "Arcane Library, PureStrategy, Insane, Wave 5, Rifted",
+    "Arcane Library, PureStrategy, Nightmare, Wave 25, Rifted",
+    "Arcane Library, PureStrategy, Nightmare, Wave 5, Rifted",
+    "Arcane Library, PureStrategy, Massacre, Wave 25, Rifted",
+    "Arcane Library, PureStrategy, Massacre, Wave 5, Rifted",
+    "Forsaken Temple, PureStrategy, Easy, Wave 25, Rifted",
+    "Forsaken Temple, PureStrategy, Easy, Wave 15, Rifted",
+    "Forsaken Temple, PureStrategy, Medium, Wave 25, Rifted",
+    "Forsaken Temple, PureStrategy, Medium, Wave 15, Rifted",
+    "Forsaken Temple, PureStrategy, Hard, Wave 25, Rifted",
+    "Forsaken Temple, PureStrategy, Hard, Wave 15, Rifted",
+    "Forsaken Temple, PureStrategy, Insane, Wave 25, Rifted",
+    "Forsaken Temple, PureStrategy, Insane, Wave 15, Rifted",
+    "Forsaken Temple, PureStrategy, Nightmare, Wave 25, Rifted",
+    "Forsaken Temple, PureStrategy, Nightmare, Wave 15, Rifted",
+    "Forsaken Temple, PureStrategy, Massacre, Wave 25, Rifted",
+    "Forsaken Temple, PureStrategy, Massacre, Wave 15, Rifted",
+    "Halloween Ramparts, PureStrategy, Massacre, Wave 15, Rifted"
+  ]
+}

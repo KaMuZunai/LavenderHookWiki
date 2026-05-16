@@ -1,0 +1,29 @@
+{
+  "name": "Lil' Bomber",
+  "description": "Projectiles Explode, dealing damage to nearby enemies. Prioritizes stronger enemies.",
+  "icon": "Lil' Bomber.png",
+  "category": "Pets",
+  "type": "Pet",
+  "stats": [
+    "2.55 Vitality Scalar",
+    "2.55 Attack Scalar",
+    "2.55 Ability Scalar"
+  ],
+  "dropLocations": [
+    "The Promenade, Challenge, Easy, Wave 5",
+    "The Promenade, Challenge, Medium, Wave 5",
+    "The Promenade, Challenge, Hard, Wave 5",
+    "The Promenade, Challenge, Insane, Wave 5",
+    "The Promenade, Challenge, Nightmare, Wave 5",
+    "The Promenade, Challenge, Massacre, Wave 5",
+    "The Summit, Survival, Insane, Wave 25",
+    "The Summit, Survival, Nightmare, Wave 25",
+    "The Summit, Survival, Massacre, Wave 25",
+    "The Summit, Mixed, Easy, Wave 25",
+    "The Summit, Mixed, Medium, Wave 25",
+    "The Summit, Mixed, Hard, Wave 25",
+    "The Summit, Mixed, Insane, Wave 25",
+    "The Summit, Mixed, Nightmare, Wave 25",
+    "The Summit, Mixed, Massacre, Wave 25"
+  ]
+}

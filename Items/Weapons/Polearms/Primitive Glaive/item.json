@@ -1,0 +1,8 @@
+{
+  "name": "Primitive Glaive",
+  "description": "",
+  "icon": "Primitive Glaive.png",
+  "category": "Weapons",
+  "type": "Polearm",
+  "dropLocations": "basic drop"
+}

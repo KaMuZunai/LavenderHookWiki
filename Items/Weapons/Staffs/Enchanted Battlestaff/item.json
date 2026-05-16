@@ -1,0 +1,8 @@
+{
+  "name": "Enchanted Battlestaff",
+  "description": "",
+  "icon": "Enchanted Battlestaff.png",
+  "category": "Weapons",
+  "type": "Staff",
+  "dropLocations": "basic drop"
+}

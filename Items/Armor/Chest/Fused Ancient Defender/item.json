@@ -1,0 +1,18 @@
+{
+  "name": "Fused Ancient Defender",
+  "description": "",
+  "icon": "Fused Ancient Defender.png",
+  "category": "Armor",
+  "type": "Chest",
+  "subtype": [
+    "Chest",
+    "Ancient"
+  ],
+  "stats": [
+    "1 Fortify Scalar"
+  ],
+  "elements": [
+    "100% Fusion"
+  ],
+  "dropLocations": "basic drop"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Fused Mystical Genie",
+  "description": "Your next attack Restores MP. 6Ⅹ cooldown",
+  "icon": "Fused Mystical Genie.png",
+  "category": "Pets",
+  "type": "Pet",
+  "stats": [
+    "3 Attribute.Health Scalar",
+    "2 Attack Scalar",
+    "2 Ability Scalar"
+  ],
+  "dropLocations": [
+    "Halloween Ramparts, Survival, Massacre, Wave 15, Rifted",
+    "Halloween Ramparts, Survival, Massacre, Wave 25, Rifted",
+    "Halloween Ramparts, Mixed, Massacre, Wave 15, Rifted",
+    "Halloween Ramparts, Mixed, Massacre, Wave 25, Rifted",
+    "The Ramparts, Survival, Massacre, Wave 15, Rifted",
+    "The Ramparts, Survival, Massacre, Wave 25, Rifted",
+    "The Ramparts, Mixed, Massacre, Wave 15, Rifted",
+    "The Ramparts, Mixed, Massacre, Wave 25, Rifted"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Master's Memoir",
+  "description": "",
+  "icon": "Master's Memoir.png",
+  "category": "Offhand",
+  "type": "Tome",
+  "stats": [
+    "1.25 Attack Scalar",
+    "1.25 Vitality Scalar",
+    "1.25 Ability Scalar"
+  ],
+  "dropLocations": "basic drop"
+}

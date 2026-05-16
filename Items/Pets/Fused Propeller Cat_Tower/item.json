@@ -1,0 +1,26 @@
+{
+  "name": "Fused Propeller Cat",
+  "description": "Improve the Damage of nearby heroes. Additionally, It increases Cast Rate by 30%.",
+  "icon": "Fused Propeller Cat.png",
+  "category": "Pets",
+  "type": "Pet",
+  "stats": [
+    "1 Power Scalar",
+    "2.5 Attack Scalar",
+    "1 Def. Rate Scalar"
+  ],
+  "dropLocations": [
+    "Alchemical Laboratory, PureStrategy, Easy, Wave 15, Rifted",
+    "Alchemical Laboratory, PureStrategy, Easy, Wave 25, Rifted",
+    "Alchemical Laboratory, PureStrategy, Medium, Wave 15, Rifted",
+    "Alchemical Laboratory, PureStrategy, Medium, Wave 25, Rifted",
+    "Alchemical Laboratory, PureStrategy, Hard, Wave 15, Rifted",
+    "Alchemical Laboratory, PureStrategy, Hard, Wave 25, Rifted",
+    "Alchemical Laboratory, PureStrategy, Insane, Wave 15, Rifted",
+    "Alchemical Laboratory, PureStrategy, Insane, Wave 25, Rifted",
+    "Alchemical Laboratory, PureStrategy, Nightmare, Wave 15, Rifted",
+    "Alchemical Laboratory, PureStrategy, Nightmare, Wave 25, Rifted",
+    "Alchemical Laboratory, PureStrategy, Massacre, Wave 15, Rifted",
+    "Alchemical Laboratory, PureStrategy, Massacre, Wave 25, Rifted"
+  ]
+}

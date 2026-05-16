@@ -1,0 +1,14 @@
+{
+  "name": "Guard Sabatons",
+  "description": "",
+  "icon": "Guard Sabatons.png",
+  "category": "Armor",
+  "type": "Boots",
+  "subtype": [
+    "Boots",
+    "Guard"
+  ],
+  "dropLocations": [
+    "The Deeper Well, NUE, Medium, Wave 3"
+  ]
+}

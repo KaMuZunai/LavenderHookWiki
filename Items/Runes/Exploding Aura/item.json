@@ -1,0 +1,10 @@
+{
+  "name": "Exploding Aura",
+  "description": "Enemies killed within the Strength Drain Aura explode, dealing % of their max health as AOE damage to surrounding enemies.",
+  "icon": "Exploding Aura.png",
+  "category": "Runes",
+  "type": "Rune",
+  "dropLocations": [
+    "Forsaken Temple, Campaign, 31.58%"
+  ]
+}

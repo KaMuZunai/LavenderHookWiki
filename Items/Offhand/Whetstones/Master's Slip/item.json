@@ -1,0 +1,13 @@
+{
+  "name": "Master's Slip",
+  "description": "",
+  "icon": "Master's Slip.png",
+  "category": "Offhand",
+  "type": "Whetstone",
+  "stats": [
+    "1.25 Ability Scalar",
+    "1.25 Vitality Scalar",
+    "1.25 Attack Scalar"
+  ],
+  "dropLocations": "basic drop"
+}

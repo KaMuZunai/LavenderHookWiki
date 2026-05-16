@@ -1,0 +1,15 @@
+{
+  "name": "Summoner Action Figure",
+  "description": "Improve the Damage of nearby defenses. Note this pet gives 10% more of a boost compared to a regular gemstone.",
+  "icon": "Summoner Action Figure.png",
+  "category": "Pets",
+  "type": "Pet",
+  "stats": [
+    "0.75 Power Scalar",
+    "0.75 Def. Rate Scalar",
+    "0.75 Range Scalar"
+  ],
+  "dropLocations": [
+    "The Bazaar, PureStrategy, Massacre, Wave 25"
+  ]
+}

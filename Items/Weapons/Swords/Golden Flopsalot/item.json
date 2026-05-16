@@ -1,0 +1,22 @@
+{
+  "name": "Golden Flopsalot",
+  "description": "\"The toughest question Ive ever been asked.\"",
+  "icon": "Golden Flopsalot.png",
+  "category": "Weapons",
+  "type": "Sword",
+  "stats": [
+    "2.75 Range Scalar",
+    "2.75 Power Scalar",
+    "2.75 Def. Rate Scalar"
+  ],
+  "elements": [
+    "20% Electric",
+    "20% Fire",
+    "20% Poison",
+    "20% Physical",
+    "20% Fusion"
+  ],
+  "dropLocations": [
+    "Viking Winter, Survival, Massacre, Wave 100, Rifted"
+  ]
+}

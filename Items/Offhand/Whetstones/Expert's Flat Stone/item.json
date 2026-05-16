@@ -1,0 +1,12 @@
+{
+  "name": "Expert's Flat Stone",
+  "description": "",
+  "icon": "Expert's Flat Stone.png",
+  "category": "Offhand",
+  "type": "Whetstone",
+  "stats": [
+    "1 Vitality Scalar",
+    "1 Attack Scalar"
+  ],
+  "dropLocations": "basic drop"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Magetech Staff",
+  "description": "",
+  "icon": "Magetech Staff.png",
+  "category": "Weapons",
+  "type": "Staff",
+  "elements": [
+    "100% Poison"
+  ],
+  "dropLocations": [
+    "The Deeper Well, Challenge, Easy, Wave 8",
+    "The Deeper Well, Challenge, Medium, Wave 8",
+    "The Deeper Well, Challenge, Hard, Wave 8"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Focus Flame",
+  "description": "Flameburst Tower projectilles no longer explode, but tower damage is increased by %.",
+  "icon": "Focus Flame.png",
+  "category": "Runes",
+  "type": "Rune",
+  "dropLocations": [
+    "The Summit, Campaign, 50%"
+  ]
+}

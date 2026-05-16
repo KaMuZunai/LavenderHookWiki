@@ -1,0 +1,38 @@
+{
+  "name": "Tsuda's Final Creation",
+  "description": "Though it looks like a sword, its true power lies in the hands of a spellcaster.",
+  "icon": "Tsuda's Final Creation.png",
+  "category": "Weapons",
+  "type": "Staff",
+  "stats": [
+    "1.5 Power Scalar",
+    "1.5 Def. Rate Scalar",
+    "1.5 Range Scalar"
+  ],
+  "dropLocations": [
+    "The Lost Metropolis, PureStrategy, Easy, Wave 25",
+    "The Lost Metropolis, PureStrategy, Easy, Wave 15",
+    "The Lost Metropolis, PureStrategy, Medium, Wave 25",
+    "The Lost Metropolis, PureStrategy, Medium, Wave 15",
+    "The Lost Metropolis, PureStrategy, Hard, Wave 25",
+    "The Lost Metropolis, PureStrategy, Hard, Wave 15",
+    "The Lost Metropolis, PureStrategy, Insane, Wave 25",
+    "The Lost Metropolis, PureStrategy, Insane, Wave 15",
+    "The Lost Metropolis, PureStrategy, Nightmare, Wave 25",
+    "The Lost Metropolis, PureStrategy, Nightmare, Wave 15",
+    "The Lost Metropolis, PureStrategy, Massacre, Wave 25",
+    "The Lost Metropolis, PureStrategy, Massacre, Wave 15",
+    "The Outpost, PureStrategy, Easy, Wave 25",
+    "The Outpost, PureStrategy, Easy, Wave 15",
+    "The Outpost, PureStrategy, Medium, Wave 25",
+    "The Outpost, PureStrategy, Medium, Wave 15",
+    "The Outpost, PureStrategy, Hard, Wave 25",
+    "The Outpost, PureStrategy, Hard, Wave 15",
+    "The Outpost, PureStrategy, Insane, Wave 25",
+    "The Outpost, PureStrategy, Insane, Wave 15",
+    "The Outpost, PureStrategy, Nightmare, Wave 25",
+    "The Outpost, PureStrategy, Nightmare, Wave 15",
+    "The Outpost, PureStrategy, Massacre, Wave 25",
+    "The Outpost, PureStrategy, Massacre, Wave 15"
+  ]
+}

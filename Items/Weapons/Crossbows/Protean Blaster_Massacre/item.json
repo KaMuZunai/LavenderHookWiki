@@ -1,0 +1,23 @@
+{
+  "name": "Protean Blaster",
+  "description": "Projectiles Explode, dealing damage to nearby enemies.",
+  "icon": "Protean Blaster.png",
+  "category": "Weapons",
+  "type": "Crossbow",
+  "stats": [
+    "1.5 Vitality Scalar",
+    "1.5 Attack Scalar",
+    "1.5 Ability Scalar"
+  ],
+  "elements": [
+    "100% Electric"
+  ],
+  "dropLocations": [
+    "The Throne Room, Campaign, Massacre, Wave 5",
+    "The Throne Room, Survival, Massacre, Wave 25",
+    "The Throne Room, Mixed, Easy, Wave 25",
+    "The Throne Room, Mixed, Medium, Wave 25",
+    "The Throne Room, Mixed, Hard, Wave 25",
+    "The Throne Room, Mixed, Massacre, Wave 25"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Militia Stompers",
+  "description": "",
+  "icon": "Militia Stompers.png",
+  "category": "Armor",
+  "type": "Boots",
+  "subtype": [
+    "Boots",
+    "Militia"
+  ],
+  "stats": [
+    "1 Power Scalar",
+    "1 Fortify Scalar"
+  ],
+  "dropLocations": "basic drop"
+}

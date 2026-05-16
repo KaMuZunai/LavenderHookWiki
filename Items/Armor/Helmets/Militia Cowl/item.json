@@ -1,0 +1,16 @@
+{
+  "name": "Militia Cowl",
+  "description": "",
+  "icon": "Militia Cowl.png",
+  "category": "Armor",
+  "type": "Helmet",
+  "subtype": [
+    "Helmet",
+    "Militia"
+  ],
+  "stats": [
+    "1 Power Scalar",
+    "1 Fortify Scalar"
+  ],
+  "dropLocations": "basic drop"
+}

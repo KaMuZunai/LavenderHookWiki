@@ -1,0 +1,10 @@
+{
+  "name": "Warrior Monk",
+  "description": "Hero Boost now increases yours and other melee heroes Critical Bonus by % and Crit Chance by %.",
+  "icon": "Warrior Monk.png",
+  "category": "Runes",
+  "type": "Rune",
+  "dropLocations": [
+    "The Lost Metropolis, Campaign, 25%"
+  ]
+}

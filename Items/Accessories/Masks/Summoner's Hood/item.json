@@ -1,0 +1,13 @@
+{
+  "name": "Summoner's Hood",
+  "description": "",
+  "icon": "Summoner's Hood.png",
+  "category": "Accessories",
+  "type": "Mask",
+  "stats": [
+    "0.15 Fortify Scalar",
+    "0.15 Power Scalar",
+    "0.15 Range Scalar"
+  ],
+  "dropLocations": []
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Baby Phoenix",
+  "description": "Projectiles Explode, dealing damage to nearby enemies.",
+  "icon": "Baby Phoenix.png",
+  "category": "Pets",
+  "type": "Pet",
+  "stats": [
+    "1.5 Vitality Scalar",
+    "1.5 Attack Scalar",
+    "1.5 Ability Scalar"
+  ],
+  "dropLocations": []
+}

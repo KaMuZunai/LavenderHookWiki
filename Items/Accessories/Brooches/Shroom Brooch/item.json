@@ -1,0 +1,17 @@
+{
+  "name": "Shroom Brooch",
+  "description": "",
+  "icon": "Shroom Brooch.png",
+  "category": "Accessories",
+  "type": "Brooch",
+  "subtype": [
+    "Brooch"
+  ],
+  "stats": [
+    "0.3 Fortify Scalar",
+    "0.3 Power Scalar",
+    "0.3 Range Scalar",
+    "0.3 Def. Rate Scalar"
+  ],
+  "dropLocations": "basic drop"
+}

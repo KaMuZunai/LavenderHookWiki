@@ -1,0 +1,51 @@
+{
+  "name": "Raging Zeus",
+  "description": "Projectiles Explode, dealing damage to nearby enemies and Stunning them.",
+  "icon": "Raging Zeus.png",
+  "category": "Pets",
+  "type": "Pet",
+  "stats": [
+    "2.65 Vitality Scalar",
+    "2.65 Attack Scalar",
+    "2.65 Ability Scalar"
+  ],
+  "elements": [
+    "100% Fusion"
+  ],
+  "dropLocations": [
+    "The Mill, Survival, Easy, Wave 25, Rifted",
+    "The Mill, Survival, Nightmare, Wave 15, Rifted",
+    "The Mill, Survival, Medium, Wave 25, Rifted",
+    "The Mill, PureStrategy, Easy, Wave 25, Rifted",
+    "The Mill, Survival, Hard, Wave 25, Rifted",
+    "The Mill, Survival, Nightmare, Wave 25, Rifted",
+    "The Mill, Survival, Insane, Wave 25, Rifted",
+    "The Mill, PureStrategy, Insane, Wave 25, Rifted",
+    "The Mill, PureStrategy, Hard, Wave 25, Rifted",
+    "The Mill, Mixed, Easy, Wave 25, Rifted",
+    "The Mill, Mixed, Medium, Wave 25, Rifted",
+    "The Mill, Mixed, Hard, Wave 25, Rifted",
+    "The Mill, Mixed, Insane, Wave 25, Rifted",
+    "The Mill, Mixed, Nightmare, Wave 15, Rifted",
+    "The Mill, Mixed, Nightmare, Wave 25, Rifted",
+    "The Outpost, Survival, Massacre, Wave 25, Rifted",
+    "The Outpost, PureStrategy, Easy, Wave 25, Rifted",
+    "The Outpost, PureStrategy, Insane, Wave 25, Rifted",
+    "The Outpost, Survival, Easy, Wave 25, Rifted",
+    "The Outpost, PureStrategy, Hard, Wave 25, Rifted",
+    "The Outpost, Survival, Medium, Wave 25, Rifted",
+    "The Outpost, Mixed, Easy, Wave 25, Rifted",
+    "The Outpost, Survival, Hard, Wave 25, Rifted",
+    "The Outpost, Mixed, Medium, Wave 25, Rifted",
+    "The Outpost, Survival, Insane, Wave 25, Rifted",
+    "The Outpost, Mixed, Hard, Wave 25, Rifted",
+    "The Outpost, Survival, Nightmare, Wave 15, Rifted",
+    "The Outpost, Mixed, Insane, Wave 25, Rifted",
+    "The Outpost, Survival, Nightmare, Wave 25, Rifted",
+    "The Outpost, Mixed, Nightmare, Wave 15, Rifted",
+    "The Outpost, Survival, Massacre, Wave 15, Rifted",
+    "The Outpost, Mixed, Nightmare, Wave 25, Rifted",
+    "The Outpost, Mixed, Massacre, Wave 15, Rifted",
+    "The Outpost, Mixed, Massacre, Wave 25, Rifted"
+  ]
+}

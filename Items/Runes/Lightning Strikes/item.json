@@ -1,0 +1,10 @@
+{
+  "name": "Lightning Strikes",
+  "description": "Every  Seconds, the Electric Aura deals % to a single enemy with in range.",
+  "icon": "Lightning Strikes.png",
+  "category": "Runes",
+  "type": "Rune",
+  "dropLocations": [
+    "Alchemical Laboratory, Campaign, 16.67%"
+  ]
+}

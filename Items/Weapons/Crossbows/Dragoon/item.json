@@ -1,0 +1,8 @@
+{
+  "name": "Dragoon",
+  "description": "",
+  "icon": "Dragoon.png",
+  "category": "Weapons",
+  "type": "Crossbow",
+  "dropLocations": []
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Goblin Gearling",
+  "description": "Attacks nearby enemies and deals damage with a chance to crit. On a successful crit restores ability mana.\r\n\r\nAdditionally increases cast rate by 10%.",
+  "icon": "Goblin Gearling.png",
+  "category": "Pets",
+  "type": "Pet",
+  "stats": [
+    "4.75 Vitality Scalar",
+    "4.5 Attack Scalar",
+    "4.5 Ability Scalar"
+  ],
+  "dropLocations": [
+    "The Throne Room, Survival, Massacre, Wave 15"
+  ]
+}

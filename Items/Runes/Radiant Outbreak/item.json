@@ -1,0 +1,10 @@
+{
+  "name": "Radiant Outbreak",
+  "description": "The Holy Cannon has a % chance to transfer the DoT stacks to  nearby enemies when a enemy dies.",
+  "icon": "Radiant Outbreak.png",
+  "category": "Runes",
+  "type": "Rune",
+  "dropLocations": [
+    "Glitterhelm, Campaign, 25%"
+  ]
+}

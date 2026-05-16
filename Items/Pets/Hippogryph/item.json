@@ -1,0 +1,43 @@
+{
+  "name": "Hippogryph",
+  "description": "Projectiles Explode, dealing damage to nearby enemies.",
+  "icon": "Hippogryph.png",
+  "category": "Pets",
+  "type": "Pet",
+  "stats": [
+    "2.55 Vitality Scalar",
+    "2.55 Attack Scalar",
+    "2.55 Ability Scalar"
+  ],
+  "elements": [
+    "100% Electric"
+  ],
+  "dropLocations": [
+    "Alchemical Laboratory, Campaign, Easy, Wave 5",
+    "Alchemical Laboratory, Campaign, Medium, Wave 5",
+    "Alchemical Laboratory, Campaign, Hard, Wave 5",
+    "Alchemical Laboratory, Survival, Insane, Wave 25",
+    "Alchemical Laboratory, Survival, Nightmare, Wave 25",
+    "Alchemical Laboratory, Survival, Massacre, Wave 25",
+    "Alchemical Laboratory, Mixed, Easy, Wave 25",
+    "Alchemical Laboratory, Mixed, Medium, Wave 25",
+    "Alchemical Laboratory, Mixed, Hard, Wave 25",
+    "Alchemical Laboratory, Mixed, Insane, Wave 25",
+    "Alchemical Laboratory, Mixed, Nightmare, Wave 25",
+    "Alchemical Laboratory, Mixed, Massacre, Wave 25",
+    "The Deeper Well, Survival, Easy, Wave 15",
+    "The Deeper Well, Survival, Medium, Wave 15",
+    "The Deeper Well, Survival, Hard, Wave 15",
+    "The Deeper Well, Survival, Insane, Wave 15",
+    "The Deeper Well, Survival, Nightmare, Wave 15",
+    "The Deeper Well, Survival, Massacre, Wave 15",
+    "The Deeper Well, PureStrategy, Easy, Wave 15",
+    "The Deeper Well, PureStrategy, Medium, Wave 15",
+    "The Deeper Well, Mixed, Easy, Wave 15",
+    "The Deeper Well, Mixed, Medium, Wave 15",
+    "The Deeper Well, Mixed, Hard, Wave 15",
+    "The Deeper Well, Mixed, Insane, Wave 15",
+    "The Deeper Well, Mixed, Nightmare, Wave 15",
+    "The Deeper Well, Mixed, Massacre, Wave 15"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Ancient Hatchling",
+  "description": "A young heir to the Ancient Dragon. Bites nearby enemies and scorches distant ones with fireballs.",
+  "icon": "Ancient Hatchling.png",
+  "category": "Pets",
+  "type": "Pet",
+  "stats": [
+    "2.55 Vitality Scalar",
+    "2.55 Attack Scalar",
+    "2.55 Ability Scalar"
+  ],
+  "elements": [
+    "100% Fire"
+  ],
+  "dropLocations": [
+    "The Summit, Survival, Massacre, Wave 35"
+  ]
+}

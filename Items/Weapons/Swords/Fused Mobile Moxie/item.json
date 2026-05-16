@@ -1,0 +1,18 @@
+{
+  "name": "Fused Mobile Moxie",
+  "description": "Add some backbone to your Defense.",
+  "icon": "Fused Mobile Moxie.png",
+  "category": "Weapons",
+  "type": "Sword",
+  "elements": [
+    "100% Fusion"
+  ],
+  "dropLocations": [
+    "The Deeper Well, Challenge, Easy, Wave 8",
+    "The Deeper Well, Challenge, Medium, Wave 8",
+    "The Deeper Well, Challenge, Hard, Wave 8",
+    "The Deeper Well, Challenge, Insane, Wave 8",
+    "The Deeper Well, Challenge, Massacre, Wave 8",
+    "The Deeper Well, Challenge, Nightmare, Wave 8"
+  ]
+}

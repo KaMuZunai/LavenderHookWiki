@@ -1,0 +1,22 @@
+{
+  "name": "Golden Dice Pet",
+  "description": "Attacks nearby enemies and deals damage with a chance to crit. On a successful crit restores ability mana.\r\n\r\nAdditionally increases cast rate by 10%.",
+  "icon": "Golden Dice Pet.png",
+  "category": "Pets",
+  "type": "Pet",
+  "stats": [
+    "5.5 Vitality Scalar",
+    "5 Attack Scalar",
+    "5 Ability Scalar"
+  ],
+  "elements": [
+    "20% Element.Attunement.Armored",
+    "20% Electric",
+    "20% Poison",
+    "20% Fire",
+    "20% Physical"
+  ],
+  "dropLocations": [
+    "Kings Game, Survival, Massacre, Wave 100, Rifted"
+  ]
+}

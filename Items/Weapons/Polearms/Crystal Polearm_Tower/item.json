@@ -1,0 +1,38 @@
+{
+  "name": "Crystal Polearm",
+  "description": "ts edge refracts energy from beyond the veil, striking with power borrowed from the Crystalline Dimension.",
+  "icon": "Crystal Polearm.png",
+  "category": "Weapons",
+  "type": "Polearm",
+  "stats": [
+    "1.5 Def. Rate Scalar",
+    "1.5 Range Scalar",
+    "1.5 Power Scalar"
+  ],
+  "dropLocations": [
+    "The Bazaar, PureStrategy, Easy, Wave 25",
+    "The Bazaar, PureStrategy, Easy, Wave 15",
+    "The Bazaar, PureStrategy, Medium, Wave 25",
+    "The Bazaar, PureStrategy, Medium, Wave 15",
+    "The Bazaar, PureStrategy, Hard, Wave 25",
+    "The Bazaar, PureStrategy, Hard, Wave 15",
+    "The Bazaar, PureStrategy, Insane, Wave 25",
+    "The Bazaar, PureStrategy, Insane, Wave 15",
+    "The Bazaar, PureStrategy, Nightmare, Wave 25",
+    "The Bazaar, PureStrategy, Nightmare, Wave 15",
+    "The Bazaar, PureStrategy, Massacre, Wave 25",
+    "The Bazaar, PureStrategy, Massacre, Wave 15",
+    "Tornado High Lands, PureStrategy, Easy, Wave 25",
+    "Tornado High Lands, PureStrategy, Easy, Wave 15",
+    "Tornado High Lands, PureStrategy, Medium, Wave 25",
+    "Tornado High Lands, PureStrategy, Medium, Wave 15",
+    "Tornado High Lands, PureStrategy, Hard, Wave 25",
+    "Tornado High Lands, PureStrategy, Hard, Wave 15",
+    "Tornado High Lands, PureStrategy, Insane, Wave 25",
+    "Tornado High Lands, PureStrategy, Insane, Wave 15",
+    "Tornado High Lands, PureStrategy, Nightmare, Wave 25",
+    "Tornado High Lands, PureStrategy, Nightmare, Wave 15",
+    "Tornado High Lands, PureStrategy, Massacre, Wave 25",
+    "Tornado High Lands, PureStrategy, Massacre, Wave 15"
+  ]
+}

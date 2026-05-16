@@ -1,0 +1,14 @@
+{
+  "name": "Guard Shackles",
+  "description": "",
+  "icon": "Guard Shackles.png",
+  "category": "Armor",
+  "type": "Gloves",
+  "subtype": [
+    "Gloves",
+    "Guard"
+  ],
+  "dropLocations": [
+    "The Deeper Well, NUE, Medium, Wave 3"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Spartan Phalanx",
+  "description": "",
+  "icon": "Spartan Phalanx.png",
+  "category": "Offhand",
+  "type": "Shield",
+  "stats": [
+    "1 Ability Scalar",
+    "1 Vitality Scalar"
+  ],
+  "dropLocations": "basic drop"
+}

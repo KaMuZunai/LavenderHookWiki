@@ -1,0 +1,23 @@
+{
+  "name": "Mega Chicken",
+  "description": "Attacks at all ranges. Projectiles Explode, dealing damage to nearby enemies. Additionally, It increases Cast Rate by 30%.",
+  "icon": "Mega Chicken.png",
+  "category": "Pets",
+  "type": "Pet",
+  "stats": [
+    "1 Fortify Scalar",
+    "1 Range Scalar",
+    "1 Def. Rate Scalar"
+  ],
+  "dropLocations": [
+    "Glitterhelm, Survival, Insane, Wave 15",
+    "Glitterhelm, Survival, Nightmare, Wave 15",
+    "Glitterhelm, Survival, Massacre, Wave 15",
+    "Glitterhelm, PureStrategy, Easy, Wave 15",
+    "Glitterhelm, PureStrategy, Medium, Wave 15",
+    "Glitterhelm, PureStrategy, Hard, Wave 15",
+    "Glitterhelm, PureStrategy, Insane, Wave 15",
+    "Glitterhelm, PureStrategy, Nightmare, Wave 15",
+    "Glitterhelm, PureStrategy, Massacre, Wave 15"
+  ]
+}

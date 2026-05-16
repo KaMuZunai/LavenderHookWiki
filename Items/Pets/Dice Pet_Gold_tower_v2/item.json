@@ -1,0 +1,22 @@
+{
+  "name": "Dice Pet",
+  "description": "Attacks nearby enemies and deals damage with a chance to crit. On a successful crit adds build mana. Additionally increases Cast Rate by 10% and Move Speed by 25%.",
+  "icon": "Dice Pet.png",
+  "category": "Pets",
+  "type": "Pet",
+  "stats": [
+    "1 Def. Rate Scalar",
+    "1 Power Scalar",
+    "3 Ability Scalar"
+  ],
+  "elements": [
+    "20% Element.Attunement.Armored",
+    "20% Electric",
+    "20% Poison",
+    "20% Fire",
+    "20% Physical"
+  ],
+  "dropLocations": [
+    "Kings Game, Survival, Massacre, Wave 100, Rifted"
+  ]
+}

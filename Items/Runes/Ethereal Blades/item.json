@@ -1,0 +1,10 @@
+{
+  "name": "Ethereal Blades",
+  "description": "Slice N' Dice Blockade is no longer a blockade, allowing enemies pass through it, but its damage is increased by %.",
+  "icon": "Ethereal Blades.png",
+  "category": "Runes",
+  "type": "Rune",
+  "dropLocations": [
+    "The Lost Metropolis, Campaign, 25%"
+  ]
+}

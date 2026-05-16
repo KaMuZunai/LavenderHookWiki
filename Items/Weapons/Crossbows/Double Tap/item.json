@@ -1,0 +1,8 @@
+{
+  "name": "Double Tap",
+  "description": "",
+  "icon": "Double Tap.png",
+  "category": "Weapons",
+  "type": "Crossbow",
+  "dropLocations": "basic drop"
+}

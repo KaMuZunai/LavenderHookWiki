@@ -1,0 +1,15 @@
+{
+  "name": "Eternian Wand",
+  "description": "",
+  "icon": "Eternian Wand.png",
+  "category": "Weapons",
+  "type": "Staff",
+  "elements": [
+    "100% Fire"
+  ],
+  "dropLocations": [
+    "Royal Gardens, Challenge, Easy, Wave 5",
+    "Royal Gardens, Challenge, Medium, Wave 5",
+    "Royal Gardens, Challenge, Hard, Wave 5"
+  ]
+}

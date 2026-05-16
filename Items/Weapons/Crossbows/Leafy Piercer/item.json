@@ -1,0 +1,16 @@
+{
+  "name": "Leafy Piercer",
+  "description": "Projectiles Explode, dealing damage to nearby enemies.",
+  "icon": "Leafy Piercer.png",
+  "category": "Weapons",
+  "type": "Crossbow",
+  "stats": [
+    "1.5 Vitality Scalar",
+    "1.5 Attack Scalar",
+    "1.5 Ability Scalar"
+  ],
+  "elements": [
+    "100% Physical"
+  ],
+  "dropLocations": "basic drop"
+}

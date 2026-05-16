@@ -1,0 +1,22 @@
+{
+  "name": "Golden Mega Chicken",
+  "description": "Attacks at all ranges. Projectiles Explode, dealing damage to nearby enemies.",
+  "icon": "Golden Mega Chicken.png",
+  "category": "Pets",
+  "type": "Pet",
+  "stats": [
+    "1.05 Fortify Scalar",
+    "1.05 Power Scalar",
+    "1.05 Def. Rate Scalar"
+  ],
+  "elements": [
+    "20% Element.Attunement.Armored",
+    "20% Electric",
+    "20% Fire",
+    "20% Physical",
+    "20% Poison"
+  ],
+  "dropLocations": [
+    "Glitterhelm, Survival, Massacre, Wave 100, Rifted"
+  ]
+}
