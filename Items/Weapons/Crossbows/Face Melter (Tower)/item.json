@@ -1,0 +1,17 @@
+{
+  "name": "Face Melter (Tower)",
+  "description": "",
+  "icon": "Face Melter.png",
+  "category": "Weapons",
+  "type": "Crossbow",
+  "stats": [
+    "0.9 Power Scalar",
+    "0.9 Fortify Scalar",
+    "0.9 Range Scalar",
+    "0.9 Def. Rate Scalar"
+  ],
+  "elements": [
+    "100% Fire"
+  ],
+  "dropLocations": "basic drop"
+}

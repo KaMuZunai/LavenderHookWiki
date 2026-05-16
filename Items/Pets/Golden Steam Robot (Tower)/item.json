@@ -1,0 +1,22 @@
+{
+  "name": "Golden Steam Robot (Tower)",
+  "description": "Attacks nearby enemies and deals additional Knockback. Additionally, It increases VERSATILITY by 15%.",
+  "icon": "Golden Steam Robot.png",
+  "category": "Pets",
+  "type": "Pet",
+  "stats": [
+    "1 Def. Rate Scalar",
+    "1.05 Power Scalar",
+    "1.05 Fortify Scalar"
+  ],
+  "elements": [
+    "20% Element.Attunement.Armored",
+    "20% Electric",
+    "20% Poison",
+    "20% Fire",
+    "20% Physical"
+  ],
+  "dropLocations": [
+    "Lava Mines, Survival, Massacre, Wave 100, Rifted"
+  ]
+}

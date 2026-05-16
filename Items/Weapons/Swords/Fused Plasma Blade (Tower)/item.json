@@ -1,0 +1,31 @@
+{
+  "name": "Fused Plasma Blade (Tower)",
+  "description": "",
+  "icon": "Fused Plasma Blade.png",
+  "category": "Weapons",
+  "type": "Sword",
+  "subtype": [
+    "Sword"
+  ],
+  "stats": [
+    "0.9 Power Scalar",
+    "0.9 Fortify Scalar",
+    "0.9 Range Scalar",
+    "0.9 Def. Rate Scalar"
+  ],
+  "elements": [
+    "100% Fusion"
+  ],
+  "dropLocations": [
+    "Arcane Library, PureStrategy, Massacre, Wave 5, Rifted",
+    "Arcane Library, PureStrategy, Massacre, Wave 1, Rifted",
+    "Glitterhelm, PureStrategy, Massacre, Wave 5, Rifted",
+    "Glitterhelm, PureStrategy, Massacre, Wave 1, Rifted",
+    "Royal Gardens, PureStrategy, Massacre, Wave 5, Rifted",
+    "Royal Gardens, PureStrategy, Massacre, Wave 1, Rifted",
+    "The Promenade, PureStrategy, Massacre, Wave 5, Rifted",
+    "The Promenade, PureStrategy, Massacre, Wave 1, Rifted",
+    "The Summit, PureStrategy, Massacre, Wave 5, Rifted",
+    "The Summit, PureStrategy, Massacre, Wave 1, Rifted"
+  ]
+}

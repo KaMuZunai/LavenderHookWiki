@@ -1,0 +1,21 @@
+{
+  "name": "Golden Baby Dragon (Tower)",
+  "description": "Projectiles Explode, dealing damage to nearby enemies. Additionally, It increases Cast Rate by 30%.",
+  "icon": "Golden Baby Dragon.png",
+  "category": "Pets",
+  "type": "Pet",
+  "stats": [
+    "1.05 Fortify Scalar",
+    "1.05 Power Scalar",
+    "1.05 Def. Rate Scalar"
+  ],
+  "elements": [
+    "25% Fire",
+    "25% Electric",
+    "25% Physical",
+    "25% Poison"
+  ],
+  "dropLocations": [
+    "The Summit, Survival, Massacre, Wave 100, Rifted"
+  ]
+}

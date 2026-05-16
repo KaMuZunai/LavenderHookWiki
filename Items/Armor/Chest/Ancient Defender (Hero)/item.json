@@ -1,0 +1,17 @@
+{
+  "name": "Ancient Defender (Hero)",
+  "description": "",
+  "icon": "Ancient Defender.png",
+  "category": "Armor",
+  "type": "Chest",
+  "subtype": [
+    "Chest",
+    "Ancient"
+  ],
+  "stats": [
+    "1 Ability Scalar",
+    "0.9 Attack Scalar",
+    "0.9 Vitality Scalar"
+  ],
+  "dropLocations": "basic drop"
+}

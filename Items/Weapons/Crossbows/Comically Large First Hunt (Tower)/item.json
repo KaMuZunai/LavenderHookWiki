@@ -1,0 +1,38 @@
+{
+  "name": "Comically Large First Hunt (Tower)",
+  "description": "Built for heroes who believe bigger is always better.",
+  "icon": "Comically Large First Hunt.png",
+  "category": "Weapons",
+  "type": "Crossbow",
+  "stats": [
+    "1.8 Def. Rate Scalar",
+    "1.8 Range Scalar",
+    "0.9 Fortify Scalar"
+  ],
+  "dropLocations": [
+    "Endless Spires, PureStrategy, Easy, Wave 25",
+    "Endless Spires, PureStrategy, Easy, Wave 15",
+    "Endless Spires, PureStrategy, Medium, Wave 25",
+    "Endless Spires, PureStrategy, Medium, Wave 15",
+    "Endless Spires, PureStrategy, Hard, Wave 25",
+    "Endless Spires, PureStrategy, Hard, Wave 15",
+    "Endless Spires, PureStrategy, Insane, Wave 25",
+    "Endless Spires, PureStrategy, Insane, Wave 15",
+    "Endless Spires, PureStrategy, Nightmare, Wave 25",
+    "Endless Spires, PureStrategy, Nightmare, Wave 15",
+    "Endless Spires, PureStrategy, Massacre, Wave 25",
+    "Endless Spires, PureStrategy, Massacre, Wave 15",
+    "Kings Game, PureStrategy, Easy, Wave 25",
+    "Kings Game, PureStrategy, Easy, Wave 15",
+    "Kings Game, PureStrategy, Medium, Wave 25",
+    "Kings Game, PureStrategy, Medium, Wave 15",
+    "Kings Game, PureStrategy, Hard, Wave 25",
+    "Kings Game, PureStrategy, Hard, Wave 15",
+    "Kings Game, PureStrategy, Insane, Wave 25",
+    "Kings Game, PureStrategy, Insane, Wave 15",
+    "Kings Game, PureStrategy, Nightmare, Wave 25",
+    "Kings Game, PureStrategy, Nightmare, Wave 15",
+    "Kings Game, PureStrategy, Massacre, Wave 25",
+    "Kings Game, PureStrategy, Massacre, Wave 15"
+  ]
+}

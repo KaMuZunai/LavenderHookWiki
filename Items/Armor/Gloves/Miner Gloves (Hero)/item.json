@@ -1,0 +1,17 @@
+{
+  "name": "Miner Gloves (Hero)",
+  "description": "",
+  "icon": "Miner Gloves.png",
+  "category": "Armor",
+  "type": "Gloves",
+  "subtype": [
+    "Gloves",
+    "Miner"
+  ],
+  "stats": [
+    "0.3 Ability Scalar",
+    "1 Attack Scalar",
+    "1 Vitality Scalar"
+  ],
+  "dropLocations": "basic drop"
+}

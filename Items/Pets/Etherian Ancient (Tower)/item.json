@@ -1,0 +1,23 @@
+{
+  "name": "Etherian Ancient (Tower)",
+  "description": "Attacks nearby enemies. Additionally, It increases VERSATILITY by 15%.",
+  "icon": "Etherian Ancient.png",
+  "category": "Pets",
+  "type": "Pet",
+  "stats": [
+    "1 Def. Rate Scalar",
+    "1 Range Scalar",
+    "1 Fortify Scalar"
+  ],
+  "dropLocations": [
+    "Tornado High Lands, Survival, Insane, Wave 15",
+    "Tornado High Lands, Survival, Nightmare, Wave 15",
+    "Tornado High Lands, Survival, Massacre, Wave 15",
+    "Tornado High Lands, PureStrategy, Easy, Wave 15",
+    "Tornado High Lands, PureStrategy, Medium, Wave 15",
+    "Tornado High Lands, PureStrategy, Hard, Wave 15",
+    "Tornado High Lands, PureStrategy, Insane, Wave 15",
+    "Tornado High Lands, PureStrategy, Nightmare, Wave 15",
+    "Tornado High Lands, PureStrategy, Massacre, Wave 15"
+  ]
+}

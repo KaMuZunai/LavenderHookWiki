@@ -1,0 +1,14 @@
+{
+  "name": "Librarian's Glasses (Hero)",
+  "description": "“Perfect for spotting typos, hidden secrets, and people being too loud.”",
+  "icon": "Librarian's Glasses.png",
+  "category": "Accessories",
+  "type": "Mask",
+  "stats": [
+    "0.45 Fortify Scalar",
+    "0.45 Power Scalar",
+    "0.45 Range Scalar",
+    "0.45 Def. Rate Scalar"
+  ],
+  "dropLocations": []
+}

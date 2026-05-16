@@ -1,0 +1,17 @@
+{
+  "name": "Militia Waistcoat (Hero)",
+  "description": "",
+  "icon": "Militia Waistcoat.png",
+  "category": "Armor",
+  "type": "Chest",
+  "subtype": [
+    "Chest",
+    "Militia"
+  ],
+  "stats": [
+    "0.9 Ability Scalar",
+    "1 Attack Scalar",
+    "0.9 Vitality Scalar"
+  ],
+  "dropLocations": "basic drop"
+}

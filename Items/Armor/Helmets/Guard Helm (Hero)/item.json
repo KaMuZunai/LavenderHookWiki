@@ -1,0 +1,17 @@
+{
+  "name": "Guard Helm (Hero)",
+  "description": "",
+  "icon": "Guard Helm.png",
+  "category": "Armor",
+  "type": "Helmet",
+  "subtype": [
+    "Helmet",
+    "Guard"
+  ],
+  "stats": [
+    "0.9 Ability Scalar",
+    "0.9 Attack Scalar",
+    "1 Vitality Scalar"
+  ],
+  "dropLocations": "basic drop"
+}

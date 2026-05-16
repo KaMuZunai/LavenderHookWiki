@@ -1,0 +1,22 @@
+{
+  "name": "Golden Demi Demon Lord (Tower)",
+  "description": "Attacks at all ranges. Additionally, It increases VERSATILITY by 15%.",
+  "icon": "Golden Demi Demon Lord.png",
+  "category": "Pets",
+  "type": "Pet",
+  "stats": [
+    "1.05 Fortify Scalar",
+    "1.05 Power Scalar",
+    "1.05 Def. Rate Scalar"
+  ],
+  "elements": [
+    "20% Fire",
+    "20% Electric",
+    "20% Physical",
+    "20% Poison",
+    "20% Element.Attunement.Armored"
+  ],
+  "dropLocations": [
+    "Foundries And Forges, Survival, Massacre, Wave 100, Rifted"
+  ]
+}

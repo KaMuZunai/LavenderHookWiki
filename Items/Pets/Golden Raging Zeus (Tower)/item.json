@@ -1,0 +1,15 @@
+{
+  "name": "Golden Raging Zeus (Tower)",
+  "description": "Projectiles Explode, dealing damage to nearby enemies and Stunning them. Additionally, It increases Move Speed by 25%.",
+  "icon": "Golden Raging Zeus.png",
+  "category": "Pets",
+  "type": "Pet",
+  "stats": [
+    "3 Vitality Scalar",
+    "1.05 Def. Rate Scalar",
+    "1.05 Fortify Scalar"
+  ],
+  "dropLocations": [
+    "The Outpost, Survival, Massacre, Wave 100, Rifted"
+  ]
+}

@@ -4,6 +4,11 @@
   "icon": "Grenadier.png",
   "category": "Weapons",
   "type": "Crossbow",
+  "stats": [
+    "1 Vitality Scalar",
+    "1 Attack Scalar",
+    "1 Ability Scalar"
+  ],
   "elements": [
     "100% Poison"
   ],

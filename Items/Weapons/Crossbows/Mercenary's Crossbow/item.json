@@ -4,5 +4,10 @@
   "icon": "Mercenary's Crossbow.png",
   "category": "Weapons",
   "type": "Crossbow",
+  "stats": [
+    "1 Vitality Scalar",
+    "1 Attack Scalar",
+    "1 Ability Scalar"
+  ],
   "dropLocations": []
 }

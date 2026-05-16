@@ -1,0 +1,41 @@
+{
+  "name": "Fused Crystal Staff (Tower)",
+  "description": "Legends say its crystal core once held a fragment of the dimension itself, now wielded by the worthy.",
+  "icon": "Fused Crystal Staff.png",
+  "category": "Weapons",
+  "type": "Staff",
+  "stats": [
+    "1.1 Def. Rate Scalar",
+    "1.1 Power Scalar",
+    "1.5 Ability Scalar"
+  ],
+  "elements": [
+    "100% Fusion"
+  ],
+  "dropLocations": [
+    "The Bazaar, PureStrategy, Easy, Wave 25, Rifted",
+    "The Bazaar, PureStrategy, Easy, Wave 15, Rifted",
+    "The Bazaar, PureStrategy, Medium, Wave 25, Rifted",
+    "The Bazaar, PureStrategy, Medium, Wave 15, Rifted",
+    "The Bazaar, PureStrategy, Hard, Wave 25, Rifted",
+    "The Bazaar, PureStrategy, Hard, Wave 15, Rifted",
+    "The Bazaar, PureStrategy, Insane, Wave 25, Rifted",
+    "The Bazaar, PureStrategy, Insane, Wave 15, Rifted",
+    "The Bazaar, PureStrategy, Nightmare, Wave 25, Rifted",
+    "The Bazaar, PureStrategy, Nightmare, Wave 15, Rifted",
+    "The Bazaar, PureStrategy, Massacre, Wave 25, Rifted",
+    "The Bazaar, PureStrategy, Massacre, Wave 15, Rifted",
+    "The Lost Metropolis, PureStrategy, Easy, Wave 25, Rifted",
+    "The Lost Metropolis, PureStrategy, Easy, Wave 15, Rifted",
+    "The Lost Metropolis, PureStrategy, Medium, Wave 25, Rifted",
+    "The Lost Metropolis, PureStrategy, Medium, Wave 15, Rifted",
+    "The Lost Metropolis, PureStrategy, Hard, Wave 25, Rifted",
+    "The Lost Metropolis, PureStrategy, Hard, Wave 15, Rifted",
+    "The Lost Metropolis, PureStrategy, Insane, Wave 25, Rifted",
+    "The Lost Metropolis, PureStrategy, Insane, Wave 15, Rifted",
+    "The Lost Metropolis, PureStrategy, Nightmare, Wave 25, Rifted",
+    "The Lost Metropolis, PureStrategy, Nightmare, Wave 15, Rifted",
+    "The Lost Metropolis, PureStrategy, Massacre, Wave 25, Rifted",
+    "The Lost Metropolis, PureStrategy, Massacre, Wave 15, Rifted"
+  ]
+}

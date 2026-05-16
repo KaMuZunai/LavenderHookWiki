@@ -4,6 +4,11 @@
   "icon": "Enchanted Battlestaff.png",
   "category": "Weapons",
   "type": "Staff",
+  "stats": [
+    "1 Vitality Scalar",
+    "1 Attack Scalar",
+    "1 Ability Scalar"
+  ],
   "elements": [
     "100% Fire"
   ],

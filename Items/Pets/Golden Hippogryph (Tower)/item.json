@@ -1,0 +1,22 @@
+{
+  "name": "Golden Hippogryph (Tower)",
+  "description": "Projectiles Explode, dealing damage to nearby enemies. Additionally, It increases VERSATILITY by 15%.",
+  "icon": "Golden Hippogryph.png",
+  "category": "Pets",
+  "type": "Pet",
+  "stats": [
+    "1.05 Fortify Scalar",
+    "1.05 Power Scalar",
+    "1.05 Def. Rate Scalar"
+  ],
+  "elements": [
+    "20% Electric",
+    "20% Element.Attunement.Armored",
+    "20% Fire",
+    "20% Physical",
+    "20% Poison"
+  ],
+  "dropLocations": [
+    "The Deeper Well, Survival, Massacre, Wave 100, Rifted"
+  ]
+}

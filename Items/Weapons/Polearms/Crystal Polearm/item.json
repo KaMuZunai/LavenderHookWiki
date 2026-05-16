@@ -4,5 +4,10 @@
   "icon": "Crystal Polearm.png",
   "category": "Weapons",
   "type": "Polearm",
+  "stats": [
+    "1 Vitality Scalar",
+    "1 Attack Scalar",
+    "1 Ability Scalar"
+  ],
   "dropLocations": "basic drop"
 }

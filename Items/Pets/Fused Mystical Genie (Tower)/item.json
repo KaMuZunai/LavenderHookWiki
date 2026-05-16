@@ -1,0 +1,26 @@
+{
+  "name": "Fused Mystical Genie (Tower)",
+  "description": "Your next attack Adds Build Mana. 6Ⅹ cooldown. Additionally, It increases VERSATILITY by 15%.",
+  "icon": "Fused Mystical Genie.png",
+  "category": "Pets",
+  "type": "Pet",
+  "stats": [
+    "1 Power Scalar",
+    "1 Def. Rate Scalar",
+    "2 Ability Scalar"
+  ],
+  "dropLocations": [
+    "Halloween Ramparts, PureStrategy, Easy, Wave 15, Rifted",
+    "Halloween Ramparts, PureStrategy, Medium, Wave 15, Rifted",
+    "Halloween Ramparts, PureStrategy, Hard, Wave 15, Rifted",
+    "Halloween Ramparts, PureStrategy, Insane, Wave 15, Rifted",
+    "Halloween Ramparts, PureStrategy, Nightmare, Wave 15, Rifted",
+    "Halloween Ramparts, PureStrategy, Massacre, Wave 15, Rifted",
+    "The Ramparts, PureStrategy, Easy, Wave 15, Rifted",
+    "The Ramparts, PureStrategy, Medium, Wave 15, Rifted",
+    "The Ramparts, PureStrategy, Hard, Wave 15, Rifted",
+    "The Ramparts, PureStrategy, Insane, Wave 15, Rifted",
+    "The Ramparts, PureStrategy, Nightmare, Wave 15, Rifted",
+    "The Ramparts, PureStrategy, Massacre, Wave 15, Rifted"
+  ]
+}

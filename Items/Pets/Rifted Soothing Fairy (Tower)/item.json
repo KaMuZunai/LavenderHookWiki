@@ -1,0 +1,26 @@
+{
+  "name": "Rifted Soothing Fairy (Tower)",
+  "description": "Continuously Restores HP of nearby heroes. Additionally, It increases Cast Rate by 30%.",
+  "icon": "Rifted Soothing Fairy.png",
+  "category": "Pets",
+  "type": "Pet",
+  "stats": [
+    "2.75 Vitality Scalar",
+    "1 Fortify Scalar",
+    "1 Def. Rate Scalar"
+  ],
+  "dropLocations": [
+    "Royal Gardens, PureStrategy, Easy, Wave 15, Rifted",
+    "Royal Gardens, PureStrategy, Easy, Wave 25, Rifted",
+    "Royal Gardens, PureStrategy, Medium, Wave 15, Rifted",
+    "Royal Gardens, PureStrategy, Medium, Wave 25, Rifted",
+    "Royal Gardens, PureStrategy, Hard, Wave 15, Rifted",
+    "Royal Gardens, PureStrategy, Hard, Wave 25, Rifted",
+    "Royal Gardens, PureStrategy, Insane, Wave 15, Rifted",
+    "Royal Gardens, PureStrategy, Insane, Wave 25, Rifted",
+    "Royal Gardens, PureStrategy, Nightmare, Wave 15, Rifted",
+    "Royal Gardens, PureStrategy, Nightmare, Wave 25, Rifted",
+    "Royal Gardens, PureStrategy, Massacre, Wave 15, Rifted",
+    "Royal Gardens, PureStrategy, Massacre, Wave 25, Rifted"
+  ]
+}

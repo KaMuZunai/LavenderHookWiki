@@ -1,0 +1,22 @@
+{
+  "name": "Golden Chargin' Ramster (Tower)",
+  "description": "Attacks Pierce nearby enemies, dealing damage in a line. Additionally, It increases Cast Rate by 30%.",
+  "icon": "Golden Chargin' Ramster.png",
+  "category": "Pets",
+  "type": "Pet",
+  "stats": [
+    "1 Fortify Scalar",
+    "1 Power Scalar",
+    "1 Def. Rate Scalar"
+  ],
+  "elements": [
+    "20% Element.Attunement.Armored",
+    "20% Electric",
+    "20% Physical",
+    "20% Poison",
+    "20% Fire"
+  ],
+  "dropLocations": [
+    "Arcane Library, Survival, Massacre, Wave 100, Rifted"
+  ]
+}

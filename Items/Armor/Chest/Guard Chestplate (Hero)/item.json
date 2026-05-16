@@ -1,0 +1,17 @@
+{
+  "name": "Guard Chestplate (Hero)",
+  "description": "",
+  "icon": "Guard Chestplate.png",
+  "category": "Armor",
+  "type": "Chest",
+  "subtype": [
+    "Chest",
+    "Guard"
+  ],
+  "stats": [
+    "0.9 Ability Scalar",
+    "0.9 Attack Scalar",
+    "1 Vitality Scalar"
+  ],
+  "dropLocations": "basic drop"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Primitive Bulwark (Hero)",
+  "description": "",
+  "icon": "Primitive Bulwark.png",
+  "category": "Armor",
+  "type": "Chest",
+  "subtype": [
+    "Chest",
+    "Primitive"
+  ],
+  "stats": [
+    "1 Ability Scalar",
+    "0.3 Attack Scalar",
+    "1 Vitality Scalar"
+  ],
+  "dropLocations": "basic drop"
+}

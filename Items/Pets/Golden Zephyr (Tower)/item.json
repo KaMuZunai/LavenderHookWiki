@@ -1,0 +1,21 @@
+{
+  "name": "Golden Zephyr (Tower)",
+  "description": "Shoots Torandos that stop when they hit enemies, dealing damage to all enemies actively inside. Additionally, It increases VERSATILITY by 15%.",
+  "icon": "Golden Zephyr.png",
+  "category": "Pets",
+  "type": "Pet",
+  "stats": [
+    "1 Fortify Scalar",
+    "1.05 Power Scalar",
+    "1.05 Def. Rate Scalar"
+  ],
+  "elements": [
+    "25% Electric",
+    "25% Fire",
+    "25% Poison",
+    "25% Physical"
+  ],
+  "dropLocations": [
+    "Forsaken Temple, Survival, Massacre, Wave 100, Rifted"
+  ]
+}

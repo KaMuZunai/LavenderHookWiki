@@ -1,0 +1,16 @@
+{
+  "name": "Golden Mista Mine (Tower)",
+  "description": "Cuts your Move Speed in half but increases cast rate by 50%.",
+  "icon": "Golden Mista Mine.png",
+  "category": "Pets",
+  "type": "Pet",
+  "stats": [
+    "1 Fortify Scalar",
+    "0.9 Def. Rate Scalar",
+    "0.9 Power Scalar",
+    "0.9 Range Scalar"
+  ],
+  "dropLocations": [
+    "Ancient Mines, Survival, Massacre, Wave 100, Rifted"
+  ]
+}

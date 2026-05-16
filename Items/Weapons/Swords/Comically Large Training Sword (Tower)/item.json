@@ -1,0 +1,27 @@
+{
+  "name": "Comically Large Training Sword (Tower)",
+  "description": "Swinging it is 90% strength, 10% prayer.",
+  "icon": "Comically Large Training Sword.png",
+  "category": "Weapons",
+  "type": "Sword",
+  "stats": [
+    "0.9 Def. Rate Scalar",
+    "0.9 Power Scalar",
+    "0.9 Fortify Scalar"
+  ],
+  "dropLocations": [
+    "Halloween Ramparts, PureStrategy, Massacre, Wave 15",
+    "Magus Quarters, PureStrategy, Easy, Wave 25",
+    "Magus Quarters, PureStrategy, Easy, Wave 15",
+    "Magus Quarters, PureStrategy, Medium, Wave 25",
+    "Magus Quarters, PureStrategy, Medium, Wave 15",
+    "Magus Quarters, PureStrategy, Hard, Wave 25",
+    "Magus Quarters, PureStrategy, Hard, Wave 15",
+    "Magus Quarters, PureStrategy, Insane, Wave 25",
+    "Magus Quarters, PureStrategy, Insane, Wave 15",
+    "Magus Quarters, PureStrategy, Nightmare, Wave 25",
+    "Magus Quarters, PureStrategy, Nightmare, Wave 15",
+    "Magus Quarters, PureStrategy, Massacre, Wave 25",
+    "Magus Quarters, PureStrategy, Massacre, Wave 15"
+  ]
+}
