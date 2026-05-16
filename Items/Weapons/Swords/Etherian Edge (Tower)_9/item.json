@@ -1,0 +1,13 @@
+{
+  "name": "Etherian Edge (Tower)",
+  "description": "",
+  "icon": "Etherian Edge.png",
+  "category": "Weapons",
+  "type": "Sword",
+  "stats": [
+    "1 Vitality Scalar",
+    "1 Attack Scalar",
+    "1 Ability Scalar"
+  ],
+  "dropLocations": []
+}

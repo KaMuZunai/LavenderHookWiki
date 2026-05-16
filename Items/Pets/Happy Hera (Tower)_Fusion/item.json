@@ -1,0 +1,29 @@
+{
+  "name": "Happy Hera (Tower)",
+  "description": "Projectiles Explode, dealing damage to nearby enemies. Restoring HP for each enemy hit. Additionally, It increases Cast Rate by 30%.,.",
+  "icon": "Happy Hera.png",
+  "category": "Pets",
+  "type": "Pet",
+  "stats": [
+    "3 Vitality Scalar",
+    "1 Def. Rate Scalar",
+    "1 Fortify Scalar"
+  ],
+  "elements": [
+    "100% Fusion"
+  ],
+  "dropLocations": [
+    "The Mill, PureStrategy, Easy, Wave 15, Rifted",
+    "The Mill, PureStrategy, Easy, Wave 25, Rifted",
+    "The Mill, PureStrategy, Medium, Wave 15, Rifted",
+    "The Mill, PureStrategy, Medium, Wave 25, Rifted",
+    "The Mill, PureStrategy, Hard, Wave 15, Rifted",
+    "The Mill, PureStrategy, Hard, Wave 25, Rifted",
+    "The Mill, PureStrategy, Insane, Wave 15, Rifted",
+    "The Mill, PureStrategy, Insane, Wave 25, Rifted",
+    "The Mill, PureStrategy, Nightmare, Wave 15, Rifted",
+    "The Mill, PureStrategy, Nightmare, Wave 25, Rifted",
+    "The Mill, PureStrategy, Massacre, Wave 15, Rifted",
+    "The Mill, PureStrategy, Massacre, Wave 25, Rifted"
+  ]
+}

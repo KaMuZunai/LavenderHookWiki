@@ -1,0 +1,29 @@
+{
+  "name": "Chargin' Ramster (Tower)",
+  "description": "Attacks Pierce nearby enemies, dealing damage in a line. Additionally, It increases Cast Rate by 30%.",
+  "icon": "Chargin' Ramster.png",
+  "category": "Pets",
+  "type": "Pet",
+  "stats": [
+    "1 Def. Rate Scalar",
+    "1 Power Scalar",
+    "1 Fortify Scalar"
+  ],
+  "elements": [
+    "100% Fusion"
+  ],
+  "dropLocations": [
+    "Arcane Library, PureStrategy, Easy, Wave 15, Rifted",
+    "Arcane Library, PureStrategy, Easy, Wave 25, Rifted",
+    "Arcane Library, PureStrategy, Medium, Wave 15, Rifted",
+    "Arcane Library, PureStrategy, Medium, Wave 25, Rifted",
+    "Arcane Library, PureStrategy, Hard, Wave 15, Rifted",
+    "Arcane Library, PureStrategy, Hard, Wave 25, Rifted",
+    "Arcane Library, PureStrategy, Insane, Wave 15, Rifted",
+    "Arcane Library, PureStrategy, Insane, Wave 25, Rifted",
+    "Arcane Library, PureStrategy, Nightmare, Wave 15, Rifted",
+    "Arcane Library, PureStrategy, Nightmare, Wave 25, Rifted",
+    "Arcane Library, PureStrategy, Massacre, Wave 15, Rifted",
+    "Arcane Library, PureStrategy, Massacre, Wave 25, Rifted"
+  ]
+}

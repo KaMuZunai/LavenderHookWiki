@@ -1,0 +1,13 @@
+{
+  "name": "Practice Pole (Tower)",
+  "description": "",
+  "icon": "Practice Pole.png",
+  "category": "Weapons",
+  "type": "Polearm",
+  "stats": [
+    "1 Vitality Scalar",
+    "1 Attack Scalar",
+    "1 Ability Scalar"
+  ],
+  "dropLocations": []
+}

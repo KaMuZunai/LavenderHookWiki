@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-16 18:21:27",
-  "totalItems": 886.0,
+  "generatedAt": "2026-05-16 18:49:52",
+  "totalItems": 894.0,
   "items": [
     {
       "enabled": true,
@@ -204,7 +204,7 @@
         "Boots",
         "Arcanist"
       ],
-      "path": "Items\\Armor\\Boots\\Arcanist Sandals_Cane_4"
+      "path": "Items\\Armor\\Boots\\Arcanist Sandals_Arcanist_Boots_arcane_4"
     },
     {
       "enabled": false,
@@ -216,7 +216,7 @@
         "Boots",
         "Arcanist"
       ],
-      "path": "Items\\Armor\\Boots\\Arcanist Sandals_Cane_5"
+      "path": "Items\\Armor\\Boots\\Arcanist Sandals_Arcanist_Boots_arcane_5"
     },
     {
       "enabled": false,
@@ -958,7 +958,7 @@
       "icon": "Protean Blaster.png",
       "category": "Weapons",
       "type": "Crossbow",
-      "path": "Items\\Weapons\\Crossbows\\Protean Blaster_D_OLD"
+      "path": "Items\\Weapons\\Crossbows\\Protean Blaster_13_DemonLord_OLD"
     },
     {
       "enabled": true,
@@ -966,7 +966,7 @@
       "icon": "Dragoon.png",
       "category": "Weapons",
       "type": "Crossbow",
-      "path": "Items\\Weapons\\Crossbows\\Dragoon_On_Massacre"
+      "path": "Items\\Weapons\\Crossbows\\Dragoon_15_AncientDragon_Massacre"
     },
     {
       "enabled": true,
@@ -1006,7 +1006,7 @@
       "icon": "Disintegrator.png",
       "category": "Weapons",
       "type": "Crossbow",
-      "path": "Items\\Weapons\\Crossbows\\Disintegrator_EmonLord_Easy-Hard"
+      "path": "Items\\Weapons\\Crossbows\\Disintegrator_DemonLord_Easy-Hard"
     },
     {
       "enabled": true,
@@ -1014,7 +1014,7 @@
       "icon": "Disintegrator.png",
       "category": "Weapons",
       "type": "Crossbow",
-      "path": "Items\\Weapons\\Crossbows\\Disintegrator_EmonLord_Insane-Nightmare"
+      "path": "Items\\Weapons\\Crossbows\\Disintegrator_DemonLord_Insane-Nightmare"
     },
     {
       "enabled": false,
@@ -1022,7 +1022,7 @@
       "icon": "Triple Threat.png",
       "category": "Weapons",
       "type": "Crossbow",
-      "path": "Items\\Weapons\\Crossbows\\Triple Threat_EmonLord_Massacre"
+      "path": "Items\\Weapons\\Crossbows\\Triple Threat_DemonLord_Massacre"
     },
     {
       "enabled": true,
@@ -1038,7 +1038,7 @@
       "icon": "Laser Cannon.png",
       "category": "Weapons",
       "type": "Crossbow",
-      "path": "Items\\Weapons\\Crossbows\\Laser Cannon_OblinMech_Easy-Hard"
+      "path": "Items\\Weapons\\Crossbows\\Laser Cannon_GoblinMech_Easy-Hard"
     },
     {
       "enabled": true,
@@ -1046,7 +1046,7 @@
       "icon": "Grenadier.png",
       "category": "Weapons",
       "type": "Crossbow",
-      "path": "Items\\Weapons\\Crossbows\\Grenadier_OblinMech_Insane-Nightmare"
+      "path": "Items\\Weapons\\Crossbows\\Grenadier_GoblinMech_Insane-Nightmare"
     },
     {
       "enabled": true,
@@ -1054,7 +1054,7 @@
       "icon": "Protean Blaster.png",
       "category": "Weapons",
       "type": "Crossbow",
-      "path": "Items\\Weapons\\Crossbows\\Protean Blaster_Massacre"
+      "path": "Items\\Weapons\\Crossbows\\Protean Blaster_GoblinMech_Massacre"
     },
     {
       "enabled": false,
@@ -1086,7 +1086,7 @@
       "icon": "Grenadier.png",
       "category": "Weapons",
       "type": "Crossbow",
-      "path": "Items\\Weapons\\Crossbows\\Grenadier_RainingGoblins"
+      "path": "Items\\Weapons\\Crossbows\\Grenadier_08_RainingGoblins"
     },
     {
       "enabled": true,
@@ -1094,7 +1094,7 @@
       "icon": "Disintegrator.png",
       "category": "Weapons",
       "type": "Crossbow",
-      "path": "Items\\Weapons\\Crossbows\\Disintegrator_TreasureHunt"
+      "path": "Items\\Weapons\\Crossbows\\Disintegrator_09_TreasureHunt"
     },
     {
       "enabled": true,
@@ -1102,7 +1102,7 @@
       "icon": "Blasticus.png",
       "category": "Weapons",
       "type": "Crossbow",
-      "path": "Items\\Weapons\\Crossbows\\Blasticus_Assault"
+      "path": "Items\\Weapons\\Crossbows\\Blasticus_Gear_Weapon_Bow10_Assault"
     },
     {
       "enabled": true,
@@ -1110,7 +1110,7 @@
       "icon": "Fused Blasticus.png",
       "category": "Weapons",
       "type": "Crossbow",
-      "path": "Items\\Weapons\\Crossbows\\Fused Blasticus_Lt_Fusion"
+      "path": "Items\\Weapons\\Crossbows\\Fused Blasticus_Gear_Weapon_Bow10_Assault_Fusion"
     },
     {
       "enabled": true,
@@ -1149,14 +1149,14 @@
     },
     {
       "enabled": true,
-      "name": "Fused Minigun",
+      "name": "Fused Minigun (Tower)",
       "icon": "Fused Minigun.png",
       "category": "Weapons",
       "type": "Crossbow",
       "subtype": [
         "Crossbow"
       ],
-      "path": "Items\\Weapons\\Crossbows\\Fused Minigun_1"
+      "path": "Items\\Weapons\\Crossbows\\Fused Minigun (Tower)_1"
     },
     {
       "enabled": true,
@@ -1182,14 +1182,14 @@
     },
     {
       "enabled": true,
-      "name": "Fused Face Melter",
+      "name": "Fused Face Melter (Tower)",
       "icon": "Fused Face Melter.png",
       "category": "Weapons",
       "type": "Crossbow",
       "subtype": [
         "Crossbow"
       ],
-      "path": "Items\\Weapons\\Crossbows\\Fused Face Melter_1"
+      "path": "Items\\Weapons\\Crossbows\\Fused Face Melter (Tower)_1"
     },
     {
       "enabled": true,
@@ -1215,14 +1215,14 @@
     },
     {
       "enabled": true,
-      "name": "Fused Paintball Gun",
+      "name": "Fused Paintball Gun (Tower)",
       "icon": "Fused Paintball Gun.png",
       "category": "Weapons",
       "type": "Crossbow",
       "subtype": [
         "Crossbow"
       ],
-      "path": "Items\\Weapons\\Crossbows\\Fused Paintball Gun_1"
+      "path": "Items\\Weapons\\Crossbows\\Fused Paintball Gun (Tower)_1"
     },
     {
       "enabled": true,
@@ -1248,14 +1248,14 @@
     },
     {
       "enabled": true,
-      "name": "Fused Woodland Whisper",
+      "name": "Fused Woodland Whisper (Tower)",
       "icon": "Fused Woodland Whisper.png",
       "category": "Weapons",
       "type": "Crossbow",
       "subtype": [
         "Crossbow"
       ],
-      "path": "Items\\Weapons\\Crossbows\\Fused Woodland Whisper_1"
+      "path": "Items\\Weapons\\Crossbows\\Fused Woodland Whisper (Tower)_1"
     },
     {
       "enabled": true,
@@ -1286,11 +1286,11 @@
     },
     {
       "enabled": false,
-      "name": "Fused Crystal Bow",
+      "name": "Fused Crystal Bow (Tower)",
       "icon": "Fused Crystal Bow.png",
       "category": "Weapons",
       "type": "Crossbow",
-      "path": "Items\\Weapons\\Crossbows\\Fused Crystal Bow_1"
+      "path": "Items\\Weapons\\Crossbows\\Fused Crystal Bow (Tower)_1"
     },
     {
       "enabled": true,
@@ -1306,15 +1306,15 @@
       "icon": "First Hunt.png",
       "category": "Weapons",
       "type": "Crossbow",
-      "path": "Items\\Weapons\\Crossbows\\First Hunt_On_Bow01"
+      "path": "Items\\Weapons\\Crossbows\\First Hunt_Gear_Weapon_Bow01"
     },
     {
       "enabled": true,
-      "name": "First Hunt",
+      "name": "First Hunt (Tower)",
       "icon": "First Hunt.png",
       "category": "Weapons",
       "type": "Crossbow",
-      "path": "Items\\Weapons\\Crossbows\\First Hunt_On_Bow01_tower"
+      "path": "Items\\Weapons\\Crossbows\\First Hunt (Tower)_Gear_Weapon_Bow01"
     },
     {
       "enabled": true,
@@ -1418,7 +1418,7 @@
       "icon": "Grenadier.png",
       "category": "Weapons",
       "type": "Crossbow",
-      "path": "Items\\Weapons\\Crossbows\\Grenadier_Towerc"
+      "path": "Items\\Weapons\\Crossbows\\Grenadier_08_towerc"
     },
     {
       "enabled": true,
@@ -1434,7 +1434,7 @@
       "icon": "Disintegrator.png",
       "category": "Weapons",
       "type": "Crossbow",
-      "path": "Items\\Weapons\\Crossbows\\Disintegrator (Tower)"
+      "path": "Items\\Weapons\\Crossbows\\Disintegrator (Tower)_09"
     },
     {
       "enabled": true,
@@ -1474,7 +1474,7 @@
       "icon": "Laser Cannon.png",
       "category": "Weapons",
       "type": "Crossbow",
-      "path": "Items\\Weapons\\Crossbows\\Laser Cannon (Tower)"
+      "path": "Items\\Weapons\\Crossbows\\Laser Cannon (Tower)_11"
     },
     {
       "enabled": true,
@@ -1634,7 +1634,7 @@
       "icon": "First Hunt.png",
       "category": "Weapons",
       "type": "Crossbow",
-      "path": "Items\\Weapons\\Crossbows\\First Hunt_On_Bow29"
+      "path": "Items\\Weapons\\Crossbows\\First Hunt_Gear_Weapon_Bow29"
     },
     {
       "enabled": true,
@@ -1674,7 +1674,7 @@
       "icon": "First Hunt.png",
       "category": "Weapons",
       "type": "Crossbow",
-      "path": "Items\\Weapons\\Crossbows\\First Hunt_On_Bow_Default"
+      "path": "Items\\Weapons\\Crossbows\\First Hunt_Gear_Weapon_Bow_Default"
     },
     {
       "enabled": false,
@@ -1710,11 +1710,11 @@
     },
     {
       "enabled": true,
-      "name": "Bubble Blaster 9000",
+      "name": "Bubble Blaster 9000 (Tower)",
       "icon": "Bubble Blaster 9000.png",
       "category": "Weapons",
       "type": "Crossbow",
-      "path": "Items\\Weapons\\Crossbows\\Bubble Blaster 9000_Ower"
+      "path": "Items\\Weapons\\Crossbows\\Bubble Blaster 9000 (Tower)_BUBBLE_BLASTER900"
     },
     {
       "enabled": true,
@@ -1822,7 +1822,7 @@
       "icon": "Twisted Dualblade.png",
       "category": "Weapons",
       "type": "Polearm",
-      "path": "Items\\Weapons\\Polearms\\Twisted Dualblade_NcientDragon_Easy-Nightmare"
+      "path": "Items\\Weapons\\Polearms\\Twisted Dualblade_AncientDragon_Easy-Nightmare"
     },
     {
       "enabled": true,
@@ -1838,7 +1838,7 @@
       "icon": "Monk Spade.png",
       "category": "Weapons",
       "type": "Polearm",
-      "path": "Items\\Weapons\\Polearms\\Monk Spade_EmonLord_Easy-Hard"
+      "path": "Items\\Weapons\\Polearms\\Monk Spade_DemonLord_Easy-Hard"
     },
     {
       "enabled": true,
@@ -1846,7 +1846,7 @@
       "icon": "Ancient Pudao.png",
       "category": "Weapons",
       "type": "Polearm",
-      "path": "Items\\Weapons\\Polearms\\Ancient Pudao_EmonLord_Insane-Nightmare"
+      "path": "Items\\Weapons\\Polearms\\Ancient Pudao_DemonLord_Insane-Nightmare"
     },
     {
       "enabled": true,
@@ -1862,7 +1862,7 @@
       "icon": "Gunblade.png",
       "category": "Weapons",
       "type": "Polearm",
-      "path": "Items\\Weapons\\Polearms\\Gunblade_OblinMech_Easy-Hard"
+      "path": "Items\\Weapons\\Polearms\\Gunblade_GoblinMech_Easy-Hard"
     },
     {
       "enabled": true,
@@ -1870,7 +1870,7 @@
       "icon": "Twisted Dualblade.png",
       "category": "Weapons",
       "type": "Polearm",
-      "path": "Items\\Weapons\\Polearms\\Twisted Dualblade_OblinMech_Insane-Nightmare"
+      "path": "Items\\Weapons\\Polearms\\Twisted Dualblade_GoblinMech_Insane-Nightmare"
     },
     {
       "enabled": true,
@@ -1933,14 +1933,14 @@
     },
     {
       "enabled": true,
-      "name": "Fused Gunblade",
+      "name": "Fused Gunblade (Tower)",
       "icon": "Fused Gunblade.png",
       "category": "Weapons",
       "type": "Polearm",
       "subtype": [
         "Polearm"
       ],
-      "path": "Items\\Weapons\\Polearms\\Fused Gunblade_1"
+      "path": "Items\\Weapons\\Polearms\\Fused Gunblade (Tower)_1"
     },
     {
       "enabled": true,
@@ -1966,14 +1966,14 @@
     },
     {
       "enabled": true,
-      "name": "Fused Ancient Pudao",
+      "name": "Fused Ancient Pudao (Tower)",
       "icon": "Fused Ancient Pudao.png",
       "category": "Weapons",
       "type": "Polearm",
       "subtype": [
         "Polearm"
       ],
-      "path": "Items\\Weapons\\Polearms\\Fused Ancient Pudao_1"
+      "path": "Items\\Weapons\\Polearms\\Fused Ancient Pudao (Tower)_1"
     },
     {
       "enabled": true,
@@ -1999,14 +1999,14 @@
     },
     {
       "enabled": true,
-      "name": "Fused Plasma Mauler",
+      "name": "Fused Plasma Mauler (Tower)",
       "icon": "Fused Plasma Mauler.png",
       "category": "Weapons",
       "type": "Polearm",
       "subtype": [
         "Polearm"
       ],
-      "path": "Items\\Weapons\\Polearms\\Fused Plasma Mauler_1"
+      "path": "Items\\Weapons\\Polearms\\Fused Plasma Mauler (Tower)_1"
     },
     {
       "enabled": true,
@@ -2032,14 +2032,14 @@
     },
     {
       "enabled": true,
-      "name": "Fused Woodland Glaive",
+      "name": "Fused Woodland Glaive (Tower)",
       "icon": "Fused Woodland Glaive.png",
       "category": "Weapons",
       "type": "Polearm",
       "subtype": [
         "Polearm"
       ],
-      "path": "Items\\Weapons\\Polearms\\Fused Woodland Glaive_1"
+      "path": "Items\\Weapons\\Polearms\\Fused Woodland Glaive (Tower)_1"
     },
     {
       "enabled": true,
@@ -2070,11 +2070,11 @@
     },
     {
       "enabled": false,
-      "name": "Fused Crystal Polearm",
+      "name": "Fused Crystal Polearm (Tower)",
       "icon": "Fused Crystal Polearm.png",
       "category": "Weapons",
       "type": "Polearm",
-      "path": "Items\\Weapons\\Polearms\\Fused Crystal Polearm_1"
+      "path": "Items\\Weapons\\Polearms\\Fused Crystal Polearm (Tower)_1"
     },
     {
       "enabled": true,
@@ -2098,7 +2098,7 @@
       "icon": "Practice Pole.png",
       "category": "Weapons",
       "type": "Polearm",
-      "path": "Items\\Weapons\\Polearms\\Practice Pole (Tower)"
+      "path": "Items\\Weapons\\Polearms\\Practice Pole (Tower)_01"
     },
     {
       "enabled": true,
@@ -2162,7 +2162,7 @@
       "icon": "Monk Spade.png",
       "category": "Weapons",
       "type": "Polearm",
-      "path": "Items\\Weapons\\Polearms\\Monk Spade_Towerc"
+      "path": "Items\\Weapons\\Polearms\\Monk Spade_05_towerc"
     },
     {
       "enabled": true,
@@ -2194,7 +2194,7 @@
       "icon": "Gunblade.png",
       "category": "Weapons",
       "type": "Polearm",
-      "path": "Items\\Weapons\\Polearms\\Gunblade (Tower)"
+      "path": "Items\\Weapons\\Polearms\\Gunblade (Tower)_07"
     },
     {
       "enabled": true,
@@ -2234,7 +2234,7 @@
       "icon": "Twisted Dualblade.png",
       "category": "Weapons",
       "type": "Polearm",
-      "path": "Items\\Weapons\\Polearms\\Twisted Dualblade (Tower)"
+      "path": "Items\\Weapons\\Polearms\\Twisted Dualblade (Tower)_10"
     },
     {
       "enabled": true,
@@ -2282,7 +2282,7 @@
       "icon": "Ancient Pudao.png",
       "category": "Weapons",
       "type": "Polearm",
-      "path": "Items\\Weapons\\Polearms\\Ancient Pudao (Tower)"
+      "path": "Items\\Weapons\\Polearms\\Ancient Pudao (Tower)_16"
     },
     {
       "enabled": true,
@@ -2434,7 +2434,23 @@
       "icon": "Protector's Polearm.png",
       "category": "Weapons",
       "type": "Polearm",
-      "path": "Items\\Weapons\\Polearms\\Protector's Polearm (Tower)"
+      "path": "Items\\Weapons\\Polearms\\Protector's Polearm (Tower)_6"
+    },
+    {
+      "enabled": false,
+      "name": "Protector's Polearm (Tower)",
+      "icon": "Protector's Polearm.png",
+      "category": "Weapons",
+      "type": "Polearm",
+      "path": "Items\\Weapons\\Polearms\\Protector's Polearm (Tower)_7"
+    },
+    {
+      "enabled": false,
+      "name": "Practice Pole (Tower)",
+      "icon": "Practice Pole.png",
+      "category": "Weapons",
+      "type": "Polearm",
+      "path": "Items\\Weapons\\Polearms\\Practice Pole (Tower)_28"
     },
     {
       "enabled": true,
@@ -2482,7 +2498,7 @@
       "icon": "Practice Pole.png",
       "category": "Weapons",
       "type": "Polearm",
-      "path": "Items\\Weapons\\Polearms\\Practice Pole_Efault"
+      "path": "Items\\Weapons\\Polearms\\Practice Pole_Default"
     },
     {
       "enabled": false,
@@ -2614,7 +2630,7 @@
       "icon": "Enchanted Battlestaff.png",
       "category": "Weapons",
       "type": "Staff",
-      "path": "Items\\Weapons\\Staffs\\Enchanted Battlestaff_NcientDragon_Easy-Nightmare"
+      "path": "Items\\Weapons\\Staffs\\Enchanted Battlestaff_AncientDragon_Easy-Nightmare"
     },
     {
       "enabled": true,
@@ -2630,7 +2646,7 @@
       "icon": "Eternian Wand.png",
       "category": "Weapons",
       "type": "Staff",
-      "path": "Items\\Weapons\\Staffs\\Eternian Wand_EmonLord_Easy-Hard"
+      "path": "Items\\Weapons\\Staffs\\Eternian Wand_DemonLord_Easy-Hard"
     },
     {
       "enabled": true,
@@ -2638,7 +2654,7 @@
       "icon": "Lichborne Scepter.png",
       "category": "Weapons",
       "type": "Staff",
-      "path": "Items\\Weapons\\Staffs\\Lichborne Scepter_EmonLord_Insane-Nightmare"
+      "path": "Items\\Weapons\\Staffs\\Lichborne Scepter_DemonLord_Insane-Nightmare"
     },
     {
       "enabled": true,
@@ -2654,7 +2670,7 @@
       "icon": "Conduit Staff.png",
       "category": "Weapons",
       "type": "Staff",
-      "path": "Items\\Weapons\\Staffs\\Conduit Staff_OblinMech_Easy-Hard"
+      "path": "Items\\Weapons\\Staffs\\Conduit Staff_GoblinMech_Easy-Hard"
     },
     {
       "enabled": true,
@@ -2662,7 +2678,7 @@
       "icon": "Magetech Staff.png",
       "category": "Weapons",
       "type": "Staff",
-      "path": "Items\\Weapons\\Staffs\\Magetech Staff_OblinMech_Insane-Nightmare"
+      "path": "Items\\Weapons\\Staffs\\Magetech Staff_GoblinMech_Insane-Nightmare"
     },
     {
       "enabled": true,
@@ -2710,7 +2726,7 @@
       "icon": "Magetech Staff.png",
       "category": "Weapons",
       "type": "Staff",
-      "path": "Items\\Weapons\\Staffs\\Magetech Staff_NoTowers"
+      "path": "Items\\Weapons\\Staffs\\Magetech Staff_07_NoTowers"
     },
     {
       "enabled": true,
@@ -2718,7 +2734,7 @@
       "icon": "Eternian Wand.png",
       "category": "Weapons",
       "type": "Staff",
-      "path": "Items\\Weapons\\Staffs\\Eternian Wand_MovingCore"
+      "path": "Items\\Weapons\\Staffs\\Eternian Wand_09_MovingCore"
     },
     {
       "enabled": true,
@@ -2726,7 +2742,7 @@
       "icon": "Enchanted Battlestaff.png",
       "category": "Weapons",
       "type": "Staff",
-      "path": "Items\\Weapons\\Staffs\\Enchanted Battlestaff_MonsterFest"
+      "path": "Items\\Weapons\\Staffs\\Enchanted Battlestaff_10_MonsterFest"
     },
     {
       "enabled": true,
@@ -2741,14 +2757,14 @@
     },
     {
       "enabled": true,
-      "name": "Fused Dark Crystal Rod",
+      "name": "Fused Dark Crystal Rod (Tower)",
       "icon": "Fused Dark Crystal Rod.png",
       "category": "Weapons",
       "type": "MagicStaff",
       "subtype": [
         "MagicStaff"
       ],
-      "path": "Items\\Weapons\\Staffs\\Fused Dark Crystal Rod_1"
+      "path": "Items\\Weapons\\Staffs\\Fused Dark Crystal Rod (Tower)_1"
     },
     {
       "enabled": true,
@@ -2774,14 +2790,14 @@
     },
     {
       "enabled": true,
-      "name": "Fused Magetech Staff",
+      "name": "Fused Magetech Staff (Tower)",
       "icon": "Fused Magetech Staff.png",
       "category": "Weapons",
       "type": "MagicStaff",
       "subtype": [
         "MagicStaff"
       ],
-      "path": "Items\\Weapons\\Staffs\\Fused Magetech Staff_1"
+      "path": "Items\\Weapons\\Staffs\\Fused Magetech Staff (Tower)_1"
     },
     {
       "enabled": true,
@@ -2807,14 +2823,14 @@
     },
     {
       "enabled": true,
-      "name": "Fused Eternian Wand",
+      "name": "Fused Eternian Wand (Tower)",
       "icon": "Fused Eternian Wand.png",
       "category": "Weapons",
       "type": "MagicStaff",
       "subtype": [
         "MagicStaff"
       ],
-      "path": "Items\\Weapons\\Staffs\\Fused Eternian Wand_1"
+      "path": "Items\\Weapons\\Staffs\\Fused Eternian Wand (Tower)_1"
     },
     {
       "enabled": true,
@@ -2840,14 +2856,14 @@
     },
     {
       "enabled": true,
-      "name": "Fused Woodland Hearth",
+      "name": "Fused Woodland Hearth (Tower)",
       "icon": "Fused Woodland Hearth.png",
       "category": "Weapons",
       "type": "MagicStaff",
       "subtype": [
         "MagicStaff"
       ],
-      "path": "Items\\Weapons\\Staffs\\Fused Woodland Hearth_1"
+      "path": "Items\\Weapons\\Staffs\\Fused Woodland Hearth (Tower)_1"
     },
     {
       "enabled": true,
@@ -2878,11 +2894,11 @@
     },
     {
       "enabled": false,
-      "name": "Fused Crystal Staff",
+      "name": "Fused Crystal Staff (Tower)",
       "icon": "Fused Crystal Staff.png",
       "category": "Weapons",
       "type": "Staff",
-      "path": "Items\\Weapons\\Staffs\\Fused Crystal Staff_1"
+      "path": "Items\\Weapons\\Staffs\\Fused Crystal Staff (Tower)_1"
     },
     {
       "enabled": true,
@@ -2906,7 +2922,7 @@
       "icon": "Beginner's Staff.png",
       "category": "Weapons",
       "type": "Staff",
-      "path": "Items\\Weapons\\Staffs\\Beginner's Staff (Tower)"
+      "path": "Items\\Weapons\\Staffs\\Beginner's Staff (Tower)_01"
     },
     {
       "enabled": true,
@@ -2986,7 +3002,7 @@
       "icon": "Lichborne Scepter.png",
       "category": "Weapons",
       "type": "Staff",
-      "path": "Items\\Weapons\\Staffs\\Lichborne Scepter_Towerc"
+      "path": "Items\\Weapons\\Staffs\\Lichborne Scepter_06_towerc"
     },
     {
       "enabled": true,
@@ -3002,7 +3018,7 @@
       "icon": "Magetech Staff.png",
       "category": "Weapons",
       "type": "Staff",
-      "path": "Items\\Weapons\\Staffs\\Magetech Staff_NUE"
+      "path": "Items\\Weapons\\Staffs\\Magetech Staff_07_NUE"
     },
     {
       "enabled": true,
@@ -3010,7 +3026,7 @@
       "icon": "Magetech Staff.png",
       "category": "Weapons",
       "type": "Staff",
-      "path": "Items\\Weapons\\Staffs\\Magetech Staff (Tower)"
+      "path": "Items\\Weapons\\Staffs\\Magetech Staff (Tower)_07"
     },
     {
       "enabled": true,
@@ -3026,7 +3042,7 @@
       "icon": "Conduit Staff.png",
       "category": "Weapons",
       "type": "Staff",
-      "path": "Items\\Weapons\\Staffs\\Conduit Staff (Tower)"
+      "path": "Items\\Weapons\\Staffs\\Conduit Staff (Tower)_08"
     },
     {
       "enabled": true,
@@ -3042,7 +3058,7 @@
       "icon": "Eternian Wand.png",
       "category": "Weapons",
       "type": "Staff",
-      "path": "Items\\Weapons\\Staffs\\Eternian Wand (Tower)"
+      "path": "Items\\Weapons\\Staffs\\Eternian Wand (Tower)_09"
     },
     {
       "enabled": true,
@@ -3058,7 +3074,7 @@
       "icon": "Enchanted Battlestaff.png",
       "category": "Weapons",
       "type": "Staff",
-      "path": "Items\\Weapons\\Staffs\\Enchanted Battlestaff_Towerc"
+      "path": "Items\\Weapons\\Staffs\\Enchanted Battlestaff_10_towerc"
     },
     {
       "enabled": true,
@@ -3173,6 +3189,14 @@
       "path": "Items\\Weapons\\Staffs\\Gator's Spitfire"
     },
     {
+      "enabled": false,
+      "name": "Beginner's Staff (Tower)",
+      "icon": "Beginner's Staff.png",
+      "category": "Weapons",
+      "type": "Staff",
+      "path": "Items\\Weapons\\Staffs\\Beginner's Staff (Tower)_26"
+    },
+    {
       "enabled": true,
       "name": "Obsidian Staff",
       "icon": "Obsidian Staff.png",
@@ -3218,7 +3242,7 @@
       "icon": "Beginner's Staff.png",
       "category": "Weapons",
       "type": "Staff",
-      "path": "Items\\Weapons\\Staffs\\Beginner's Staff_Efault"
+      "path": "Items\\Weapons\\Staffs\\Beginner's Staff_Default"
     },
     {
       "enabled": false,
@@ -3270,11 +3294,11 @@
     },
     {
       "enabled": true,
-      "name": "Comically Large Beginner's Staff",
+      "name": "Comically Large Beginner's Staff (Tower)",
       "icon": "Comically Large Beginner's Staff.png",
       "category": "Weapons",
       "type": "Staff",
-      "path": "Items\\Weapons\\Staffs\\Comically Large Beginner's Staff_-TOWER"
+      "path": "Items\\Weapons\\Staffs\\Comically Large Beginner's Staff (Tower)_-"
     },
     {
       "enabled": true,
@@ -3363,7 +3387,7 @@
       "icon": "Ancient Aegis.png",
       "category": "Weapons",
       "type": "Sword",
-      "path": "Items\\Weapons\\Swords\\Ancient Aegis_NcientDragon_Easy-Nightmare"
+      "path": "Items\\Weapons\\Swords\\Ancient Aegis_AncientDragon_Easy-Nightmare"
     },
     {
       "enabled": true,
@@ -3379,7 +3403,7 @@
       "icon": "Cleaver.png",
       "category": "Weapons",
       "type": "Sword",
-      "path": "Items\\Weapons\\Swords\\Cleaver_EmonLord_Easy-Hard"
+      "path": "Items\\Weapons\\Swords\\Cleaver_DemonLord_Easy-Hard"
     },
     {
       "enabled": true,
@@ -3387,7 +3411,7 @@
       "icon": "Katana.png",
       "category": "Weapons",
       "type": "Sword",
-      "path": "Items\\Weapons\\Swords\\Katana_EmonLord_Insane-Nightmare"
+      "path": "Items\\Weapons\\Swords\\Katana_DemonLord_Insane-Nightmare"
     },
     {
       "enabled": true,
@@ -3403,7 +3427,7 @@
       "icon": "Chain Blade.png",
       "category": "Weapons",
       "type": "Sword",
-      "path": "Items\\Weapons\\Swords\\Chain Blade_OblinMech_Easy-Hard"
+      "path": "Items\\Weapons\\Swords\\Chain Blade_GoblinMech_Easy-Hard"
     },
     {
       "enabled": true,
@@ -3411,7 +3435,7 @@
       "icon": "Battle Axe.png",
       "category": "Weapons",
       "type": "Sword",
-      "path": "Items\\Weapons\\Swords\\Battle Axe_OblinMech_Insane-Nightmare"
+      "path": "Items\\Weapons\\Swords\\Battle Axe_GoblinMech_Insane-Nightmare"
     },
     {
       "enabled": true,
@@ -3528,14 +3552,14 @@
     },
     {
       "enabled": true,
-      "name": "Fused Katana",
+      "name": "Fused Katana (Tower)",
       "icon": "Fused Katana.png",
       "category": "Weapons",
       "type": "Sword",
       "subtype": [
         "Sword"
       ],
-      "path": "Items\\Weapons\\Swords\\Fused Katana_1"
+      "path": "Items\\Weapons\\Swords\\Fused Katana (Tower)_1"
     },
     {
       "enabled": false,
@@ -3543,15 +3567,15 @@
       "icon": "Etherian Edge.png",
       "category": "Weapons",
       "type": "Sword",
-      "path": "Items\\Weapons\\Swords\\Etherian Edge_Fusion"
+      "path": "Items\\Weapons\\Swords\\Etherian Edge_2_Fusion"
     },
     {
       "enabled": false,
-      "name": "Etherian Edge",
+      "name": "Etherian Edge (Tower)",
       "icon": "Etherian Edge.png",
       "category": "Weapons",
       "type": "Sword",
-      "path": "Items\\Weapons\\Swords\\Etherian Edge_Fusion_tower"
+      "path": "Items\\Weapons\\Swords\\Etherian Edge (Tower)_2_Fusion"
     },
     {
       "enabled": true,
@@ -3610,14 +3634,14 @@
     },
     {
       "enabled": true,
-      "name": "Fused Woodland Runeblade",
+      "name": "Fused Woodland Runeblade (Tower)",
       "icon": "Fused Woodland Runeblade.png",
       "category": "Weapons",
       "type": "Sword",
       "subtype": [
         "Sword"
       ],
-      "path": "Items\\Weapons\\Swords\\Fused Woodland Runeblade_1"
+      "path": "Items\\Weapons\\Swords\\Fused Woodland Runeblade (Tower)_1"
     },
     {
       "enabled": true,
@@ -3648,11 +3672,11 @@
     },
     {
       "enabled": false,
-      "name": "Fused Crystal Sword",
+      "name": "Fused Crystal Sword (Tower)",
       "icon": "Fused Crystal Sword.png",
       "category": "Weapons",
       "type": "Sword",
-      "path": "Items\\Weapons\\Swords\\Fused Crystal Sword_2"
+      "path": "Items\\Weapons\\Swords\\Fused Crystal Sword (Tower)_2"
     },
     {
       "enabled": true,
@@ -3692,7 +3716,7 @@
       "icon": "Training Sword.png",
       "category": "Weapons",
       "type": "Sword",
-      "path": "Items\\Weapons\\Swords\\Training Sword (Tower)"
+      "path": "Items\\Weapons\\Swords\\Training Sword (Tower)_01"
     },
     {
       "enabled": true,
@@ -3740,7 +3764,7 @@
       "icon": "Katana.png",
       "category": "Weapons",
       "type": "Sword",
-      "path": "Items\\Weapons\\Swords\\Katana (Tower)"
+      "path": "Items\\Weapons\\Swords\\Katana (Tower)_04"
     },
     {
       "enabled": true,
@@ -3756,7 +3780,7 @@
       "icon": "Battle Axe.png",
       "category": "Weapons",
       "type": "Sword",
-      "path": "Items\\Weapons\\Swords\\Battle Axe (Tower)"
+      "path": "Items\\Weapons\\Swords\\Battle Axe (Tower)_05"
     },
     {
       "enabled": true,
@@ -3772,7 +3796,7 @@
       "icon": "Cleaver.png",
       "category": "Weapons",
       "type": "Sword",
-      "path": "Items\\Weapons\\Swords\\Cleaver (Tower)"
+      "path": "Items\\Weapons\\Swords\\Cleaver (Tower)_06"
     },
     {
       "enabled": true,
@@ -3788,7 +3812,7 @@
       "icon": "Ancient Aegis.png",
       "category": "Weapons",
       "type": "Sword",
-      "path": "Items\\Weapons\\Swords\\Ancient Aegis (Tower)"
+      "path": "Items\\Weapons\\Swords\\Ancient Aegis (Tower)_07"
     },
     {
       "enabled": true,
@@ -3820,7 +3844,7 @@
       "icon": "Chain Blade.png",
       "category": "Weapons",
       "type": "Sword",
-      "path": "Items\\Weapons\\Swords\\Chain Blade (Tower)"
+      "path": "Items\\Weapons\\Swords\\Chain Blade (Tower)_09"
     },
     {
       "enabled": true,
@@ -3852,7 +3876,7 @@
       "icon": "Etherian Edge.png",
       "category": "Weapons",
       "type": "Sword",
-      "path": "Items\\Weapons\\Swords\\Etherian Edge (Tower)"
+      "path": "Items\\Weapons\\Swords\\Etherian Edge (Tower)_2"
     },
     {
       "enabled": true,
@@ -3935,6 +3959,14 @@
       "path": "Items\\Weapons\\Swords\\Defender (Tower)"
     },
     {
+      "enabled": false,
+      "name": "Etherian Edge (Tower)",
+      "icon": "Etherian Edge.png",
+      "category": "Weapons",
+      "type": "Sword",
+      "path": "Items\\Weapons\\Swords\\Etherian Edge (Tower)_9"
+    },
+    {
       "enabled": true,
       "name": "Woodland Runeblade",
       "icon": "Woodland Runeblade.png",
@@ -3972,7 +4004,7 @@
       "icon": "Flopsalot.png",
       "category": "Weapons",
       "type": "Sword",
-      "path": "Items\\Weapons\\Swords\\Flopsalot_D23"
+      "path": "Items\\Weapons\\Swords\\Flopsalot_Gear_Weapon_Sword23"
     },
     {
       "enabled": true,
@@ -4039,6 +4071,14 @@
       "path": "Items\\Weapons\\Swords\\Obsidian Sword"
     },
     {
+      "enabled": false,
+      "name": "Training Sword (Tower)",
+      "icon": "Training Sword.png",
+      "category": "Weapons",
+      "type": "Sword",
+      "path": "Items\\Weapons\\Swords\\Training Sword (Tower)_33"
+    },
+    {
       "enabled": true,
       "name": "Crystal Sword",
       "icon": "Crystal Sword.png",
@@ -4064,6 +4104,14 @@
     },
     {
       "enabled": false,
+      "name": "Mercenary's Blade (Tower)",
+      "icon": "Mercenary's Blade.png",
+      "category": "Weapons",
+      "type": "Sword",
+      "path": "Items\\Weapons\\Swords\\Mercenary's Blade (Tower)_34"
+    },
+    {
+      "enabled": false,
       "name": "Dragontemper",
       "icon": "Dragontemper.png",
       "category": "Weapons",
@@ -4076,7 +4124,7 @@
       "icon": "Training Sword.png",
       "category": "Weapons",
       "type": "Sword",
-      "path": "Items\\Weapons\\Swords\\Training Sword_Efault"
+      "path": "Items\\Weapons\\Swords\\Training Sword_Default"
     },
     {
       "enabled": false,
@@ -4092,7 +4140,7 @@
       "icon": "Mercenary's Blade.png",
       "category": "Weapons",
       "type": "Sword",
-      "path": "Items\\Weapons\\Swords\\Mercenary's Blade_Fault_Rogue"
+      "path": "Items\\Weapons\\Swords\\Mercenary's Blade_Default_Rogue"
     },
     {
       "enabled": false,
@@ -4392,11 +4440,11 @@
     },
     {
       "enabled": true,
-      "name": "Sapphire Brooch",
+      "name": "Sapphire Brooch (Hero)",
       "icon": "Sapphire Brooch.png",
       "category": "Accessories",
       "type": "Brooch",
-      "path": "Items\\Accessories\\Brooches\\Sapphire Brooch_Boss_hero"
+      "path": "Items\\Accessories\\Brooches\\Sapphire Brooch (Hero)_Boss"
     },
     {
       "enabled": true,
@@ -4551,11 +4599,11 @@
     },
     {
       "enabled": true,
-      "name": "Ancient Monocle",
+      "name": "Ancient Monocle (Hero)",
       "icon": "Ancient Monocle.png",
       "category": "Accessories",
       "type": "Mask",
-      "path": "Items\\Accessories\\Masks\\Ancient Monocle_Boss_hero"
+      "path": "Items\\Accessories\\Masks\\Ancient Monocle (Hero)_Boss"
     },
     {
       "enabled": true,
@@ -4925,6 +4973,14 @@
       "path": "Items\\Accessories\\Masks\\DD1 Squire Head"
     },
     {
+      "enabled": true,
+      "name": "King's Face (Tower)",
+      "icon": "King's Face.png",
+      "category": "Accessories",
+      "type": "Mask",
+      "path": "Items\\Accessories\\Masks\\King's Face (Tower)_9"
+    },
+    {
       "enabled": false,
       "name": "Shroomy Cap",
       "icon": "Shroomy Cap.png",
@@ -5145,7 +5201,7 @@
       "icon": "Fused Clearly Not PPE.png",
       "category": "Accessories",
       "type": "Mask",
-      "path": "Items\\Accessories\\Masks\\Fused Clearly Not PPE_D"
+      "path": "Items\\Accessories\\Masks\\Fused Clearly Not PPE_Fused"
     },
     {
       "enabled": true,
@@ -5337,7 +5393,7 @@
       "icon": "Apprentice Guardian.png",
       "category": "Pets",
       "type": "Pet",
-      "path": "Items\\Pets\\Apprentice Guardian_Uardian_Entitlement"
+      "path": "Items\\Pets\\Apprentice Guardian_Rentice_Guardian_Entitlement"
     },
     {
       "enabled": false,
@@ -5401,7 +5457,7 @@
       "icon": "Huntress Guardian.png",
       "category": "Pets",
       "type": "Pet",
-      "path": "Items\\Pets\\Huntress Guardian_Entitlement"
+      "path": "Items\\Pets\\Huntress Guardian_Huntress_Guardian_Entitlement"
     },
     {
       "enabled": false,
@@ -5441,7 +5497,7 @@
       "icon": "Monk Guardian.png",
       "category": "Pets",
       "type": "Pet",
-      "path": "Items\\Pets\\Monk Guardian_Entitlement"
+      "path": "Items\\Pets\\Monk Guardian_Monk_Guardian_Entitlement"
     },
     {
       "enabled": false,
@@ -5673,7 +5729,7 @@
       "icon": "Demi Demon Lord.png",
       "category": "Pets",
       "type": "Pet",
-      "path": "Items\\Pets\\Demi Demon Lord_LordMini"
+      "path": "Items\\Pets\\Demi Demon Lord_Gear_Pet_DemonLordMini"
     },
     {
       "enabled": true,
@@ -5681,7 +5737,7 @@
       "icon": "Demi Demon Lord.png",
       "category": "Pets",
       "type": "Pet",
-      "path": "Items\\Pets\\Demi Demon Lord_LordMini_Fusion"
+      "path": "Items\\Pets\\Demi Demon Lord_Gear_Pet_DemonLordMini_Fusion"
     },
     {
       "enabled": true,
@@ -5745,7 +5801,7 @@
       "icon": "Baby Dragon.png",
       "category": "Pets",
       "type": "Pet",
-      "path": "Items\\Pets\\Baby Dragon_Fusion"
+      "path": "Items\\Pets\\Baby Dragon_Dragon_Fusion"
     },
     {
       "enabled": true,
@@ -5873,7 +5929,7 @@
       "icon": "Giraffe on a Treadmill.png",
       "category": "Pets",
       "type": "Pet",
-      "path": "Items\\Pets\\Giraffe on a Treadmill_Admill"
+      "path": "Items\\Pets\\Giraffe on a Treadmill_GiraffeOnTreadmill"
     },
     {
       "enabled": true,
@@ -5885,11 +5941,11 @@
     },
     {
       "enabled": true,
-      "name": "Goblin Gearling",
+      "name": "Goblin Gearling (Tower)",
       "icon": "",
       "category": "Pets",
       "type": "Pet",
-      "path": "Items\\Pets\\Goblin Gearling_1"
+      "path": "Items\\Pets\\Goblin Gearling (Tower)_1"
     },
     {
       "enabled": true,
@@ -6109,11 +6165,11 @@
     },
     {
       "enabled": true,
-      "name": "Golden Lycan Prince",
+      "name": "Golden Lycan Prince (Tower)",
       "icon": "Golden Lycan Prince.png",
       "category": "Pets",
       "type": "Pet",
-      "path": "Items\\Pets\\Golden Lycan Prince_2"
+      "path": "Items\\Pets\\Golden Lycan Prince (Tower)_2"
     },
     {
       "enabled": true,
@@ -6377,7 +6433,7 @@
       "icon": "Posion Dart Tower.png",
       "category": "Pets",
       "type": "Pet",
-      "path": "Items\\Pets\\Posion Dart Tower_Fused"
+      "path": "Items\\Pets\\Posion Dart Tower_Tower_Fused"
     },
     {
       "enabled": false,
@@ -6425,7 +6481,7 @@
       "icon": "Chargin' Ramster.png",
       "category": "Pets",
       "type": "Pet",
-      "path": "Items\\Pets\\Chargin' Ramster_Fusion"
+      "path": "Items\\Pets\\Chargin' Ramster_Ramster_Fusion"
     },
     {
       "enabled": true,
@@ -6465,7 +6521,7 @@
       "icon": "Baby Dragon.png",
       "category": "Pets",
       "type": "Pet",
-      "path": "Items\\Pets\\Baby Dragon_Ani"
+      "path": "Items\\Pets\\Baby Dragon_Squire_ani"
     },
     {
       "enabled": true,
@@ -6597,6 +6653,14 @@
     },
     {
       "enabled": true,
+      "name": "Fused Genie Lamp (Tower)",
+      "icon": "Fused Genie Lamp.png",
+      "category": "Pets",
+      "type": "Pet",
+      "path": "Items\\Pets\\Fused Genie Lamp (Tower)"
+    },
+    {
+      "enabled": true,
       "name": "Genie Lamp (Tower)",
       "icon": "Genie Lamp.png",
       "category": "Pets",
@@ -6633,7 +6697,7 @@
       "icon": "",
       "category": "Pets",
       "type": "Pet",
-      "path": "Items\\Pets\\Giraffe on a Treadmill_Admill_Dev_Test"
+      "path": "Items\\Pets\\Giraffe on a Treadmill_GiraffeOnTreadmill_Dev_Test"
     },
     {
       "enabled": false,
@@ -6645,11 +6709,11 @@
     },
     {
       "enabled": true,
-      "name": "Giraffe on a Treadmill",
+      "name": "Giraffe on a Treadmill (Tower)",
       "icon": "Giraffe on a Treadmill.png",
       "category": "Pets",
       "type": "Pet",
-      "path": "Items\\Pets\\Giraffe on a Treadmill_Admill_tower"
+      "path": "Items\\Pets\\Giraffe on a Treadmill (Tower)_GiraffeOnTreadmill"
     },
     {
       "enabled": true,
@@ -6657,7 +6721,7 @@
       "icon": "Giraffe on a Treadmill.png",
       "category": "Pets",
       "type": "Pet",
-      "path": "Items\\Pets\\Giraffe on a Treadmill_Admill_tower_2"
+      "path": "Items\\Pets\\Giraffe on a Treadmill_GiraffeOnTreadmill_tower_2"
     },
     {
       "enabled": true,
@@ -6665,7 +6729,7 @@
       "icon": "Giraffe on a Treadmill.png",
       "category": "Pets",
       "type": "Pet",
-      "path": "Items\\Pets\\Giraffe on a Treadmill_Admill_tower_3"
+      "path": "Items\\Pets\\Giraffe on a Treadmill_GiraffeOnTreadmill_tower_3"
     },
     {
       "enabled": true,
@@ -6673,7 +6737,7 @@
       "icon": "Giraffe on a Treadmill.png",
       "category": "Pets",
       "type": "Pet",
-      "path": "Items\\Pets\\Giraffe on a Treadmill_Admill_tower_4"
+      "path": "Items\\Pets\\Giraffe on a Treadmill_GiraffeOnTreadmill_tower_4"
     },
     {
       "enabled": true,
@@ -6749,11 +6813,11 @@
     },
     {
       "enabled": true,
-      "name": "Steam Robot",
+      "name": "Steam Robot (Tower)",
       "icon": "Steam Robot.png",
       "category": "Pets",
       "type": "Pet",
-      "path": "Items\\Pets\\Steam Robot_Fusion_Tower"
+      "path": "Items\\Pets\\Steam Robot (Tower)_Fusion"
     },
     {
       "enabled": true,
@@ -6785,7 +6849,7 @@
       "icon": "Chargin' Ramster.png",
       "category": "Pets",
       "type": "Pet",
-      "path": "Items\\Pets\\Chargin' Ramster_Mplate"
+      "path": "Items\\Pets\\Chargin' Ramster_MeleeTemplate"
     },
     {
       "enabled": true,
@@ -6801,7 +6865,7 @@
       "icon": "Baby Dragon.png",
       "category": "Pets",
       "type": "Pet",
-      "path": "Items\\Pets\\Baby Dragon_Template"
+      "path": "Items\\Pets\\Baby Dragon_RangedTemplate"
     },
     {
       "enabled": false,
@@ -6813,11 +6877,11 @@
     },
     {
       "enabled": true,
-      "name": "Raging Zeus",
+      "name": "Raging Zeus (Tower)",
       "icon": "Raging Zeus.png",
       "category": "Pets",
       "type": "Pet",
-      "path": "Items\\Pets\\Raging Zeus_Fusion_Tower"
+      "path": "Items\\Pets\\Raging Zeus (Tower)_Fusion"
     },
     {
       "enabled": true,
@@ -6829,27 +6893,19 @@
     },
     {
       "enabled": true,
-      "name": "Demi Demon Lord",
+      "name": "Demi Demon Lord (Tower)",
       "icon": "Demi Demon Lord.png",
       "category": "Pets",
       "type": "Pet",
-      "path": "Items\\Pets\\Demi Demon Lord_LordMini_Fusion_Tower"
+      "path": "Items\\Pets\\Demi Demon Lord (Tower)_Gear_Pet_DemonLordMini_Fusion"
     },
     {
       "enabled": true,
-      "name": "Demi Demon Lord",
+      "name": "Demi Demon Lord (Tower)",
       "icon": "Demi Demon Lord.png",
       "category": "Pets",
       "type": "Pet",
-      "path": "Items\\Pets\\Demi Demon Lord_LordMini_Tower"
-    },
-    {
-      "enabled": true,
-      "name": "Baby Dragon",
-      "icon": "Baby Dragon.png",
-      "category": "Pets",
-      "type": "Pet",
-      "path": "Items\\Pets\\Baby Dragon_Fusion_Tower"
+      "path": "Items\\Pets\\Demi Demon Lord (Tower)_Gear_Pet_DemonLordMini"
     },
     {
       "enabled": true,
@@ -6857,15 +6913,23 @@
       "icon": "Baby Dragon.png",
       "category": "Pets",
       "type": "Pet",
-      "path": "Items\\Pets\\Baby Dragon (Tower)"
+      "path": "Items\\Pets\\Baby Dragon (Tower)_Dragon_Fusion"
     },
     {
       "enabled": true,
-      "name": "Etherian Ancient",
+      "name": "Baby Dragon (Tower)",
+      "icon": "Baby Dragon.png",
+      "category": "Pets",
+      "type": "Pet",
+      "path": "Items\\Pets\\Baby Dragon (Tower)_Dragon"
+    },
+    {
+      "enabled": true,
+      "name": "Etherian Ancient (Tower)",
       "icon": "Etherian Ancient.png",
       "category": "Pets",
       "type": "Pet",
-      "path": "Items\\Pets\\Etherian Ancient_Fusion_Tower"
+      "path": "Items\\Pets\\Etherian Ancient (Tower)_Fusion"
     },
     {
       "enabled": true,
@@ -6877,11 +6941,11 @@
     },
     {
       "enabled": true,
-      "name": "Hippogryph",
+      "name": "Hippogryph (Tower)",
       "icon": "Hippogryph.png",
       "category": "Pets",
       "type": "Pet",
-      "path": "Items\\Pets\\Hippogryph_Fusion_Tower"
+      "path": "Items\\Pets\\Hippogryph (Tower)_Fusion"
     },
     {
       "enabled": true,
@@ -6893,11 +6957,11 @@
     },
     {
       "enabled": true,
-      "name": "Hammel",
+      "name": "Hammel (Tower)",
       "icon": "Hammel.png",
       "category": "Pets",
       "type": "Pet",
-      "path": "Items\\Pets\\Hammel_Rift_Tower"
+      "path": "Items\\Pets\\Hammel (Tower)_Rift"
     },
     {
       "enabled": true,
@@ -6909,11 +6973,11 @@
     },
     {
       "enabled": true,
-      "name": "Happy Hera",
+      "name": "Happy Hera (Tower)",
       "icon": "Happy Hera.png",
       "category": "Pets",
       "type": "Pet",
-      "path": "Items\\Pets\\Happy Hera_Fusion_Tower"
+      "path": "Items\\Pets\\Happy Hera (Tower)_Fusion"
     },
     {
       "enabled": true,
@@ -6925,11 +6989,11 @@
     },
     {
       "enabled": true,
-      "name": "Little Wizard",
+      "name": "Little Wizard (Tower)",
       "icon": "Little Wizard.png",
       "category": "Pets",
       "type": "Pet",
-      "path": "Items\\Pets\\Little Wizard_Fusion_Tower"
+      "path": "Items\\Pets\\Little Wizard (Tower)_Fusion"
     },
     {
       "enabled": true,
@@ -6941,11 +7005,11 @@
     },
     {
       "enabled": true,
-      "name": "Lycan Prince",
+      "name": "Lycan Prince (Tower)",
       "icon": "Lycan Prince.png",
       "category": "Pets",
       "type": "Pet",
-      "path": "Items\\Pets\\Lycan Prince_Fusion_Tower"
+      "path": "Items\\Pets\\Lycan Prince (Tower)_Fusion"
     },
     {
       "enabled": true,
@@ -6957,11 +7021,11 @@
     },
     {
       "enabled": true,
-      "name": "Mega Chicken",
+      "name": "Mega Chicken (Tower)",
       "icon": "Mega Chicken.png",
       "category": "Pets",
       "type": "Pet",
-      "path": "Items\\Pets\\Mega Chicken_Fusion_Tower"
+      "path": "Items\\Pets\\Mega Chicken (Tower)_Fusion"
     },
     {
       "enabled": true,
@@ -6973,11 +7037,11 @@
     },
     {
       "enabled": true,
-      "name": "Mini Ogre",
+      "name": "Mini Ogre (Tower)",
       "icon": "Mini Ogre.png",
       "category": "Pets",
       "type": "Pet",
-      "path": "Items\\Pets\\Mini Ogre_Fusion_tower"
+      "path": "Items\\Pets\\Mini Ogre (Tower)_Fusion"
     },
     {
       "enabled": true,
@@ -6989,11 +7053,11 @@
     },
     {
       "enabled": true,
-      "name": "Monkey King",
+      "name": "Monkey King (Tower)",
       "icon": "Monkey King.png",
       "category": "Pets",
       "type": "Pet",
-      "path": "Items\\Pets\\Monkey King_Fusion_Tower"
+      "path": "Items\\Pets\\Monkey King (Tower)_Fusion"
     },
     {
       "enabled": true,
@@ -7005,11 +7069,11 @@
     },
     {
       "enabled": true,
-      "name": "Paddle Ball",
+      "name": "Paddle Ball (Tower)",
       "icon": "Paddle Ball.png",
       "category": "Pets",
       "type": "Pet",
-      "path": "Items\\Pets\\Paddle Ball_Fusion_Tower"
+      "path": "Items\\Pets\\Paddle Ball (Tower)_Fusion"
     },
     {
       "enabled": true,
@@ -7021,11 +7085,11 @@
     },
     {
       "enabled": true,
-      "name": "Penguin",
+      "name": "Penguin (Tower)",
       "icon": "Penguin.png",
       "category": "Pets",
       "type": "Pet",
-      "path": "Items\\Pets\\Penguin_Fusion_tower"
+      "path": "Items\\Pets\\Penguin (Tower)_Fusion"
     },
     {
       "enabled": true,
@@ -7037,11 +7101,11 @@
     },
     {
       "enabled": true,
-      "name": "Chargin' Ramster",
+      "name": "Chargin' Ramster (Tower)",
       "icon": "Chargin' Ramster.png",
       "category": "Pets",
       "type": "Pet",
-      "path": "Items\\Pets\\Chargin' Ramster_Fusion_Tower"
+      "path": "Items\\Pets\\Chargin' Ramster (Tower)_Ramster_Fusion"
     },
     {
       "enabled": true,
@@ -7049,7 +7113,7 @@
       "icon": "Chargin' Ramster.png",
       "category": "Pets",
       "type": "Pet",
-      "path": "Items\\Pets\\Chargin' Ramster (Tower)"
+      "path": "Items\\Pets\\Chargin' Ramster (Tower)_Ramster"
     },
     {
       "enabled": true,
@@ -7069,11 +7133,11 @@
     },
     {
       "enabled": true,
-      "name": "Zephyr",
+      "name": "Zephyr (Tower)",
       "icon": "Zephyr.png",
       "category": "Pets",
       "type": "Pet",
-      "path": "Items\\Pets\\Zephyr_Fusion_Tower"
+      "path": "Items\\Pets\\Zephyr (Tower)_Fusion"
     },
     {
       "enabled": true,

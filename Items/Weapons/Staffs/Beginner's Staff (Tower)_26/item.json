@@ -1,0 +1,13 @@
+{
+  "name": "Beginner's Staff (Tower)",
+  "description": "",
+  "icon": "Beginner's Staff.png",
+  "category": "Weapons",
+  "type": "Staff",
+  "stats": [
+    "1 Vitality Scalar",
+    "1 Attack Scalar",
+    "1 Ability Scalar"
+  ],
+  "dropLocations": []
+}

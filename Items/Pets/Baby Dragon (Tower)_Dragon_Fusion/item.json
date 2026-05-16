@@ -1,0 +1,23 @@
+{
+  "name": "Baby Dragon (Tower)",
+  "description": "Projectiles Explode, dealing damage to nearby enemies. Additionally, It increases Cast Rate by 30%.",
+  "icon": "Baby Dragon.png",
+  "category": "Pets",
+  "type": "Pet",
+  "stats": [
+    "1 Def. Rate Scalar",
+    "1 Power Scalar",
+    "1 Fortify Scalar"
+  ],
+  "elements": [
+    "100% Fusion"
+  ],
+  "dropLocations": [
+    "The Summit, PureStrategy, Easy, Wave 15, Rifted",
+    "The Summit, PureStrategy, Medium, Wave 15, Rifted",
+    "The Summit, PureStrategy, Hard, Wave 15, Rifted",
+    "The Summit, PureStrategy, Insane, Wave 15, Rifted",
+    "The Summit, PureStrategy, Nightmare, Wave 15, Rifted",
+    "The Summit, PureStrategy, Massacre, Wave 15, Rifted"
+  ]
+}

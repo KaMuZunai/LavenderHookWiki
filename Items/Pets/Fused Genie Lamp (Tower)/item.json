@@ -1,0 +1,30 @@
+{
+  "name": "Fused Genie Lamp (Tower)",
+  "description": "Applies a Random Buff/Debuff Effect for a Random Duration",
+  "icon": "Fused Genie Lamp.png",
+  "category": "Pets",
+  "type": "Pet",
+  "stats": [
+    "1 Def. Rate Scalar",
+    "1 Fortify Scalar",
+    "0.8 Power Scalar"
+  ],
+  "elements": [
+    "100% Fusion"
+  ],
+  "dropLocations": [
+    "Halloween Ramparts, PureStrategy, Massacre, Wave 25, Rifted",
+    "The Lost Metropolis, PureStrategy, Easy, Wave 15, Rifted",
+    "The Lost Metropolis, PureStrategy, Easy, Wave 25, Rifted",
+    "The Lost Metropolis, PureStrategy, Medium, Wave 15, Rifted",
+    "The Lost Metropolis, PureStrategy, Medium, Wave 25, Rifted",
+    "The Lost Metropolis, PureStrategy, Hard, Wave 15, Rifted",
+    "The Lost Metropolis, PureStrategy, Hard, Wave 25, Rifted",
+    "The Lost Metropolis, PureStrategy, Insane, Wave 15, Rifted",
+    "The Lost Metropolis, PureStrategy, Insane, Wave 25, Rifted",
+    "The Lost Metropolis, PureStrategy, Nightmare, Wave 15, Rifted",
+    "The Lost Metropolis, PureStrategy, Nightmare, Wave 25, Rifted",
+    "The Lost Metropolis, PureStrategy, Massacre, Wave 15, Rifted",
+    "The Lost Metropolis, PureStrategy, Massacre, Wave 25, Rifted"
+  ]
+}

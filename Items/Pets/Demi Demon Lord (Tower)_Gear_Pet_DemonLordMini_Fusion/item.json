@@ -1,0 +1,29 @@
+{
+  "name": "Demi Demon Lord (Tower)",
+  "description": "Attacks at all ranges. Additionally, It increases VERSATILITY by 15%.",
+  "icon": "Demi Demon Lord.png",
+  "category": "Pets",
+  "type": "Pet",
+  "stats": [
+    "1 Fortify Scalar",
+    "1 Power Scalar",
+    "1 Def. Rate Scalar"
+  ],
+  "elements": [
+    "100% Fusion"
+  ],
+  "dropLocations": [
+    "Foundries And Forges, PureStrategy, Easy, Wave 15, Rifted",
+    "Foundries And Forges, PureStrategy, Easy, Wave 25, Rifted",
+    "Foundries And Forges, PureStrategy, Medium, Wave 15, Rifted",
+    "Foundries And Forges, PureStrategy, Medium, Wave 25, Rifted",
+    "Foundries And Forges, PureStrategy, Hard, Wave 15, Rifted",
+    "Foundries And Forges, PureStrategy, Hard, Wave 25, Rifted",
+    "Foundries And Forges, PureStrategy, Insane, Wave 15, Rifted",
+    "Foundries And Forges, PureStrategy, Insane, Wave 25, Rifted",
+    "Foundries And Forges, PureStrategy, Nightmare, Wave 15, Rifted",
+    "Foundries And Forges, PureStrategy, Nightmare, Wave 25, Rifted",
+    "Foundries And Forges, PureStrategy, Massacre, Wave 15, Rifted",
+    "Foundries And Forges, PureStrategy, Massacre, Wave 25, Rifted"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Mercenary's Blade (Tower)",
+  "description": "",
+  "icon": "Mercenary's Blade.png",
+  "category": "Weapons",
+  "type": "Sword",
+  "stats": [
+    "1 Vitality Scalar",
+    "1 Attack Scalar",
+    "1 Ability Scalar"
+  ],
+  "dropLocations": []
+}
