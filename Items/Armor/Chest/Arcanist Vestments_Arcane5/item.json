@@ -1,5 +1,5 @@
 {
-  "name": "Arcanist Vestments",
+  "name": "Arcanist Vestments (Arcane 5)",
   "description": "",
   "icon": "Arcanist Vestments.png",
   "category": "Armor",
@@ -9,6 +9,7 @@
     "Arcanist"
   ],
   "stats": [
+    "Fused Defense 5",
     "1.5 Power Scalar",
     "1.5 Fortify Scalar",
     "1.5 Range Scalar",
